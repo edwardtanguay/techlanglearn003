@@ -45,11 +45,13 @@
 
 ### DOCKER ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+### DOCKER COMPOSE ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+### ITERM ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 ### INTELLIJ ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-	- docker compose
-	- iterm
 	- mac
 	- oh-my-zsh
 	- powerlevel 10K
