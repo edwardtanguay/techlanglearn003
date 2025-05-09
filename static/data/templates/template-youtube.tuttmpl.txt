@@ -1,0 +1,23 @@
+# @@title
+
+@@url
+
+- duration: @@duration
+- language: @@language
+- topics: @@topics
+- rank: @@rank
+- description: @@description
+- year: @@year
+
+## watchlog
+
+nnn - 00:00
+
+## notes
+
+- nnn
+
+## VOCAB - SPANISH
+
+```
+```

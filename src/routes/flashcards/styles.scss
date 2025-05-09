@@ -1,0 +1,48 @@
+.area_flashcard {
+	.front-lang-es {
+		border-bottom: 3px solid rgb(219, 0, 0);
+	}
+	.front-lang-it {
+		border-bottom: 3px solid rgb(14, 99, 14);
+	}
+	.front-lang-fr {
+		border-bottom: 3px solid navy;
+	}
+	.front-lang-nl {
+		border-bottom: 3px solid goldenrod;
+	}
+	.front-lang-pl {
+		border-bottom: 3px solid rgb(0, 183, 196);
+	}
+	.front-lang-de {
+		border-bottom: 3px solid rgb(165, 73, 73);
+	}
+	.back {
+		background-color: #fff;
+		border-left: 1px solid #bbb;
+		border-right: 1px solid #bbb;
+		border-bottom: 1px solid #bbb;
+
+		input {
+			border: 1px solid #ccc;
+		}
+	}
+
+	.back-lang-es {
+		color: red;
+	}
+	
+	.back-lang-it {
+		color: green;
+	}
+
+	.back-lang-fr {
+		color: navy;
+	}
+	.back-lang-pl {
+		color: rgb(0, 183, 196);
+	}
+	.back-lang-de {
+		color: rgb(165, 73, 73)
+	}
+}

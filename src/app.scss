@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background-color: #eee;
+}
+
+nav {
+	a.active {
+		font-weight: bold;
+	}
+}
+
+h1.main {
+	font-size: 1.8rem;
+}
+
+.markdown-tutorial {
+	h1 {
+		font-size: 1.4rem;
+		background-color: rgb(240, 189, 160);
+		margin-top: 1rem;
+		padding: 0 0.5rem;
+	}
+
+	h2 {
+		font-size: 1.2;
+		color: rgb(0, 34, 128);
+		background-color: rgb(213, 216, 247);
+		border: 1px solid rgb(168, 163, 238);
+		font-weight: bold;
+		font-family: Arial, Helvetica, sans-serif;
+		width: fit-content;
+		padding: 0 0.3rem;
+		border-radius: 0.3rem;
+		margin-top: 0.7rem;
+	}
+
+	ul {
+		list-style: disc;
+		margin-left: 1.5rem;
+	}
+
+	pre {
+		background-color: #ddd;
+		width: fit-content;
+		min-width: 35rem;
+		font-size: 0.8rem;
+		margin-top: 0.2rem;
+		padding: 0.5rem;
+		border-radius: 0.3rem;
+		margin-left: 1rem;
+		line-height: 0.9rem;
+		code {
+			color: black;
+			background-color: #ddd;
+			font-size: 0.7rem;
+			padding: 0.1rem 0;
+			border-radius: 0.1rem;
+		}
+	}
+
+	code {
+		color: black;
+		background-color: #ddd;
+		font-size: 0.8rem;
+		padding: 0.1rem 0.4rem;
+		border-radius: 0.1rem;
+	}
+
+	a {
+		text-decoration: underline;
+	}
+}

@@ -1,0 +1,19 @@
+# @@title
+
+@@url
+
+- duration: @@duration
+- language: @@language
+- topics: @@topics
+- rank: @@rank
+- description: @@description
+- year: @@year
+
+## TITLE, TIME, nnn
+
+- nnn
+
+## VOCAB - SPANISH
+
+```
+```
