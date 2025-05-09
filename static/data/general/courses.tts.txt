@@ -4,6 +4,7 @@
 
 
 === Learn Tech 2025 Notes
+=== frontend
 
 ### SEO ######################################################
 		- en, 2024, good overview of technical SEO, https://www.linkedin.com/learning/technical-seo-24379762
@@ -32,7 +33,10 @@
 ### WEBPACK ######################################################
 		- fr, 2024 https://www.linkedin.com/learning/l-essentiel-de-webpack-5
 
-- BACKEND
+
+
+
+- backend
 
 ### CURL ######################################################
 		- en, 2020, 15 minutes basics, https://www.youtube.com/watch?v=APtOavXTv5M
@@ -40,43 +44,82 @@
 ### INTELLIJ ######################################################
 >>create>>intellij, java, backend25;en;02:10:00;2021;4.989;https://www.linkedin.com/learning/intellij-idea-community-edition-essential-training-2;IntelliJ IDEA Community Edition Essential Training;from 2021 but quite thorough, Java based
 
-
-
-
 ### DOCKER ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
 ### DOCKER COMPOSE ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
 ### ITERM ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
-### INTELLIJ ######################################################
+### MAC ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-	- mac
-	- oh-my-zsh
-	- powerlevel 10K
-	- make
-	- bruno (api testing)
-	- curl
-	- dbeaver
-	- direnv
-	- grep
-	- hashiCorp Nomad CLI (job scheduler)
-	- HashiCorp Vault (secret management)
-	- iTerm2
-	- vim
-	- Git
-	- Orbstack
-	- pgAdmin
-	- poetry (Pythong dependency management)
-	- Pyenv (Python version management)
-	- wget
-	- zed
-	- ssh
+
+### OH-MY-ZSH ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### POWERLEVEL 10K ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### MAKE ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### BRUNO (API TESTING) ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### CURL ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### DBEAVER ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### DIRENV ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### GREP ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### HASHICORP NOMAD CLI (JOB SCHEDULER) ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### HASHICORP VAULT (SECRET MANAGEMENT) ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### ITERM2 ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### VIM ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;https://www.youtube.com/watch?v=qZO9A5F6BZs;TITLE;DESC
+
+### GIT ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### ORBSTACK ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### PGADMIN ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### POETRY (PYTHON DEPENDENCY MANAGEMENT) ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### PYENV (PYTHON VERSION MANAGEMENT) ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### WGET ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### ZED ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### SSH ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 
--vim
-	- https://www.youtube.com/watch?v=qZO9A5F6BZs
+
+
+
 
 === DPOD TECH
 x Typescript
