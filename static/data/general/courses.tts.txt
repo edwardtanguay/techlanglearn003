@@ -14,7 +14,7 @@
 		- en, 2023, slides-only but good basics, https://www.linkedin.com/learning/accessibility-first-design
 		- en, 2023, WCAG 2.2 At A Glance, 7 videos, https://www.youtube.com/watch?v=JIuWM3iFPVM&list=PLwDZg2kBRS1x6xwoMcI3L6-CBCLhwyI-N&index=1
 
-### BROWSERSTACK ######################################################
+x ### BROWSERSTACK ######################################################
 >>create>>browserstack, frontend25;en;02:00:00;2021;3.7;https://www.youtube.com/watch?v=gf-2lvXGD48&list=PL1vH6dHT3H7rtHbusxWfN8oksYqDo8CwK&index=1;BrowserStack Product Tutorials;watch these at 2x speed for an overview, uses Selenium I think
  
 ### OWASP ######################################################
@@ -38,17 +38,18 @@
 
 - backend
 
-### CURL ######################################################
+x ### CURL ######################################################
 >>create>>curl,backend25;en;00:15:00;2020;4.89;https://www.youtube.com/watch?v=APtOavXTv5M;cURL - The only HTTP client you'll ever need;15 minutes basics of curl
 
-### INTELLIJ ######################################################
+x ### INTELLIJ ######################################################
 >>create>>intellij, java, backend25;en;02:10:00;2021;4.989;https://www.linkedin.com/learning/intellij-idea-community-edition-essential-training-2;IntelliJ IDEA Community Edition Essential Training;from 2021 but quite thorough, Java based
 
-### DOCKER ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+x ### DOCKER ######################################################
+>>create>>docker, backend25;fr;03:14:00;2023;4.96;https://www.linkedin.com/learning/l-essentiel-de-docker; L'essentiel de Docker ;solid, long course on Docker, French, professional trainer
+>>create>>docker, backend25;fr;01:48:00;2023;4.95;https://www.linkedin.com/learning/docker-avance; Docker avancé ;advanced course on Docker, French, professional trainer
 
-### DOCKER COMPOSE ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+x ### DOCKER COMPOSE ######################################################
+>>create>>docker,backend25;en;00:36:00;2022;4.97;https://www.linkedin.com/learning/learning-docker-compose;Learning Docker Compose;short, basic course on Docker compose, nice voice
 
 ### ITERM ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC

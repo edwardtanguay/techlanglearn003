@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/docker-esencial-23119241
 
 - duration: 02:34:00
 - language: es
-- topics: docker
+- topics: docker,backend25
 - rank: 4.31
 - description: Spanish, in depth Docker
 - year: 2024
