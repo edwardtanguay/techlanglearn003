@@ -4,15 +4,22 @@
 
 
 === Learn Tech 2025 Notes
-	- SEO
+
+### SEO ######################################################
 		- en, 2024, good overview of technical SEO, https://www.linkedin.com/learning/technical-seo-24379762
-	- a11y/WCAG
+
+### A11Y/WCAG ######################################################
 		- en, 2024, Kyle: The Only Accessibility Video You Will Ever Need, https://www.youtube.com/watch?v=2oiBKSjOOFE
 		- en, 2023, slides-only but good basics, https://www.linkedin.com/learning/accessibility-first-design
 		- en, 2023, WCAG 2.2 At A Glance, 7 videos, https://www.youtube.com/watch?v=JIuWM3iFPVM&list=PLwDZg2kBRS1x6xwoMcI3L6-CBCLhwyI-N&index=1
-	- OWASP
+
+### BROWSERSTACK ######################################################
+>>create>>browserstack, frontend25;en;02:00:00;2021;3.7;https://www.youtube.com/watch?v=gf-2lvXGD48&list=PL1vH6dHT3H7rtHbusxWfN8oksYqDo8CwK&index=1;BrowserStack Product Tutorials;watch these at 2x speed for an overview, uses Selenium I think
+ 
+### OWASP ######################################################
 		- en, 2023, high overview of the most common attacks, https://www.youtube.com/watch?v=hryt-rCLJUA
-	- advanced CSS
+
+### ADVANCED CSS ######################################################
 		- fr, 2023 https://www.linkedin.com/learning/css-maitriser-les-flexbox
 		- fr, 2022 https://www.linkedin.com/learning/la-mise-en-page-css-combiner-les-flex-et-les-grids
 		- fr, 2023 https://www.linkedin.com/learning/css-animations-et-transitions-22819867
@@ -21,13 +28,19 @@
 		- en, 2024 https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327
 		- en, 2022 https://www.linkedin.com/learning/level-up-css-layout
 		- en, 2022 https://www.linkedin.com/learning/css-tips
-	- webpack
+
+### WEBPACK ######################################################
 		- fr, 2024 https://www.linkedin.com/learning/l-essentiel-de-webpack-5
+
 - BACKEND
-	- curl
+
+### CURL ######################################################
 		- en, 2020, 15 minutes basics, https://www.youtube.com/watch?v=APtOavXTv5M
-	- intellij
-		- en, 2021, long course, https://www.linkedin.com/learning/intellij-idea-community-edition-essential-training-2
+
+### IntelliJ ######################################################
+>>create>>intellij, java, backend25;en;02:10:00;2021;4.989;https://www.linkedin.com/learning/intellij-idea-community-edition-essential-training-2;IntelliJ IDEA Community Edition Essential Training;from 2021 but quite thorough, Java based
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 	- docker
 	- docker compose
 	- iterm
@@ -51,9 +64,11 @@
 	- Pyenv (Python version management)
 	- wget
 	- zed
+	- ssh
 
 
-
+-vim
+	- https://www.youtube.com/watch?v=qZO9A5F6BZs
 
 === DPOD TECH
 x Typescript
