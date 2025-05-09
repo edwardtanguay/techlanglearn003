@@ -39,7 +39,7 @@
 - backend
 
 ### CURL ######################################################
-		- en, 2020, 15 minutes basics, https://www.youtube.com/watch?v=APtOavXTv5M
+>>create>>curl,backend25;en;00:15:00;2020;4.89;https://www.youtube.com/watch?v=APtOavXTv5M;cURL - The only HTTP client you'll ever need;15 minutes basics of curl
 
 ### INTELLIJ ######################################################
 >>create>>intellij, java, backend25;en;02:10:00;2021;4.989;https://www.linkedin.com/learning/intellij-idea-community-edition-essential-training-2;IntelliJ IDEA Community Edition Essential Training;from 2021 but quite thorough, Java based
