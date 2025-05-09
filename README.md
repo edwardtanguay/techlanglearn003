@@ -52,3 +52,4 @@ VITE_SITE_LOCATION=dev
 ## TESTING
 
 - change from windows
+- change from ubuntu
