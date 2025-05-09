@@ -6,7 +6,7 @@ https://www.linkedin.com/learning/l-essentiel-des-css-2
 - language: fr
 - topics: css
 - rank: 4.81
-- description: a very up-to-date and solid course (6+ hours) on CSS, in French, nice accent (Damian Bruyndonckx), responsive, etc.
+- description: (TOO BASIC) a very up-to-date and solid course (6+ hours) on CSS, in French, nice accent (Damian Bruyndonckx), responsive, etc.
 - year: 2024
 
 ## TITLE, TIME, nnn

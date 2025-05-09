@@ -2,6 +2,59 @@
 
 - good teacher, Python, C#: https://www.linkedin.com/learning/instructors/joe-marini
 
+
+=== Learn Tech 2025 Notes
+	- SEO
+		- en, 2024, good overview of technical SEO, https://www.linkedin.com/learning/technical-seo-24379762
+	- a11y/WCAG
+		- en, 2024, Kyle: The Only Accessibility Video You Will Ever Need, https://www.youtube.com/watch?v=2oiBKSjOOFE
+		- en, 2023, slides-only but good basics, https://www.linkedin.com/learning/accessibility-first-design
+		- en, 2023, WCAG 2.2 At A Glance, 7 videos, https://www.youtube.com/watch?v=JIuWM3iFPVM&list=PLwDZg2kBRS1x6xwoMcI3L6-CBCLhwyI-N&index=1
+	- OWASP
+		- en, 2023, high overview of the most common attacks, https://www.youtube.com/watch?v=hryt-rCLJUA
+	- advanced CSS
+		- fr, 2023 https://www.linkedin.com/learning/css-maitriser-les-flexbox
+		- fr, 2022 https://www.linkedin.com/learning/la-mise-en-page-css-combiner-les-flex-et-les-grids
+		- fr, 2023 https://www.linkedin.com/learning/css-animations-et-transitions-22819867
+		- fr, 2023 https://www.linkedin.com/learning/css-apprendre-le-grid-layout
+		- en, 2025 https://www.linkedin.com/learning/advanced-css-media-queries
+		- en, 2024 https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327
+		- en, 2022 https://www.linkedin.com/learning/level-up-css-layout
+		- en, 2022 https://www.linkedin.com/learning/css-tips
+	- webpack
+		- fr, 2024 https://www.linkedin.com/learning/l-essentiel-de-webpack-5
+- BACKEND
+	- curl
+		- en, 2020, 15 minutes basics, https://www.youtube.com/watch?v=APtOavXTv5M
+	- intellij
+		- en, 2021, long course, https://www.linkedin.com/learning/intellij-idea-community-edition-essential-training-2
+	- docker
+	- docker compose
+	- iterm
+	- mac
+	- oh-my-zsh
+	- powerlevel 10K
+	- make
+	- bruno (api testing)
+	- curl
+	- dbeaver
+	- direnv
+	- grep
+	- hashiCorp Nomad CLI (job scheduler)
+	- HashiCorp Vault (secret management)
+	- iTerm2
+	- vim
+	- Git
+	- Orbstack
+	- pgAdmin
+	- poetry (Pythong dependency management)
+	- Pyenv (Python version management)
+	- wget
+	- zed
+
+
+
+
 === DPOD TECH
 x Typescript
 x Go
