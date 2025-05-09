@@ -117,7 +117,14 @@ x ### DOCKER COMPOSE ######################################################
 ### SSH ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
+### MAKE ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
+### MISE EN PLACE ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+### PGADMIN ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 
 
