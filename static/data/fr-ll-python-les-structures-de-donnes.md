@@ -10,7 +10,7 @@ https://www.linkedin.com/learning/python-les-structures-de-donnees
 - year: 2016
 - status: started
 
-## Bienvenue dans « Python : Les structures de données », 1:05, 2025-05-07 
+## Bienvenue dans « Python : Les structures de données », 1:05, 2025-05-07
 
 - talks about the types he'll cover
 
@@ -18,12 +18,15 @@ https://www.linkedin.com/learning/python-les-structures-de-donnees
 
 - another intro
 
-##  Se servir des fichiers d'exercice , 0:53, 2025-05-07
+## Se servir des fichiers d'exercice , 0:53, 2025-05-07
 
 - explained exercises
 
-##  Importer un CSV dans une liste, 6:54, nnn
+## Importer un CSV dans une liste, 6:54, 2025-05-09
 
+- used "csv" to read a csv file, easy
+
+## Importer avec le module Codecs , 7:59, nnn
 
 ## VOCAB - FRENCH
 

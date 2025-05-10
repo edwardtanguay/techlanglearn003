@@ -52,7 +52,10 @@ x ### DOCKER COMPOSE ######################################################
 >>create>>docker,backend25;en;00:36:00;2022;4.97;https://www.linkedin.com/learning/learning-docker-compose;Learning Docker Compose;short, basic course on Docker compose, nice voice
 
 ### ITERM ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>create>>iterm, mac, backend25;de;00:10:09;2022;4.88;https://www.youtube.com/watch?v=ZcVdpkSako4;Das beste Terminal für macOS;short intro to iterm (same as iterm2)
+
+### REACT 19 ######################################################
+>>create>>react, frontend25;en;00:08:41;2024;4.79;https://www.youtube.com/watch?v=v07gXY6ESEo;Kyle: NEW React 19 Changes Are Amazing;quick overview of React 19
 
 ### MAC ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
