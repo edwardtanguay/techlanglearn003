@@ -58,13 +58,13 @@ x ### DOCKER COMPOSE ######################################################
 >>create>>react, frontend25;en;00:08:41;2024;4.79;https://www.youtube.com/watch?v=v07gXY6ESEo;Kyle: NEW React 19 Changes Are Amazing;quick overview of React 19
 
 ### MAC ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>create>>mac,backend25;en;00:08:44;2024;4.82;https://www.youtube.com/watch?v=glEIACnAB70;My Mac Coding Setup (Full Stack Web Dev + Mobile App Dev);quick and good tips (Snapper, etc.)
 
 ### OH-MY-ZSH ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>create>>mac, backend25;en;00:10:41;2022;4.94;https://www.youtube.com/watch?v=CF1tMjvHDRA;How To Make Your Boring Mac Terminal So Much Better;more than oh-my-zsh but good
 
 ### POWERLEVEL 10K ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>create>>mac, backend25;en;00:20:09;2022;4.979;https://www.youtube.com/watch?v=9-l8SX8Bs7c;Powerlevel10k;twenty minutes of Powerlevel10k and environment
 
 ### MAKE ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
