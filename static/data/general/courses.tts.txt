@@ -67,7 +67,8 @@ x ### DOCKER COMPOSE ######################################################
 >>create>>mac, backend25;en;00:20:09;2022;4.979;https://www.youtube.com/watch?v=9-l8SX8Bs7c;Powerlevel10k;twenty minutes of Powerlevel10k and environment
 
 ### MAKE ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>create>>make, clanguage, backend25;en;00:09:23;2015;4.97;https://www.youtube.com/watch?v=_r7i5X0rXJk;How to Create a Simple Makefile - Introduction to Makefiles;simple, take before C course in French
+>>create>>clanguage, backend25;fr;07:53:00;2018;4.58;https://www.linkedin.com/learning/l-essentiel-du-langage-c;L'essentiel du langage C;super long French course, professional, in detail, C retro
 
 ### BRUNO (API TESTING) ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
