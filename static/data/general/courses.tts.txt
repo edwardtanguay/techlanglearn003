@@ -37,17 +37,17 @@
 
 - backend
 
-x ### CURL ######################################################
+### CURL ######################################################
 >>create>>curl,backend25;en;00:15:00;2020;4.89;https://www.youtube.com/watch?v=APtOavXTv5M;cURL - The only HTTP client you'll ever need;15 minutes basics of curl
 
-x ### INTELLIJ ######################################################
+### INTELLIJ ######################################################
 >>create>>intellij, java, backend25;en;02:10:00;2021;4.989;https://www.linkedin.com/learning/intellij-idea-community-edition-essential-training-2;IntelliJ IDEA Community Edition Essential Training;from 2021 but quite thorough, Java based
 
-x ### DOCKER ######################################################
+### DOCKER ######################################################
 >>create>>docker, backend25;fr;03:14:00;2023;4.96;https://www.linkedin.com/learning/l-essentiel-de-docker; L'essentiel de Docker ;solid, long course on Docker, French, professional trainer
 >>create>>docker, backend25;fr;01:48:00;2023;4.95;https://www.linkedin.com/learning/docker-avance; Docker avancé ;advanced course on Docker, French, professional trainer
 
-x ### DOCKER COMPOSE ######################################################
+### DOCKER COMPOSE ######################################################
 >>create>>docker,backend25;en;00:36:00;2022;4.97;https://www.linkedin.com/learning/learning-docker-compose;Learning Docker Compose;short, basic course on Docker compose, nice voice
 
 ### ITERM ######################################################
