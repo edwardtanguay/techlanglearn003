@@ -7,18 +7,18 @@
 === frontend
 
 ### SEO ######################################################
-		- en, 2024, good overview of technical SEO, https://www.linkedin.com/learning/technical-seo-24379762
+>>create>>seo, frontend25;en;01:11:00;2024;4.47;https://www.linkedin.com/learning/technical-seo-24379762;Technical SEO;good overview of technical SEO
 
 ### A11Y/WCAG ######################################################
-		- en, 2024, Kyle: The Only Accessibility Video You Will Ever Need, https://www.youtube.com/watch?v=2oiBKSjOOFE
-		- en, 2023, slides-only but good basics, https://www.linkedin.com/learning/accessibility-first-design
-		- en, 2023, WCAG 2.2 At A Glance, 7 videos, https://www.youtube.com/watch?v=JIuWM3iFPVM&list=PLwDZg2kBRS1x6xwoMcI3L6-CBCLhwyI-N&index=1
+>>create>>a11y, frontend25;en;00:32:34;2024;4.97;https://www.youtube.com/watch?v=2oiBKSjOOFE;Kyle: The Only Accessibility Video You Will Ever Need;classic Kyle video, good overview of accessibility and recent
+>>create>>a11y, frontend25;en;01:24:00;2023;4.96;https://www.linkedin.com/learning/accessibility-first-design; Accessibility-First Design ; more high-level slides-only but good basics
+>>create>>wcag, frontend25;en;00:27:00;2023;4.89;https://www.youtube.com/watch?v=JIuWM3iFPVM&list=PLwDZg2kBRS1x6xwoMcI3L6-CBCLhwyI-N&index=2;WCAG 2.2 At A Glance - 3.2.6 Consistent Help (Level A); 7 videos general overview, good base to start
 
-x ### BROWSERSTACK ######################################################
+### BROWSERSTACK ######################################################
 >>create>>browserstack, frontend25;en;02:00:00;2021;3.7;https://www.youtube.com/watch?v=gf-2lvXGD48&list=PL1vH6dHT3H7rtHbusxWfN8oksYqDo8CwK&index=1;BrowserStack Product Tutorials;watch these at 2x speed for an overview, uses Selenium I think
  
 ### OWASP ######################################################
-		- en, 2023, high overview of the most common attacks, https://www.youtube.com/watch?v=hryt-rCLJUA
+>>create>>owasp, frontend25;en;00:08:50;2021;4.88;https://www.youtube.com/watch?v=hryt-rCLJUA; OWASP Top 10 2021 - The List and How You Should Use It ;high overview of the most common attacks
 
 ### ADVANCED CSS ######################################################
 		- fr, 2023 https://www.linkedin.com/learning/css-maitriser-les-flexbox
@@ -29,9 +29,18 @@ x ### BROWSERSTACK ######################################################
 		- en, 2024 https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327
 		- en, 2022 https://www.linkedin.com/learning/level-up-css-layout
 		- en, 2022 https://www.linkedin.com/learning/css-tips
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 ### WEBPACK ######################################################
 		- fr, 2024 https://www.linkedin.com/learning/l-essentiel-de-webpack-5
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 
 
@@ -149,7 +158,7 @@ https://www.youtube.com/watch?v=BOGWfATch-g eight minutes of a background to mis
 https://www.youtube.com/watch?v=2EB8siO-_OM&list=PLCTHcU1KoD98IeuVcqJ2rt1FNytfR_C90 long playlist of setting up PyCharm for Python, 4.992
 
 
-- add all Scott Simpson videos: https://www.linkedin.com/learning/instructors/scott-simpson
+>>create>>bash, dpdoing;en;02:26:00;2022;4.92;https://www.linkedin.com/learning/learning-bash-scripting-17063287;Learning Bash Scripting; Scott Simpson long course
 
 
 
