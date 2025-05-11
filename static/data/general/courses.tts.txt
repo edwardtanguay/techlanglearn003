@@ -71,31 +71,35 @@ x ### DOCKER COMPOSE ######################################################
 >>create>>clanguage, backend25;fr;07:53:00;2018;4.58;https://www.linkedin.com/learning/l-essentiel-du-langage-c;L'essentiel du langage C;super long French course, professional, in detail, C retro
 
 ### BRUNO (API TESTING) ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>create>>bruno, backend25;en;00:03:49;2024;4.9995;https://www.youtube.com/watch?v=FXckKHtZo4o;The BEST API Client - Open-Source & Git-friendly (Bruno);short and simply intro to Bruno
 
 ### CURL ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>create>>curl, backend25;en;00:14:41;2017;4.992;https://www.youtube.com/watch?v=7XUibDYw4mc;Basic cURL Tutorial;goes through the basics
 
 ### DBEAVER ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>create>>dbeaver, backend25;en;00:15:49;2022;4.58;https://www.youtube.com/watch?v=LEx96-CkB1Q;DBeaver Tutorial - How to Use DBeaver ;watch at 2x speed for overview
 
 ### DIRENV ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>create>>direnv, backend25;en;00:11:15;2024;4.998;https://www.youtube.com/watch?v=udezempDBVQ;I'm never using .env files ever again;direnv by someone who really likes it
 
 ### GREP ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+https://www.linkedin.com/learning/bash-patterns-and-regular-expressions
 
 ### HASHICORP NOMAD CLI (JOB SCHEDULER) ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+https://www.youtube.com/watch?v=j6CZ5nJ1O8Q good overview from someone who uses it
+https://www.youtube.com/watch?v=mWgVoQ2RADk shows code how to use it
 
 ### HASHICORP VAULT (SECRET MANAGEMENT) ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+https://www.youtube.com/watch?v=klyAhaklGNU long overview but good background
 
-### ITERM2 ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
-### VIM ######################################################
+### NEOVIM ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;https://www.youtube.com/watch?v=qZO9A5F6BZs;TITLE;DESC
+https://www.youtube.com/watch?v=KYDG3AHgYEs one hour, organized, uses Kickstart because it sets everything up but is minimal
 
 ### GIT ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
