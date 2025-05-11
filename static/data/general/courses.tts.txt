@@ -134,7 +134,9 @@ https://www.youtube.com/watch?v=KYDG3AHgYEs one hour, organized, uses Kickstart 
 ### PGADMIN ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
-
+### PYCHARM ######################################################
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+https://www.youtube.com/watch?v=2EB8siO-_OM&list=PLCTHcU1KoD98IeuVcqJ2rt1FNytfR_C90 long playlist of setting up PyCharm for Python, 4.992
 
 
 === DPOD TECH
