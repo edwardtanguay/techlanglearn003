@@ -134,22 +134,23 @@ https://www.youtube.com/watch?v=zszbBJ81_YU simple examples, 4.77
 
 ### ZED ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+https://www.youtube.com/watch?v=lLNA58Pkfqk ten minutes on installing and an overview of Zed
 
 ### SSH ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-
-### MAKE ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+https://www.linkedin.com/learning/learning-ssh-14571185/learning-ssh 2022, basic course on SSH by Scott Simpson, 4.88
 
 ### MISE EN PLACE ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-
-### PGADMIN ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+https://www.youtube.com/watch?v=BOGWfATch-g eight minutes of a background to mise by someone who uses it, "frontend to your dev environment"
 
 ### PYCHARM ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 https://www.youtube.com/watch?v=2EB8siO-_OM&list=PLCTHcU1KoD98IeuVcqJ2rt1FNytfR_C90 long playlist of setting up PyCharm for Python, 4.992
+
+
+- add all Scott Simpson videos: https://www.linkedin.com/learning/instructors/scott-simpson
+
 
 
 === DPOD TECH
