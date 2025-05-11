@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/l-essentiel-de-github-actions/bienvenue-dans-l
 
 - duration: 02:03:00
 - language: fr
-- topics: githubActions
+- topics: githubActions, backend25
 - rank: 4.94
 - description: long and solid course in French
 - year: 2023

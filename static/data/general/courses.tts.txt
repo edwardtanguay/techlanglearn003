@@ -103,6 +103,11 @@ https://www.youtube.com/watch?v=KYDG3AHgYEs one hour, organized, uses Kickstart 
 
 ### GIT ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+https://www.linkedin.com/learning/8-git-commands-you-should-know-16027523 good to know, 4.88
+https://www.linkedin.com/learning/git-workflows various workflows, short but important, 4.81
+https://www.linkedin.com/learning/coding-exercises-git various quick tips, 4.86
+https://www.linkedin.com/learning/github-quick-tips various tips for GitHub, 4.85
+https://www.linkedin.com/learning/gitops-foundations extended course but with good concepts, 4.67
 
 ### ORBSTACK ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
