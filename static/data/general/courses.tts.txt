@@ -21,26 +21,16 @@
 >>create>>owasp, frontend25;en;00:08:50;2021;4.88;https://www.youtube.com/watch?v=hryt-rCLJUA; OWASP Top 10 2021 - The List and How You Should Use It ;high overview of the most common attacks
 
 ### ADVANCED CSS ######################################################
-		- fr, 2023 https://www.linkedin.com/learning/css-maitriser-les-flexbox
-		- fr, 2022 https://www.linkedin.com/learning/la-mise-en-page-css-combiner-les-flex-et-les-grids
-		- fr, 2023 https://www.linkedin.com/learning/css-animations-et-transitions-22819867
-		- fr, 2023 https://www.linkedin.com/learning/css-apprendre-le-grid-layout
-		- en, 2025 https://www.linkedin.com/learning/advanced-css-media-queries
-		- en, 2024 https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327
-		- en, 2022 https://www.linkedin.com/learning/level-up-css-layout
-		- en, 2022 https://www.linkedin.com/learning/css-tips
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>create>>css, flexbox, frontend25;fr;01:45:00;2023;4.792;https://www.linkedin.com/learning/css-maitriser-les-flexbox;Mastering CSS Flexboxl;flexbox with Damien Bruyndonckx 
+>>create>>flexbox, grid, css, frontend25;fr;04:00:00;2022;4.96;https://www.linkedin.com/learning/la-mise-en-page-css-combiner-les-flex-et-les-grids; CSS Layouts: Combining Flex and Grid ;long course by Damien Bruyndonckx on how to use flex and grid
+>>create>>css, animations, frontend25;fr;02:37:00;2023;4.59;https://www.linkedin.com/learning/css-animations-et-transitions-22819867;TITLE;Damien Bruyndonckx on animations, long course
+>>create>>grid, css, frontend25;fr;02:00:00;2023;4.92;https://www.linkedin.com/learning/css-apprendre-le-grid-layout; CSS: Learning Grid Layouts ;Damien Bruyndonckx on grid
+>>create>>css, mediaqueries, frontend25;en;01:03:00;2025;4.95;https://www.linkedin.com/learning/advanced-css-media-queries; Advanced CSS Media Queries ;Jen Kramer basics on medi queries, good overview
+>>create>>css, layouts, frontend25;en;01:26:00;2022;4.96;https://www.linkedin.com/learning/level-up-css-layout; Level Up: CSS Layout ;Morten Rand-Hendriksen on CSS layout patterns one should know
+>>create>>css, frontend25;en;02:03:00;2022;4.82;https://www.linkedin.com/learning/css-tips; CSS Tips ; Morten Rand-Hendriksen with CSS tips one should know 
 
 ### WEBPACK ######################################################
-		- fr, 2024 https://www.linkedin.com/learning/l-essentiel-de-webpack-5
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>create>>webpack, frontend25;fr;02:14:00;2024;4.89;https://www.linkedin.com/learning/l-essentiel-de-webpack-5; Webpack 5 Essential Training ;again Damien Bruyndonckx with good basics on Webpack 5
 
 
 
