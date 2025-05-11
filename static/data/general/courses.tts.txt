@@ -111,18 +111,26 @@ https://www.linkedin.com/learning/gitops-foundations extended course but with go
 
 ### ORBSTACK ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+https://www.youtube.com/watch?v=aJe7CvQ-aM8 high-level overview of OrbStack, 4.75
 
 ### PGADMIN ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+https://www.youtube.com/watch?v=WFT5MaZN6g4 how to download and use pgAdmin, 4.79
 
 ### POETRY (PYTHON DEPENDENCY MANAGEMENT) ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+https://www.youtube.com/watch?v=0f3moPe_bhk good overview and then showing how to use Poetry, 4.88
 
 ### PYENV (PYTHON VERSION MANAGEMENT) ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+https://www.youtube.com/watch?v=31WU0Dhw4sk watch this quick as an overview, 4.77
+https://www.youtube.com/watch?v=MVyb-nI4KyI watch and install pyenv on Ubuntu, 4.89
 
 ### WGET ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+https://www.youtube.com/watch?v=FuGRDIOObew good overview of how to use wget, 4.88
+https://www.youtube.com/watch?v=So_fdFW5SXU history of wget and curl, 4.86
+https://www.youtube.com/watch?v=zszbBJ81_YU simple examples, 4.77
 
 ### ZED ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
