@@ -92,8 +92,9 @@
 >>create>>hashicorpvault, backend25;en;00:29:09;2025;4.83;https://www.youtube.com/watch?v=klyAhaklGNU; HashiCorp Vault Tutorial for Beginners - What, Why and How ;long overview but good background
 
 ### NEOVIM ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;https://www.youtube.com/watch?v=qZO9A5F6BZs;TITLE;DESC
-https://www.youtube.com/watch?v=KYDG3AHgYEs one hour, organized, uses Kickstart because it sets everything up but is minimal
+>>create>>vim,backend25;en;00:09:43;2022;4.50;https://www.youtube.com/watch?v=qZO9A5F6BZs; Vim As You Editor - Advanced Motions P1 ; Primeagen classic, watched some but there are more tips, watch at some point
+>>create>>neovim,backend25;en;01:04:21;2024;4.92;https://www.youtube.com/watch?v=KYDG3AHgYEs; Full Neovim Setup from Scratch in 2025 ;one hour, organized, uses Kickstart because it sets everything up but is minimal, recent, long
+ 
 
 ### GIT ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
