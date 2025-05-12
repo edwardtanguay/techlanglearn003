@@ -86,7 +86,7 @@
 
 ### HASHICORP NOMAD CLI (JOB SCHEDULER) ######################################################
 >>create>>hashicorpnomad, backend25;en;00:05:24;2021;4.78;https://www.youtube.com/watch?v=j6CZ5nJ1O8Q; Is HashiCorp Nomad worth learning? ;five minutes of explaining  an "orchestration engine that solves the same problem as Kubernetes"
->>create>>en;en;00:04:52;2023;4.77;https://www.youtube.com/watch?v=mWgVoQ2RADk; Getting Started With HashiCorp Nomad ;shows code how to use it
+>>create>>hashicorpnomad, backend25;en;00:04:52;2023;4.77;https://www.youtube.com/watch?v=mWgVoQ2RADk; Getting Started With HashiCorp Nomad ;shows code how to use it
 
 ### HASHICORP VAULT (SECRET MANAGEMENT) ######################################################
 >>create>>hashicorpvault, backend25;en;00:29:09;2025;4.83;https://www.youtube.com/watch?v=klyAhaklGNU; HashiCorp Vault Tutorial for Beginners - What, Why and How ;long overview but good background
@@ -99,7 +99,7 @@
 >>create>>git, backend25;en;00:56:00;2022;4.88;https://www.linkedin.com/learning/8-git-commands-you-should-know-16027523; 8 Git Commands You Should Know ;good to know Git commands
 >>create>>git, gitworkflow, backend25;en;01:04:00;2022;4.81;https://www.linkedin.com/learning/git-workflows;  Git Workflows  ;various Git workflows, short but important
 >>create>>git, backend25;en;00:51:00;2022;4.86;https://www.linkedin.com/learning/coding-exercises-git; Coding Exercises: Git ;Ray Villalobos with many Git tips, good
->>create>>;en;00:47:00;2020;4.85;https://www.linkedin.com/learning/github-quick-tips; GitHub Quick Tips ;more Git tips from Ray Villalobos
+>>create>>git, backend25;en;00:47:00;2020;4.85;https://www.linkedin.com/learning/github-quick-tips; GitHub Quick Tips ;more Git tips from Ray Villalobos
 >>create>>git, backend25;en;02:11:00;2021;4.67;https://www.linkedin.com/learning/gitops-foundations; GitOps Foundations ;extended course on Git but with good concepts
 
 ### ORBSTACK ######################################################
