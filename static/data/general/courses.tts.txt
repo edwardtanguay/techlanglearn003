@@ -1,5 +1,19 @@
+- backend25
+- pdf with python/FPDF2
+- https://www.youtube.com/watch?v=q70xzDG6nls&list=PLjNQtX45f0dR9K2sMJ5ad9wVjqslNBIC0
+-
+
+
+
+
+
+
 - good teacher, Python, C#: https://www.linkedin.com/learning/instructors/joe-marini
 =======================================================
+
+
+-
+
 
 === Learn Tech 2025 Notes
 === frontend
