@@ -1,0 +1,827 @@
+=======================================================
+
+- good teacher, Python, C#: https://www.linkedin.com/learning/instructors/joe-marini
+
+
+=== Learn Tech 2025 Notes
+=== frontend
+
+### SEO ######################################################
+>>create>>seo, frontend25;en;01:11:00;2024;4.47;https://www.linkedin.com/learning/technical-seo-24379762;Technical SEO;good overview of technical SEO
+
+### A11Y/WCAG ######################################################
+>>create>>a11y, frontend25;en;00:32:34;2024;4.97;https://www.youtube.com/watch?v=2oiBKSjOOFE;Kyle: The Only Accessibility Video You Will Ever Need;classic Kyle video, good overview of accessibility and recent
+>>create>>a11y, frontend25;en;01:24:00;2023;4.96;https://www.linkedin.com/learning/accessibility-first-design; Accessibility-First Design ; more high-level slides-only but good basics
+>>create>>wcag, frontend25;en;00:27:00;2023;4.89;https://www.youtube.com/watch?v=JIuWM3iFPVM&list=PLwDZg2kBRS1x6xwoMcI3L6-CBCLhwyI-N&index=2;WCAG 2.2 At A Glance - 3.2.6 Consistent Help (Level A); 7 videos general overview, good base to start
+
+### BROWSERSTACK ######################################################
+>>create>>browserstack, frontend25;en;02:00:00;2021;3.7;https://www.youtube.com/watch?v=gf-2lvXGD48&list=PL1vH6dHT3H7rtHbusxWfN8oksYqDo8CwK&index=1;BrowserStack Product Tutorials;watch these at 2x speed for an overview, uses Selenium I think
+ 
+### OWASP ######################################################
+>>create>>owasp, frontend25;en;00:08:50;2021;4.88;https://www.youtube.com/watch?v=hryt-rCLJUA; OWASP Top 10 2021 - The List and How You Should Use It ;high overview of the most common attacks
+
+### ADVANCED CSS ######################################################
+>>create>>css, flexbox, frontend25;fr;01:45:00;2023;4.792;https://www.linkedin.com/learning/css-maitriser-les-flexbox;Mastering CSS Flexboxl;flexbox with Damien Bruyndonckx 
+>>create>>flexbox, grid, css, frontend25;fr;04:00:00;2022;4.96;https://www.linkedin.com/learning/la-mise-en-page-css-combiner-les-flex-et-les-grids; CSS Layouts: Combining Flex and Grid ;long course by Damien Bruyndonckx on how to use flex and grid
+>>create>>css, animations, frontend25;fr;02:37:00;2023;4.59;https://www.linkedin.com/learning/css-animations-et-transitions-22819867;TITLE;Damien Bruyndonckx on animations, long course
+>>create>>grid, css, frontend25;fr;02:00:00;2023;4.92;https://www.linkedin.com/learning/css-apprendre-le-grid-layout; CSS: Learning Grid Layouts ;Damien Bruyndonckx on grid
+>>create>>css, mediaqueries, frontend25;en;01:03:00;2025;4.95;https://www.linkedin.com/learning/advanced-css-media-queries; Advanced CSS Media Queries ;Jen Kramer basics on medi queries, good overview
+>>create>>css, layouts, frontend25;en;01:26:00;2022;4.96;https://www.linkedin.com/learning/level-up-css-layout; Level Up: CSS Layout ;Morten Rand-Hendriksen on CSS layout patterns one should know
+>>create>>css, frontend25;en;02:03:00;2022;4.82;https://www.linkedin.com/learning/css-tips; CSS Tips ; Morten Rand-Hendriksen with CSS tips one should know 
+
+### WEBPACK ######################################################
+>>create>>webpack, frontend25;fr;02:14:00;2024;4.89;https://www.linkedin.com/learning/l-essentiel-de-webpack-5; Webpack 5 Essential Training ;again Damien Bruyndonckx with good basics on Webpack 5
+
+
+
+
+- backend
+
+### CURL ######################################################
+>>create>>curl,backend25;en;00:15:00;2020;4.89;https://www.youtube.com/watch?v=APtOavXTv5M;cURL - The only HTTP client you'll ever need;15 minutes basics of curl
+
+### INTELLIJ ######################################################
+>>create>>intellij, java, backend25;en;02:10:00;2021;4.989;https://www.linkedin.com/learning/intellij-idea-community-edition-essential-training-2;IntelliJ IDEA Community Edition Essential Training;from 2021 but quite thorough, Java based
+
+### DOCKER ######################################################
+>>create>>docker, backend25;fr;03:14:00;2023;4.96;https://www.linkedin.com/learning/l-essentiel-de-docker; L'essentiel de Docker ;solid, long course on Docker, French, professional trainer
+>>create>>docker, backend25;fr;01:48:00;2023;4.95;https://www.linkedin.com/learning/docker-avance; Docker avancé ;advanced course on Docker, French, professional trainer
+
+### DOCKER COMPOSE ######################################################
+>>create>>docker,backend25;en;00:36:00;2022;4.97;https://www.linkedin.com/learning/learning-docker-compose;Learning Docker Compose;short, basic course on Docker compose, nice voice
+
+### ITERM ######################################################
+>>create>>iterm, mac, backend25;de;00:10:09;2022;4.88;https://www.youtube.com/watch?v=ZcVdpkSako4;Das beste Terminal für macOS;short intro to iterm (same as iterm2)
+
+### REACT 19 ######################################################
+>>create>>react, frontend25;en;00:08:41;2024;4.79;https://www.youtube.com/watch?v=v07gXY6ESEo;Kyle: NEW React 19 Changes Are Amazing;quick overview of React 19
+
+### MAC ######################################################
+>>create>>mac,backend25;en;00:08:44;2024;4.82;https://www.youtube.com/watch?v=glEIACnAB70;My Mac Coding Setup (Full Stack Web Dev + Mobile App Dev);quick and good tips (Snapper, etc.)
+
+### OH-MY-ZSH ######################################################
+>>create>>mac, backend25;en;00:10:41;2022;4.94;https://www.youtube.com/watch?v=CF1tMjvHDRA;How To Make Your Boring Mac Terminal So Much Better;more than oh-my-zsh but good
+
+### POWERLEVEL 10K ######################################################
+>>create>>mac, backend25;en;00:20:09;2022;4.979;https://www.youtube.com/watch?v=9-l8SX8Bs7c;Powerlevel10k;twenty minutes of Powerlevel10k and environment
+
+### MAKE ######################################################
+>>create>>make, clanguage, backend25;en;00:09:23;2015;4.97;https://www.youtube.com/watch?v=_r7i5X0rXJk;How to Create a Simple Makefile - Introduction to Makefiles;simple, take before C course in French
+>>create>>clanguage, backend25;fr;07:53:00;2018;4.58;https://www.linkedin.com/learning/l-essentiel-du-langage-c;L'essentiel du langage C;super long French course, professional, in detail, C retro
+
+### BRUNO (API TESTING) ######################################################
+>>create>>bruno, backend25;en;00:03:49;2024;4.9995;https://www.youtube.com/watch?v=FXckKHtZo4o;The BEST API Client - Open-Source & Git-friendly (Bruno);short and simply intro to Bruno
+
+### CURL ######################################################
+>>create>>curl, backend25;en;00:14:41;2017;4.992;https://www.youtube.com/watch?v=7XUibDYw4mc;Basic cURL Tutorial;goes through the basics
+
+### DBEAVER ######################################################
+>>create>>dbeaver, backend25;en;00:15:49;2022;4.58;https://www.youtube.com/watch?v=LEx96-CkB1Q;DBeaver Tutorial - How to Use DBeaver ;watch at 2x speed for overview
+
+### DIRENV ######################################################
+>>create>>direnv, backend25;en;00:11:15;2024;4.998;https://www.youtube.com/watch?v=udezempDBVQ;I'm never using .env files ever again;direnv by someone who really likes it
+
+### GREP ######################################################
+>>create>>grep, backend25;en;02:02:00;2019;4.44;https://www.linkedin.com/learning/bash-patterns-and-regular-expressions; Bash Patterns and Regular Expressions ;Grant McWilliams Linux experience based on grep, regex, and some sed etc.
+
+### HASHICORP NOMAD CLI (JOB SCHEDULER) ######################################################
+>>create>>hashicorpnomad, backend25;en;00:05:24;2021;4.78;https://www.youtube.com/watch?v=j6CZ5nJ1O8Q; Is HashiCorp Nomad worth learning? ;five minutes of explaining  an "orchestration engine that solves the same problem as Kubernetes"
+>>create>>hashicorpnomad, backend25;en;00:04:52;2023;4.77;https://www.youtube.com/watch?v=mWgVoQ2RADk; Getting Started With HashiCorp Nomad ;shows code how to use it
+
+### HASHICORP VAULT (SECRET MANAGEMENT) ######################################################
+>>create>>hashicorpvault, backend25;en;00:29:09;2025;4.83;https://www.youtube.com/watch?v=klyAhaklGNU; HashiCorp Vault Tutorial for Beginners - What, Why and How ;long overview but good background
+
+### NEOVIM ######################################################
+>>create>>vim,backend25;en;00:09:43;2022;4.50;https://www.youtube.com/watch?v=qZO9A5F6BZs; Vim As You Editor - Advanced Motions P1 ; Primeagen classic, watched some but there are more tips, watch at some point
+>>create>>neovim,backend25;en;01:04:21;2024;4.92;https://www.youtube.com/watch?v=KYDG3AHgYEs; Full Neovim Setup from Scratch in 2025 ;one hour, organized, uses Kickstart because it sets everything up but is minimal, recent, long
+
+### GIT ######################################################
+>>create>>git, backend25;en;00:56:00;2022;4.88;https://www.linkedin.com/learning/8-git-commands-you-should-know-16027523; 8 Git Commands You Should Know ;good to know Git commands
+>>create>>git, gitworkflow, backend25;en;01:04:00;2022;4.81;https://www.linkedin.com/learning/git-workflows;  Git Workflows  ;various Git workflows, short but important
+>>create>>git, backend25;en;00:51:00;2022;4.86;https://www.linkedin.com/learning/coding-exercises-git; Coding Exercises: Git ;Ray Villalobos with many Git tips, good
+>>create>>git, backend25;en;00:47:00;2020;4.85;https://www.linkedin.com/learning/github-quick-tips; GitHub Quick Tips ;more Git tips from Ray Villalobos
+>>create>>git, backend25;en;02:11:00;2021;4.67;https://www.linkedin.com/learning/gitops-foundations; GitOps Foundations ;extended course on Git but with good concepts
+
+### ORBSTACK ######################################################
+>>create>>orbstack, backend25;en;00:16:41;2024;4.75;https://www.youtube.com/watch?v=aJe7CvQ-aM8; Faster Docker, K8S and VMs on macOS! // OrbStack ;high-level overview of OrbStack
+
+### PGADMIN ######################################################
+>>create>>pgadmin, backend25;en;00:15:27;2022;4.79;https://www.youtube.com/watch?v=WFT5MaZN6g4; pgAdmin Tutorial - How to Use pgAdmin ;how to download and use pgAdmin
+
+### POETRY (PYTHON DEPENDENCY MANAGEMENT) ######################################################
+>>create>>poetry, python, backend25;en;00:14:42;2023;4.88;https://www.youtube.com/watch?v=0f3moPe_bhk; How to Create and Use Virtual Environments in Python With Poetry ;good overview and then showing how to use Poetry
+
+### PYENV (PYTHON VERSION MANAGEMENT) ######################################################
+>>create>>pyenv, backend25;en;00:10:47;2021;4.77;https://www.youtube.com/watch?v=31WU0Dhw4sk; How to Install and Run Multiple Python Versions on macOS | pyenv & virtualenv Setup Tutorial ;watch this quick as an overview
+>>create>>pyenv, backend25;en;00:07:35;2025;4.89;https://www.youtube.com/watch?v=MVyb-nI4KyI; How I handle multiple Python Versions (pyenv) ;NetworkChuck entertainer but tips are useful, watch and install pyenv on Ubuntu, recent
+
+### WGET ######################################################
+>>create>>wget, backend25;en;00:12:23;2025;4.88;https://www.youtube.com/watch?v=FuGRDIOObew; Linux Literacy | WGET ;good overview of how to use wget, and recent
+>>create>>wget,curl,backend25;en;00:04:54;2023;4.86;https://www.youtube.com/watch?v=So_fdFW5SXU; Curl VS Wget: What Even Is The Difference ; history of wget and curl, 
+>>create>>wget, backend25;en;00:12:38;2022;4.77;https://www.youtube.com/watch?v=zszbBJ81_YU; The wget Command | How to Download Files From a Server ; simple examples of wget
+
+### ZED ######################################################
+>>create>>zed, backend25;en;00:10:34;2024;4.98;https://www.youtube.com/watch?v=lLNA58Pkfqk;TITLE;ten minutes on installing and an overview of Zed
+
+### SSH ######################################################
+>>create>>ssh, backend25;en;01:36:00;2022;4.88;https://www.linkedin.com/learning/learning-ssh-14571185/learning-ssh; Learning SSH ;basic course on SSH by Scott Simpson
+
+### MISE EN PLACE ######################################################
+>>create>>mise, backend25;en;00:08:31;2025;4.91;https://www.youtube.com/watch?v=BOGWfATch-g; Mise vs. ASDF: Why a Rust Rewrite and Curated Plugins Make All the Difference #rust ;eight minutes of a background to mise by someone who uses it, "frontend to your dev environment", recent
+
+### PYCHARM ######################################################
+>>create>>pycharm, backend25;en;02:00:00;2021;4.992;https://www.youtube.com/watch?v=2EB8siO-_OM&list=PLCTHcU1KoD98IeuVcqJ2rt1FNytfR_C90;Getting Started with PyCharm;long playlist of setting up PyCharm for Python by midwest nice guy
+
+>>create>>bash, dpdoing;en;02:26:00;2022;4.92;https://www.linkedin.com/learning/learning-bash-scripting-17063287;Learning Bash Scripting; Scott Simpson long course
+
+
+
+=== DPOD TECH
+x Typescript
+x Go
+x Python
+x C#
+x PHP
+x Ruby
+x Elixir
+x Bash
+x Rust
+x Kotlin
+
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+
+=============================================================
+
+fr, angular: https://www.linkedin.com/learning/angular-gerer-les-etats-d-application-avec-redux-et-ngrx
+
+=== Haskell
+EN-2025: https://www.youtube.com/watch?v=qThX0aoW9YI&list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3&index=1
+
+- REACT/AWS
+- https://www.linkedin.com/learning/creating-a-serverless-application-using-react-in-aws/2392677
+- others: https://www.linkedin.com/learning/instructors/brett-mclaughlin
+
+- REACT
+- https://www.linkedin.com/learning/topics/react-js?difficultyLevel=ADVANCED&entityType=COURSE&sortBy=RECENCY
+
+- next for all: https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/let-s-build-modern-projects-with-react
+- https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-your-own-full-stack-website-using-react
+- OpenAI API
+
+- Drizzle: https://www.youtube.com/watch?v=cTu9-C2rd-0
+- prisma/next.js: https://www.youtube.com/watch?v=QXxy8Uv1LnQ
+- authentication: https://www.youtube.com/watch?v=bwRj1O30JWg
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+
+
+
+
+- jobrad
+- grid, flex
+- also with Tailwind
+- *** TAILWIND 4: https://www.linkedin.com/learning/tailwind-css-4-essential-training/meet-tailwind-css
+
+
+- ESLint: https://www.linkedin.com/learning/topics/eslint
+- ESLint: https://www.linkedin.com/learning/search?entityType=COURSE&keywords=eslint
+
+- css: https://www.linkedin.com/learning/css-refactoring-style-sheets/css-refactoring-and-optimization
+
+- AI
+- https://www.linkedin.com/learning/practical-github-copilot/using-copilot-on-projects
+- 4.99, https://www.linkedin.com/learning/building-apps-with-ai-tools-chatgpt-semantic-kernel-and-langchain
+- LangChain: https://www.linkedin.com/learning/prompt-engineering-with-langchain
+
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+
+- https://www.linkedin.com/learning/beginner-s-guide-to-go-protocol-buffer (Protobuf and gRPC)
+
+
+
+
+- web sockets
+
+- Gemini: https://www.linkedin.com/learning/advanced-gemini-for-developers/use-agent-builder-with-cloud-builder-21428137?resume=false
+
+
+- STATE MANAGEMENT (JONAS)
+
+- ASP.NET C#
+- https://www.linkedin.com/learning/advanced-web-apis-with-asp-dot-net-core-in-dot-net-6
+
+- ADVANCED REACT
+- https://www.youtube.com/results?search_query=react+performance+optimization
+- https://www.linkedin.com/learning/react-testing-and-debugging
+- https://www.youtube.com/results?search_query=service+worker+react
+
+- SENIOR
+- Git
+- (current course)
+- https://www.linkedin.com/learning/coding-exercises-github/challenge-yourself-with-github-challenges
+- AI (current courses)
+
+- JONAS
+- https://www.youtube.com/results?search_query=mock+service+worker+react
+- https://www.linkedin.com/learning/search?entityType=COURSE&keywords=playwright
+- https://www.youtube.com/results?search_query=tanstack
+- https://www.youtube.com/results?search_query=interactive+rebase+git
+
+- .. make course
+- make techItem: state management and research first
+- state management: en-ll-react-state-management
+- Mobx: en-yt-typescript-for-react-and-mobx-from-beginners-to-masters
+
+
+- XState: https://www.youtube.com/watch?v=s0h34OkEVUE
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+- Zustand:https://www.youtube.com/watch?v=sqTPGMipjHk
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+- Jotai: https://www.youtube.com/watch?v=ZcKzPZN7Ids
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+- Redux, Recoil, Mobx: https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/let-s-build-modern-projects-with-react
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+- Angular/NgRX: https://www.linkedin.com/learning/learning-ngrx/improve-your-angular-architecture-with-ngrx
+- Foray: A comparison of state management tools for React
+
+- ASSECOR
+- Angular 19: en-yt-how-to-create-your-first-angular-19-application-standalone-modulebased-templates-explained
+- x Angular Signals:en-yt-learn-angular-signals-the-future-of-state-management
+- x Angular RxJS: en-yt-angular-signals-or-rxjs-they-are-not-a-replacement
+- Angular/NgRX: en-ll-learning-ngrx
+- Cypress: en-ll-endtoend-javascript-testing-with-cypressio.md
+
+- Thomann
+- Foray: Get up to speed with PHP 8.3
+- Make forays for the rest
+- PHP 8.2: https://www.linkedin.com/learning/api-testing-and-validation-22610641
+- Laravel: search files here "laravel"
+- PHPUnit
+- Twig
+- Webpack/Babel
+- Memcached
+- Cypress
+- MySQL
+- Openshift: Based on Kubernetes, with extra developer tools
+- LESS
+- PSR (PHP Standards Recommendations)
+- https://www.php-fig.org/psr
+- Docker
+- React/TypeScript
+- Tailwind
+
+
+
+
+- OpenAPI (Java/Node): https://www.linkedin.com/learning/building-apis-with-swagger-and-the-openapi-specification
+- OAuth & OpenID Connect: https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424
+- Airtable: https://www.linkedin.com/learning/learning-airtable
+- Zoro CRM: https://www.linkedin.com/learning/learning-zoho-crm
+- Web3: https://www.linkedin.com/learning/building-web3-decentralized-apps-in-ethereum
+- Solidity: https://www.linkedin.com/learning/blockchain-learning-solidity-22873764
+- BigQuery: https://www.linkedin.com/learning/learning-bigquery
+- Quarkus: https://www.linkedin.com/learning/learning-quarkus
+- Jakarte EE: https://www.linkedin.com/learning/jakarta-ee-building-your-first-application
+- S3: https://www.linkedin.com/learning/aws-for-developers-cli-tips
+- EC2: https://www.linkedin.com/learning/amazon-ec2-essential-training
+- AWS Lambda: https://www.linkedin.com/learning/learning-amazon-web-services-lambda-22774748
+- AWS Services: https://www.linkedin.com/learning/aws-certified-sysops-administrator-associate-soa-c02-cert-prep
+- AWS SNS, SQS, SWF: https://www.linkedin.com/learning/aws-for-developers-sns-sqs-and-swf
+- Kinesis: https://www.linkedin.com/learning/aws-for-developers-data-driven-serverless-applications-with-kinesis-23377054
+- Websockets: https://www.linkedin.com/learning/websocket-communications-with-node-and-angular
+- RabbitMQ: https://www.linkedin.com/learning/learning-rabbitmq
+- Bitbucket: https://www.linkedin.com/learning/learning-bitbucket
+- Jira: https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823
+- Confluence: https://www.linkedin.com/learning/learning-confluence-22306456
+- Datadog: https://www.linkedin.com/learning/monitoring-and-observability-with-datadog
+- Argo CD: https://www.linkedin.com/learning/kubernetes-gitops-with-argocd
+- Grafana: https://www.linkedin.com/learning/graphite-and-grafana-visualizing-application-performance
+- GCP: https://www.linkedin.com/learning/google-cloud-platform-gcp-essential-training-for-developers
+- Blockchain: https://www.linkedin.com/learning/blockchain-basics-14414119
+- Cryptocurrency: https://www.linkedin.com/learning/cryptocurrency-foundations-17185357
+- Web3: https://www.linkedin.com/learning/what-is-web3
+- Supabase: https://www.linkedin.com/learning/supabase-essential-training
+
+=======================================================
+
+
+
+-DESC NEXT: - git workflows good - https://www.linkedin.com/learning/git-workflows/github-flow-in-practice
+
+- todo
+- https://www.youtube.com/watch?v=Kn1De5uwrlY (AI conversations, from Patrick)
+
+- AI up-to-date: https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends
+- advanced Git: https://www.linkedin.com/learning/gitops-foundations/an-enhanced-approach-to-devops
+
+retro: maven: https://www.linkedin.com/learning/introducing-maven/building-java-the-maven-way
+
+- ****
+- videos on tech video production and editing
+- capcut.com
+- https://www.youtube.com/results?search_query=capcut+video+editing
+- divinci resolve
+- https://www.youtube.com/results?search_query=divinci+video+editing
+
+- angular 19
+- Setup Environment & Install Angular 19: https://www.youtube.com/watch?v=ksablkcwKB0
+- https://www.youtube.com/watch?v=B18LKRW617Q
+- Angular 19 CRUD (2024-12-07): https://www.youtube.com/watch?v=ItQYxGDacW4
+
+- excellent teacher, lots of courses, Joe Marini: https://www.linkedin.com/learning/instructors/joe-marini
+- lots of Python in Spanish: https://www.linkedin.com/learning/topics/python?entityType=COURSE
+- good teacher for devops: https://www.linkedin.com/learning/instructors/josh-samuelson
+
+- shadcn
+- clojure
+
+- full course on Flask/SQLAlchemy: https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX
+- css animations/transitions, french: https://www.linkedin.com/learning/css-animations-et-transitions-22819867/utiliser-la-transformation-translate
+
+- next.js 14, german
+- https://www.linkedin.com/learning/next-js-grundkurs
+
+- pycharm
+
+- accessibility, canvas; en; 2024; https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-better-presentations-in-canva
+accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for-developers/take-the-mystery-out-of-web-accessibility
+
+- elasticsearch: https://www.linkedin.com/learning/elasticsearch-essential-training-18773441
+- elasticstack: https://www.linkedin.com/learning/learning-elastic-stack
+
+- frech/python teacher: https://www.linkedin.com/learning/instructors/madjid-khichane
+
+- git
+- VSCode for Python: https://www.youtube.com/watch?v=F60iJ3xxgtg
+- swagger
+
+- gitlab french, 2023
+- https://www.linkedin.com/learning/l-essentiel-de-gitlab/bienvenue-dans-l-essentiel-de-gitlab
+- github versioning
+- https://www.youtube.com/results?search_query=github+releases+tutorial+
+- https://www.youtube.com/watch?v=Ob9llA_QhQY
+
+- lookup: nginx
+- lookup: JWT
+
+- forays
+- ant design: https://ant.design/components/overview/
+
+- python, do all of Ana María's courses: https://www.linkedin.com/learning/instructors/ana-maria-pinto
+
+- python, files; en; work2; https://www.linkedin.com/learning/python-working-with-files/automate-file-tasks-with-python
+- python; es; https://www.linkedin.com/learning/search?entityType=COURSE&keywords=python
+- python; fr; https://www.linkedin.com/learning/search?entityType=COURSE&keywords=python
+
+
+- effeciency
+- ChatGPT use
+- en;2024; https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips
+
+- EXTEND - might use at a job
+- GitHub monorepos
+- https://www.linkedin.com/learning/monorepos-auf-github-grundlagen/shared-library-anlegen?resume=false
+- webassembly
+- https://www.linkedin.com/learning/webassembly-grundlagen/schnellen-und-sicheren-code-fur-webanwendungen-erstellen
+- shopify german
+- https://www.linkedin.com/learning/shopify-grundkurs
+- kafka
+- regex, en, 2024: https://www.linkedin.com/learning/learning-regular-expressions-15586553/write-text-matching-patterns
+- rubyonrails
+- en; rubyonreails; 2024; https://www.linkedin.com/learning/hands-on-introduction-ruby-on-rails
+
+- FRINGE - probably won't use at a job, but interesting
+- https://www.linkedin.com/learning/learning-airtable/create-powerful-databases-with-airtable
+- Neovim: https://www.youtube.com/watch?v=m8C0Cq9Uv9o
+- Julia
+- https://www.linkedin.com/learning/aprende-julia
+- ASP.NET auf Linux
+- https://www.linkedin.com/learning/asp-dot-net-hosting-auf-linux/asp-dot-net-anwendungen-effektiv-unter-linux-hosten
+- Phoenix backend
+- https://www.youtube.com/watch?v=9xaN44PNxps&t=2198s
+- pyspark;es;2024; https://chatgpt.com/c/674f8067-dc3c-8005-b0ae-4aac70d20eff
+- https://www.linkedin.com/learning/l-essentiel-de-hive/tester-hadoop-2
+
+- Linux
+- SED: https://www.linkedin.com/learning/sed-essential-training/welcome
+- AWK: https://www.linkedin.com/learning/awk-essential-training/welcome-17099300
+
+- DEVOPS
+- ansible
+- https://www.linkedin.com/learning/ansible-grundkurs/ansible-kennenlernen-und-effektiv-einsetzen
+- terraform
+- https://www.linkedin.com/learning/terraform-lernen/schnell-und-einfach-einsteigen-in-terraform
+- kubernetes
+
+
+- currenttech
+- docker
+- sp; 4.98;2024; https://www.linkedin.com/learning/docker-esencial-23119241/docker-compose
+- sp; 4.98; https://www.linkedin.com/learning/devops-despliegue-de-microservicios-con-docker
+- sp; 4.95; https://www.linkedin.com/learning/despliegue-de-mysql-con-docker
+
+
+
+- retro - tech that reminds me of old times
+- web apis with ASP.NET Core 8
+- https://www.linkedin.com/learning/web-apis-mit-asp-dot-net-core-8/controller-mit-der-dot-net-cli-anlegen?resume=false
+- french vba
+- https://www.linkedin.com/learning/excel-le-vba-avance/creer-une-feuille?resume=false
+- Java
+- webpack 5
+- Perl: https://www.linkedin.com/learning/perl-5-essential-training/welcome
+- gimp
+- C#
+- sp, many; https://www.linkedin.com/learning/topics/c-sharp?sortBy=RECENCY
+- Python/TKinter
+- https://www.linkedin.com/learning/python-gui-programmierung-mit-tkinter/das-message-widget-fur-mehrzeilige-anzeigen?resume=false
+- google sheets
+
+
+
+- backend languages
+- kotlin
+- https://www.linkedin.com/learning/kotlin-grundkurs/willkommen-zu-kotlin-grundkurs
+- Java
+- Go
+- Python
+- advanced german
+- https://www.linkedin.com/learning/python-fur-fortgeschrittene/deque?resume=false
+- Ruby
+- C# .NET Core
+
+- spanish courses: https://www.linkedin.com/learning/topics/tecnologia?durations=BETWEEN_30_TO_60_MIN~BETWEEN_1_TO_2_HOURS~BETWEEN_2_TO_3_HOURS~MORE_THAN_3_HOURS&entityType=COURSE
+
+- english courses
+- https://www.linkedin.com/learning/topics/technology?durations=BETWEEN_30_TO_60_MIN~BETWEEN_1_TO_2_HOURS~BETWEEN_2_TO_3_HOURS~MORE_THAN_3_HOURS&entityType=COURSE&software=C%23~React.js~GitHub~Microsoft%20Excel~Python~JavaScript~Linux~CSS~ChatGPT&sortBy=RECENCY
+
+- github bots
+- https://www.linkedin.com/learning/building-github-bots/examples-of-github-bots?resume=false
+- github
+- https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/projects-vs-classic-projects?autoSkip=true&resume=false
+- github actions
+- https://www.linkedin.com/learning/practical-github-actions/creating-a-marketplace-github-action
+- github actions for CI/CD
+- https://www.linkedin.com/learning/github-actions-for-ci-cd/continuous-delivery-for-software-packages?resume=false
+- github advanced actions
+- https://www.linkedin.com/learning/advanced-github-actions/run-a-job-with-a-matrix-strategy?resume=false
+- github tips
+- https://www.linkedin.com/learning/github-quick-tips/get-maximum-contribution-credits
+- git branches etc.
+- https://www.linkedin.com/learning/git-branches-merges-and-remotes/mixed-reset
+- swagger
+- https://www.linkedin.com/learning/building-apis-with-swagger-and-the-openapi-specification/building-apis-with-swagger
+- advanced reactg
+- https://www.linkedin.com/learning/react-components-context-and-accessibility/uncontrolled-components
+- get German:
+- https://www.linkedin.com/learning/git-workflows-im-team-optimieren
+
+- typescript german
+- https://www.linkedin.com/learning/typescript-grundkurs-17656849/functions-und-callbacks?resume=false
+- playwright german
+- https://www.linkedin.com/learning/webseiten-und-web-apps-testen-mit-playwright
+
+- PYTHON
+- good teacher for Python, Ana María Pinto: https://www.linkedin.com/learning/instructors/ana-maria-pinto
+- Spanish Python: https://www.linkedin.com/learning/instructors/ana-maria-pinto
+- Python FastAPI: https://www.linkedin.com/learning/domina-python-fastapi/fastapi-y-python
+
+- nginx
+- https://www.linkedin.com/learning/learning-nginx-17014605/configure-logs?resume=false
+
+- VBA
+- https://www.linkedin.com/learning/excel-learning-vba/extend-the-capabilities-of-excel-using-vba
+
+- italian
+- git: https://www.youtube.com/watch?v=aKvVZ4rAUkQ&list=PLdYHjrPuGeKFskU1KQBf3WETngxU3smjK
+
+// kinde and clerk
+clerk: https://www.youtube.com/watch?v=6g95ioeiE6Q&t=326s
+kinde, nexjs; https://www.youtube.com/watch?v=wfqnQ86K-_A
+
+go: https://www.linkedin.com/learning/go-for-developers-practical-techniques-for-effective-coding
+
+go, cobra; en; 4.92;https://www.youtube.com/watch?v=yiFhQGJeRJk
+
+jwt;fastapi: https://www.youtube.com/watch?v=0A_GCXBCNUQ
+
+rust; sp; 2024;3.8; https://www.linkedin.com/learning/rust-avanzado-24014033
+rust; sp; 2024;4.1; https://www.linkedin.com/learning/rust-esencial-24011472
+typescript;sp;2024;4.6; https://www.linkedin.com/learning/domina-typescript
+githubActions;sp;2022;4.22; https://www.linkedin.com/learning/github-actions-esencial
+linux;sp;2022;4.12;https://www.linkedin.com/learning/aprende-a-usar-la-linea-de-comandos-de-linux
+functional, javascript;sp;2022;4.32;https://www.linkedin.com/learning/desafio-de-programacion-programacion-funcional-en-javascript
+redix;sp;2023;3.73;https://www.linkedin.com/learning/domina-redis
+docker;sp;2022;3.68;https://www.linkedin.com/learning/despliegue-de-mysql-con-docker
+webassembly; de; 2024; 4.2; https://www.linkedin.com/learning/webassembly-grundlagen
+ansible; de; 2023; 4.1; https://www.linkedin.com/learning/ansible-grundkurs
+terraform; de; 2021;3.6; https://www.linkedin.com/learning/terraform-lernen
+typescript; de;2023; 4.5; https://www.linkedin.com/learning/code-challenges-fur-typescript
+hooks; de; 2021; 4.2; https://www.linkedin.com/learning/react-hooks-grundkurs
+python, flask; fr; 2024; 4.5; https://www.linkedin.com/learning/l-essentiel-de-flask/bienvenue-dans-l-essentiel-de-flask
+ansible; fr; 2020; 4.1; https://www.linkedin.com/learning/l-essentiel-d-ansible/installer-ansible
+linux; fr; 2024; 3.9; https://www.linkedin.com/learning/linux-l-administration-avancee
+flexbox; fr; 2024; 4.3; https://www.linkedin.com/learning/css-maitriser-les-flexbox
+grid, flexbox; fr; 2022; 4.4; https://www.linkedin.com/learning/la-mise-en-page-css-combiner-les-flex-et-les-grids
+
+go, goreleaser; en; 2024; 4.1; https://www.youtube.com/watch?v=JFhzuIffPCo | Automate your Go binary releases with GoReleaser and Github Actions
+
+
+- javascript data structures:
+- https://www.linkedin.com/learning/instructors/tiffany-graves
+
+
+git merges
+- https://www.youtube.com/results?search_query=git+merge+conflict+tutorial
+- https://www.linkedin.com/learning/git-branches-merges-and-remotes/mixed-reset
+- https://www.linkedin.com/learning/git-for-teams/using-git-for-team-collaboration
+
+go: do these videos https://www.youtube.com/@charmcli/videos
+---
+haskell; sp; https://www.youtube.com/watch?v=mXroxy93nXg
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+
+
+
+- sp; 2023; https://www.linkedin.com/learning/domina-apache-kafka/aprendiendo-sobre-apache-kafka
+
+x kotlin: https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o
+x mobx: https://www.youtube.com/watch?v=nGZCL6Wd_zQ
+x firebase: https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud
+x spring boot: https://www.linkedin.com/learning/spring-boot-esencial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.linkedin.com/learning/python-automation-and-testing/filling-forms?resume=false
+
+
+
+- NEXT: - git workflows good - https://www.linkedin.com/learning/git-workflows/github-flow-in-practice
+
+
+
+
+
+
+``ADD new courses
+- Svelte 5 topics: https://www.youtube.com/watch?v=SweBnOI2aVg&list=PLMCy_zQt47wz9hlw_CY-2yS7fe30sgkVi
+- Svelte 5 topics: https://www.youtube.com/watch?v=dgaPk6KRFfM&list=PLMCy_zQt47wwC7FWf5tZBcSB5GVSgrb_4
+- svelte hooks: https://www.youtube.com/watch?v=7KE3cjoPbSc
+- environment variables in svelte: https://www.youtube.com/watch?v=AAevpUqsoEI
+- do all these: https://www.youtube.com/@HunterScript/videos
+
+
+- french flask, 2024
+- french/sqlite/retro: https://www.linkedin.com/learning/l-essentiel-de-sqlite
+- french linux
+- https://www.linkedin.com/learning/linux-l-administration-avancee/comprendre-le-principe-de-systemd?resume=false
+- french vue.js 3, 2024
+- https://www.linkedin.com/learning/l-essentiel-de-vue-js-22426755/installer-vue-js?resume=false
+- french dotnet 8 with VSCode
+- https://www.linkedin.com/learning/l-essentiel-de-dot-net-8/integrer-les-dates-et-le-temps?resume=false
+- french API with MongoDB, 2024
+- https://www.linkedin.com/learning/construire-des-api-restful-avec-node-js/bienvenue-dans-construire-des-api-restful-avec-node-js
+- french redux, context, reducer, recoil, 2024
+- https://www.linkedin.com/learning/react-js-gerer-les-etats-d-application-22389783/bienvenue-dans-react-js-gerer-les-etats-d-application
+- french css animations, 2023
+- https://www.linkedin.com/learning/css-animations-et-transitions-22819867/utiliser-la-transformation-translate
+- french grid
+- https://www.linkedin.com/learning/css-apprendre-le-grid-layout/bienvenue-dans-css-apprendre-le-grid-layout
+- french flexbox
+- https://www.linkedin.com/learning/css-maitriser-les-flexbox/bienvenue-dans-css-maitriser-les-flexbox
+- french, node and databases, 2023
+- https://www.linkedin.com/learning/node-js-les-bases-de-donnees/bienvenue-dans-node-js-les-bases-de-donnees
+- french javascript design patterns
+- https://www.linkedin.com/learning/javascript-les-design-patterns/utiliser-la-solution-du-module-design-pattern?resume=false
+- french create npm package
+- https://www.linkedin.com/learning/l-essentiel-de-node-package-manager-npm/ajouter-des-scripts-dans-package-json
+
+https://www.linkedin.com/learning/python-les-fonctions-pour-la-data-science
+https://www.linkedin.com/learning/python-le-nettoyage-des-donnees
+https://www.linkedin.com/learning/python-l-analyse-de-donnees/effectuer-des-operations-avancees-sur-les-listes
+more python with Alison Patou: https://www.linkedin.com/learning/instructors/alison-patou
+
+
+fr, linux: https://www.linkedin.com/learning/linux-l-administration-avancee/aborder-ramdisk?resume=false
+
+
+---
+CREATED: kinde; en; 00:09:37; 2024; 4.9; https://www.youtube.com/watch?v=_EjOHdRihjA; Add Auth & Protect Routes in React in 3 Minutes (Kinde); quick video showing how to build Kinde into a React site
+CREATED: api, mongo, jwt; sp; 03:50:00; 2023; 4.9; https://www.linkedin.com/learning/nodejs-restserver-con-clean-architecture; NodeJS: RestServer con Clean Architecture;  good, long, new course in Spanish to recap MERN skills including Mongo in Docker, authentication, etc.
+CREATED: mux; sp; 00:51:10; 2020; 4.8; https://www.youtube.com/watch?v=pQAV8A9KLwk; Golang, REST API CRUD con go; seems like a decent tutorial how to build a Go/Mux API in Spanish
+CREATED: kinde;en; 00:08:38; 2023; 4.9; https://www.youtube.com/watch?v=ReQGUxXPaSM;React Authentication with Kinde; another short video showing how to intall Kinde in React (not Next.js)
+CREATED: go; sp; 01:10:00; 2024; 4.8; https://www.linkedin.com/learning/domina-go-idioms-y-pruebas-de-codigo; Domina Go: Idioms y pruebas de código; advanced Go, coding practices, testing (unit and integration)
+CREATED: gitlab; en; 01:27:00; 2022; 4.7; https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab; Continuous Integration and Continuous Delivery with GitLab; good basics of GitLab, from 2022 so not that old
+CREATED: go; sp;00:50:00; 2023;4.96; https://www.linkedin.com/learning/domina-go; Domina Go; short videos but seems to cover important topics, and 2023
+CREATED: webflow; en; 02:07:00; 2024; 3.9; https://www.linkedin.com/learning/learning-webflow-23115084/a-new-kind-of-content-management-system-24379800; Learning Webflow; enables you to build professional, responsive, customized sites using a completely visual canvas—no coding required
+CREATED: go; sp; 00:34:00;2024; 4.6; https://www.linkedin.com/learning/domina-go-creacion-y-empaquetado-de-aplicaciones; Domina Go: Creación y empaquetado de aplicaciones;finished this one, short, useful
+CREATED: easyPeasy; en; 00:47:00; 2020; 4.82; https://www.youtube.com/watch?v=sPFaDYaTUeI&list=PLNTXksYYFsn9jnS_7Vpk9Qi2vb5N-MdOM;  React Redux Easy Peasy Complete Course; old course but checking it out, uses TypeScript, only doing parts 2-4, part 1 was too simple
+CREATED: gitlab; sp; 03:11:00; 2016;4.3;https://www.linkedin.com/learning/gitlab-esencial; GitLab esencial;a solid, long course in Spanish but unfortunately very hold (2016), watch it and try to redo in the current version of GitLab
+CREATED: go; sp; 00:50:00; 2023;4.82; https://www.linkedin.com/learning/domina-go; Domina Go; short videos but seems to cover basic topics, and from 2023, but some videos are very simple, e.g. how to get the last item out of a slice
+CREATED: css; sp;01:05:00; 2016;3.7; https://www.linkedin.com/learning/css-avanzado-12-trucos/presentacion-del-curso-css-avanzado-12-trucos; CSS avanzado: 12 trucos; tutorial is 8 years old but Zuriñe has a nice voice and these topics should be timeless
+CREATED: androidUser; sp; 01:04:00;2024; 4.3;https://www.linkedin.com/learning/trucos-semanales-para-usuarios-de-android; Trucos semanales para usuarios de Android; nice tips like screen recording, Elena has a nice Spanish voice
+CREATED: python, fastapi; sp; 01:24:00; 2024; 4.7; https://www.linkedin.com/learning/domina-python-fastapi; Domina Python: FastAPI; looks interesting, in Spanish, good way to learn practical Python
+CREATED: docker; sp;02:34:00; 2024;4.91;https://www.linkedin.com/learning/docker-esencial-23119241; Docker esencial; Spanish, in depth Docker
+CREATED: react, monorepos;sp;02:27:00;2022;4.88; https://www.linkedin.com/learning/react-avanzado-2 ;React avanzado 2; monorepos, nx, storybook, testing, patterns, GitHub Actions, 70% useful
+CREATED: go, graphql, nextjs, gin;en; 02:30:00; 2020; 4.98; https://www.youtube.com/watch?v=wfBeEn8d-8A&list=PL3eAkoh7fypqxiqDq9OQGm3aJO7dZjSBI; Build GraphQL Server with Go; 10+ videos that include Next.js, Gin all working together, good way to learn GraphQL
+CREATED: ink;en;00:14:46;2021; 4.2; https://www.youtube.com/watch?v=KSRpcftVyKg; Learn Ink in 15 minutes; a quick video to learn how to make dynamic conversations using Ink, a tool used in gaming
+CREATED: react, redux; en;03:50:00; 2024; 4.69; https://www.linkedin.com/learning/building-modern-projects-with-react-24955170; Building Modern Projects with React; lots of Redux, some Webpack, testing, seems to be React from a different angle, also Remix, Next.js
+CREATED: nextjs, mongo; en;03:54:00;2024;4.99; https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site/create-a-full-stack-site-with-next-js; Next.js: Creating and Hosting a Full-Stack Site; Shaun Wassell, looks like an excellent
+CREATED: grid; en;02:28:00; 2024;4.91;https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327; CSS: Advanced Layouts with Grid; long course on grid, looks good
+CREATED: monorepos; en; 00:55:00; 2024; 4.89; https://www.linkedin.com/learning/building-a-scalable-monorepo-with-javascript-and-typescript; Building a Scalable Monorepo with JavaScript and TypeScript; looks like a quick deep dive in monorepos
+CREATED: flask; en; 02:02:00; 2024; 4.68; https://www.linkedin.com/learning/flask-essential-training-24681038;  Flask Essential Training ; seems like a solid course on Flask
+CREATED: flask; en; 02:32:00; 2024; 4.78; https://www.linkedin.com/learning/building-restful-apis-with-flask;  Building RESTful APIs with Flask ; seems like the essentials of Flash, i.e. an API
+CREATED: skeleton, svelte; en; 00:16:12; 2023; 4.6; https://www.youtube.com/watch?v=P_A0qQ7AuK8; Skeleton UI Library for Svelte; a UI library for Svelte, I used it and it worked well, used it in my SvelteKit 5 showcase
+CREATED: react, hooks; sp; 02:46:00; 2021; 4.81; https://www.linkedin.com/learning/react-hooks-esencial; React Hooks esencial; basics of React hooks, it only has a small section on custom hooks, and is focused on showing how one moves from class components to function components (created in 2021), discontinued as rest of content is too simplistic
+CREATED: svelte5; en; 00:21:40; 2024; 4.8; https://www.youtube.com/watch?v=tErKyuUTzsM; Svelte 5 Guide For Beginners; good video, recorded all useful concepts in SvelteKit 5 showcase
+CREATED: svelte5; en; 00:22:03; 2024; 4.8; https://www.youtube.com/watch?v=tC9KSwnczxQ; Svelte 5 Is A Triumph; another good Svelte 5 video, recorded all concepts in SvelteKit 5 showcase
+CREATED: svelte5;en;00:17:40; 2024; 4.8; https://www.youtube.com/watch?v=OlWWIbRz438; Use Svelte 5 Snippets To Reuse Markup Without Creating Components; is about Snippets but more, e.g. generics
+CREATED: python;en;00:09:04;2024;4.2;https://www.youtube.com/watch?v=Y21OR1OPC9A; Python Virtual Environments - Full Tutorial for Beginners ; shows how to install a Python virtual environment
+CREATED: python, pycharm, jupyter;en;00:29:00; 2021;4.2; https://www.linkedin.com/learning/python-tools-jupyter-vs-pycharm/pycharm-vs-the-jupyter-notebook; Python Tools: Jupyter vs. PyCharm; simply shows how to use PyCharm and Jupyter
+CREATED: cypress;en;02:06:00;2024;4.89;https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013;End-to-End JavaScript Testing with Cypress.io;Shaun Wassel, Cypress, very new, looks good
+CREATED: python,functionalProgramming;en;01:55:00;2024;4.89;https://www.linkedin.com/learning/functional-programming-with-python/a-functional-approach-to-transform-code-25049215;  Functional Programming with Python ; Shaun Wassel, new course on functional programming in Python: recursion, higher-order functions, lambdas, filtering, reducing, currying
+CREATED: laravel;fr;02:22:00;2022;4.71;https://www.linkedin.com/learning/l-essentiel-de-laravel-9; L'essentiel de Laravel 9 ; Julian Layen, long course on Laravel in French
+CREATED: python;en;02:21:00;2024;4.81;https://www.linkedin.com/learning/skill-up-with-python-hands-on-data-science-and-machine-learning-projects; Skill Up with Python: Hands-On Data Science and Machine Learning Projects ; Shaun Wassell teaches practical Python with projects
+CREATED: laravel;en;03:14:00;2024;4.77;https://www.linkedin.com/learning/laravel-essential-training; Laravel Essential Training ;Laravel 11 created late 2024, woman teacher from India with understandable accent, comprehensive, would be good for latest basics of Laravel
+CREATED: git;en;02:37:00;2023;4.93;https://www.linkedin.com/learning/git-for-teams/using-git-for-team-collaboration;  Git for Teams ; Kevin Bowersox, lots of good tips for teams, Gitlab installation, secrets, Git flow, GitLab Runner, CI pipeline, cherry-picking, squashing, reverting
+CREATED: trpc;en;00:45:35;2023;4.87;https://www.youtube.com/watch?v=UfUbBWIFdJs&t=82s; Learn tRPC In 45 Minutes ; by Kyle, looks like a solid explanation under an hour
+CREATED: playwright;en;02:41:00;2024;4.83;https://www.linkedin.com/learning/learning-playwright;  Learning Playwright ; looks like a decent introduction course, also API testing
+CREATED: kotlin;sp;04:52:00;2022;4.89; https://www.linkedin.com/learning/kotlin-esencial;Kotlin esencial; very long course on the basics; nice spanish voice, she has many courses on kotlin, she uses IntelliJ IDEA (has free version)
+CREATED: githubActions;fr;02:03:00;2023;4.44;https://www.linkedin.com/learning/l-essentiel-de-github-actions/bienvenue-dans-l-essentiel-de-github-actions; L'essentiel de GitHub Actions ; long and solid course in French
+CREATED: laravel;fr;02:33:00;2024;4.88;https://www.linkedin.com/learning/l-essentiel-de-laravel; L'essentiel de Laravel ;Julian Layen teaches this, comprehensive, uses Laravel 10 released Feb 2023, version 11 was release Mar 2024, but this is a new, long course in French
+CREATED: go;en;04:36:00;2024;4.85;https://www.linkedin.com/learning/go-for-developers-practical-techniques-for-effective-coding; Go for Developers: Practical Techniques for Effective Coding ;a basic course but extensive, just listen and take notes over a month or so
+CREATED: go;en;00:47:00;2024;4.91;https://www.linkedin.com/learning/writing-command-line-applications-in-go; Writing Command Line Applications in Go ;short course by Miki Tebeka, looks like he doesn't use any kind of framework like Cobra, etc.
+CREATED: go;en;00:42:00;2023;4.87;https://www.linkedin.com/learning/generics-in-go/function-argument-type-inference; Generics in Go ;teacher is a bit difficult to understand but a shorter course and good overview of generics
+CREATED: go;en;01:36:00;2022;4.83;https://www.linkedin.com/learning/level-up-go;Level Up: Go;Short tasks to think about and then see the solution, e.g. recursion, etc., looks useful, teacher not native speaker but decent explanations
+CREATED: go;en;01:12:00;2023;4.92;https://www.linkedin.com/learning/go-performance-optimization; Go Performance Optimization ;Mike Tebeka, deep concepts, good course
+CREATED: go;en;01:22:00;2023;4.98;https://www.linkedin.com/learning/go-recipes-practical-projects; Go Recipes: Practical Projects ;more of a basic course, but Mike Tebeka, good explanations and mux, sync.Once, authentication, etc
+CREATED: go;en;00:55:00;2024;4.82;https://www.linkedin.com/learning/deep-dive-into-go-lang-interfaces; Deep Dive Into Go Lang Interfaces ;deeper course, good to watch through and let the concepts sink in
+CREATED: go;en;01:25:00;2021;4.96;https://www.linkedin.com/learning/go-design-patterns; Go Design Patterns ;Joe Marini, quality course, all the patterns from OOP
+CREATED: python;en;01:55:00;2023;4.93;https://www.linkedin.com/learning/python-object-oriented-programming-22888296; Python Object-Oriented Programming ;Joe Marini, good course, in depth with OOP for Python
+CREATED: python;en;02:05:00;2024;4.89;https://www.linkedin.com/learning/advanced-python-working-with-data; Advanced Python: Working With Data ;Joe Marini, watch quickly but all about data serialization, etc.
+CREATED: canvas;en;02:09:00;2024;4.71;https://www.linkedin.com/learning/learning-html-canvas;Learning HTML Canvas;basic course on canvas with Joe Marini
+CREATED: python;en;01:24:00;2018;4.91;https://www.linkedin.com/learning/python-advanced-design-patterns;Python: Advanced Design Patterns;Jungwoo Ryoo, good course, explains concept of pattern first then an example
+CREATED: python;en;02:12:00;2021;4.91;https://www.linkedin.com/learning/python-design-patterns-14304845;Python: Design Patterns;Jungwoo Ryoo, good course, explains concept of pattern first then an example
+CREATED: go, grpc;en;01:09:00;2023;4.81;https://www.linkedin.com/learning/grpc-in-go; gRPC in Go ;interesting mix of gRPC and Go, by Miki Tebeka
+CREATED: python, django;en;02:39:00;2024;4.95;https://www.linkedin.com/learning/django-essential-training-25094632; Django Essential Training ;Leticia Portella, nice voice, seems competent, long basic course on Django, good place to start, authentication, login, logout, signup, released Dec 2024
+CREATED: osbstudio;en;01:05:00;2024;4.95;https://www.linkedin.com/learning/live-streaming-with-obs-open-broadcaster-software;Live Streaming with OBS (Open Broadcaster Software);an hour-long course on OSB Studio, more of streaming instead of recording but a good overview
+CREATED: python;es;01:44:00;2023;4.91;https://www.linkedin.com/learning/python-avanzado-2/mejora-con-python-19000119; Python avanzado 2 ;another course by Ana María, she goes over classes, type hinting, mypy, closures, decorators, async, tests and SQLAlchemy
+CREATED: python;fr;02:08:00;2016;4.71;https://www.linkedin.com/learning/python-les-structures-de-donnees;Python : Les structures de données;old course (2016) but retro with Rudi Bruchez, unique, all about data
+CREATED: python;fr;02:33:00;2021;4.92;https://www.linkedin.com/learning/django-creer-un-blog; Django : Créer un blog ;Docstring has a clean accent, practical Django project
+CREATED: python;fr;01:16:00;2021;4.92;https://www.linkedin.com/learning/python-les-tests-unitaires; Python : Les tests unitaires ;Docstring, good course on Python testing
+CREATED: python;fr;02:06:00;2021;4.91;https://www.linkedin.com/learning/l-essentiel-de-django; L'essentiel de Django ;basics of Django, Docstring has nice accent, short
+CREATED: css;fr;06:23:00;2024;4.81;https://www.linkedin.com/learning/l-essentiel-des-css-2; L'essentiel des CSS ;a very up-to-date and solid course (6+ hours) on CSS, in French, nice accent (Damian Bruyndonckx), responsive, etc.
+CREATED: python, pandas, Jupyter;fr;01:47:00;2021;4.95;https://www.linkedin.com/learning/pandas-pour-la-data-science; pandas pour la data science ;Docstring on pandas and Jupyter setup, good
+CREATED: html, images;fr;02:18:00;2024;4.69;https://www.linkedin.com/learning/html-les-images-responsive; HTML : Les images responsive ;a nice French class, 2 hours, Damien Bruyndonckx nice accent, good way to get a good grasp of using images, even webp etc.
+CREATED: webpack;fr;02:14:00;2024;4.54;https://www.linkedin.com/learning/l-essentiel-de-webpack-5; L'essentiel de Webpack 5 ;a nice retro course with Damian Bruyndonckx in French
+CREATED: npm;fr;01:30:00;2019;4.42;https://www.linkedin.com/learning/l-essentiel-de-node-package-manager-npm; L'essentiel de Node Package Manager (npm) ;shows how to publish npm package, nice French with Damien Bruyndonckx
+CREATED: flash,python;fr;02:21:00;2024;4.99; https://www.linkedin.com/learning/l-essentiel-de-flask/bienvenue-dans-l-essentiel-de-flask ; L'essentiel de Flask ;Sylvain Labasse 2024, full course on Flash, very nice
+CREATED: python, ai;fr;02:00:00;2024;4.981;https://www.linkedin.com/learning/creer-des-agents-ia-avec-langchain-et-llamaindex; Créer des agents IA avec LangChain et LlamaIndex ;good French course for Python AI libraries, Madjid Khichane
+CREATED: scala;fr;02:48:00;2023;4.33;https://www.linkedin.com/learning/l-essentiel-de-scala/bienvenue-dans-l-essentiel-de-scala; L'essentiel de Scala ;Scala in French, new course
+CREATED: pycharm, python;en;02:25:00;2022;4.53;https://www.linkedin.com/learning/learning-python-with-pycharm-14509667/software-development-and-pycharm ; L'essentiel de Flask ;English course that shows how to use PyCharm, 2022
+CREATED: git;en;01:04:00;2022;4.989;https://www.linkedin.com/learning/git-workflows/github-flow-in-practice; Git Workflows ;good course on how to structure Git in teams
+CREATED: ai;en;02:00:00;2024;4.98;https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends;Welcome to AI Trends;covers the latest trends in AI, e.g. Claude artifacts, NPUs, Gemini, GPT-4o, Sora, etc.
+CREATED: ai;fr;02:00:00;2024;4.96;https://www.linkedin.com/learning/creer-des-agents-ia-avec-langchain-et-llamaindex;Creating AI Agents with LangChain and LlamaIndex; an AI course that focuses on a specific technology
+CREATED: python, testing;en;01:38:00;2024;4.4;https://www.linkedin.com/learning/python-automation-and-testing;Python Automation and Testing;a python testing course
+CREATED: nodered;en;00:39:00;2022;4.1;https://www.linkedin.com/learning/build-sap-integration-with-node-red; Build SAP Integration with Node-RED ;watching this for a coding challenge, gives quick overview of Node-RED
+CREATED: nodered;en;01:00:00;2020;4.3;https://www.youtube.com/watch?v=ksGeUD26Mw0&list=PLyNBB9VCLmo1hyO-4fIZ08gqFcXBkHy-6;Node-RED Essentials;19 videos to show the basics of Node-RED
+
+CREATED: ai;de;01:23:00;2024;4.998;https://www.linkedin.com/learning/ki-unterstutztes-programmieren-mit-openai-und-chatgpt; KI-unterstütztes Programmieren mit OpenAI und ChatGPT ;Ralph Steyer, AI in JavaScript and Python
+CREATED: numpy, python;de;02:00:00;2024;4.92;https://www.linkedin.com/learning/numpy-grundkurs; NumPy Grundkurs ;Ralph Steyer deep course in numpy
+CREATED: ai, python;fr;01:41:00;2024;4.87;https://www.linkedin.com/learning/python-pour-le-machine-learning; Python pour le machine learning ;Alison Patou, this course uses Jupyter, important for AI development
+CREATED: ai,tensorflow;fr;04:28:00;2021;4.91;https://www.linkedin.com/learning/tensorflow-pour-le-deep-learning; TensorFlow pour le deep learning ;Madjid in French, 2021, good overview of TensorFlow, and very long
+CREATED: ai;es;01:28:00;2024;4.9988;https://www.linkedin.com/learning/desarrollar-aplicaciones-basadas-en-llms-con-lanchain-semantic-kernel-y-prompt-flow; Desarrollar aplicaciones basadas en LLMs con LanChain, Semantic Kernel y Prompt Flow ;Diana Diaz looks good, new course and mentions lots of AI: LangChain, Semantic Kernel, etc. and focuses on building apps
+CREATED: tensorflow, ai;es;03:32:00;2019;4.68;https://www.linkedin.com/learning/tensorflow-esencial/aprende-los-fundamentos-de-tensorflow; TensorFlow esencial ;old but a long Spanish course, and ChatGPT suggested that not too many things have changed since then
+CREATED: python, ai, scikitlearn;es;01:15:00;2024;4.4;https://www.linkedin.com/learning/domina-python-scikit-learn; Domina Python: Scikit-learn ;Ana María on Scikit-learn
+CREATED: python, ai;es;01:00:00;2024;4.88;https://www.linkedin.com/learning/domina-python-inteligencia-artificial; Domina Python: Inteligencia artificial ;general course on AI with Ana María
+CREATED: python, pytorch, ai;es;01:29:00;2024;4.77;https://www.linkedin.com/learning/domina-keras; Domina Keras ;could intro course in Spanish, Lincy, the easier teacher
+CREATED: keras, ai;en;01:50:00;2024;4.3;https://www.linkedin.com/learning/building-deep-learning-applications-with-keras; Building Deep Learning Applications with Keras ;nice intro to Keras, mentions Neuron, TensorFlow, ResNet50, TensorBoard
+CREATED: tensorflow, ai;en;00:38:00;2024;4.94;https://www.linkedin.com/learning/tensorflow-practical-skills-in-constructing-training-and-optimizing-models;TensorFlow: Practical Skills in Constructing, Training, and Optimizing Models;good intro course to Tensorflow, only 30 minutes
+CREATED: python, pytorch, ai;en;01:21:00;2024;4.4;https://www.linkedin.com/learning/pytorch-essential-training-deep-learning-23753149/deep-learning-with-pytorch; PyTorch Essential Training: Deep Learning;good starting course in PyTorch, Terezija is a good geek teacher
+CREATED: springboot;es;02:38:00;2023;4.32;https://www.linkedin.com/learning/spring-boot-esencial;Spring Boot esencial;Mariona has a nice Spanish voice, good basics for Spring Boot, does web and command line sections
+CREATED: firebase;en;02:29:00;2020;4.69;https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase;React: Cloud-Powered Apps with Firebase;Quite a deep-dive into Firebase's setup, authentication, and storage
+CREATED: mobx;en;00:13:02;2021;4.68;https://www.youtube.com/watch?v=nGZCL6Wd_zQ;Typescript for React and MobX From Beginners to Masters;Jack Harrington only 13 minutes but probably a good overview of what Mobx can do with TypeScript
+CREATED: kotlin;en;04:42:00;2022;4.78;https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o; Kotlin Essential Training: Functions, Collections, and I/O ;Good basic course on Kotlin, uses IntelliJ IDEA, community version is free
+CREATED: kafka;es;00:51:00;2023;4.23;https://www.linkedin.com/learning/domina-apache-kafka; Domina Apache Kafka ;with Lincy so simplified, decent course and recent
+CREATED: angular;en;12:06;2024;4.8;https://www.youtube.com/watch?v=yowIIU5JgEE; How to Create Your First Angular 19 Application: Standalone & Module-Based Templates Explained ;Use to install Angular 19 and upgrade your site
+CREATED: angular, signals;en;00:10:01;2023;4.7;https://www.youtube.com/watch?v=RLoACfLYwPs;Learn Angular Signals - The Future of State Management;Good base video on signals, shows code
+CREATED: angular, signals, rxjs;en;00:07:25;2023;4.6;https://www.youtube.com/watch?v=WL7QEhdqh00; Angular Signals or RxJS - They are not a replacement ;Quick video on the topic
+CREATED: angular, ngrx;en;01:13:00;2018;4.2;https://www.linkedin.com/learning/learning-ngrx/improve-your-angular-architecture-with-ngrx; Learning NgRx ;old course, you learn how NgRx provides an Angular-specific implementation of Redux that supports lazy-loaded modules, observables, and asynchronous side effects
+CREATED: stateManagement, react;en;01:49:00;2023;4.95;https://www.linkedin.com/learning/react-state-management-22688323;React: State Management;covers useReducer, useContext, Recoil,
+CREATED: architecture;en;00:47:00;2021;4.1;https://www.linkedin.com/learning/software-architecture-from-developer-to-architect; Software Architecture: From Developer to Architect ;Course about moving from developer to architect, watching quickly
+CREATED: elasticsearch;de;02:20:00;2017;4.1;https://www.linkedin.com/learning/elasticsearch-grundkurs;Elasticsearch Grundkurs;in German but old 2017
+CREATED: elasticsearch;fr;01:59:00;2022;4.8;https://www.linkedin.com/learning/l-essentiel-de-elasticsearch;L'essentiel de Elasticsearch;good overview, in French
+CREATED: elasticsearch;en;01:40:00;2023;4.7;https://www.linkedin.com/learning/elasticsearch-essential-training-18773441;Elasticsearch Essential Training;good overview, normal voice
+CREATED: elasticsearch;en;;2023;4.6;https://www.linkedin.com/learning/elasticsearch-in-depth; Elasticsearch in Depth;shows how elasticsearch can do "more than full-text search", nice voice
+CREATED: AWS,jobrad;en;04:08:00;2023;4.89;https://www.linkedin.com/learning/aws-essential-training-for-developers-17237791; AWS Essential Training for Developers;good base course on AWS, RDS, S3, and shows how to use them
+CREATED: aws,jobrad;en;12:00:00;2024;4.92;https://www.linkedin.com/learning/hands-on-development-in-aws;Hands-On Development in AWS;a 12-hour course, covers everything, presenter just reads but technical, mostly powerpoints but some code
+CREATED: nextjs, ai;en;01:17:00;2024;4.987;https://www.linkedin.com/learning/ai-for-react-developers; AI for React Developers ;Uses Next.js and v0, nice, no Italian subtitles so will do Dutch
+CREATED: openai, python, ai;en;01:32:00;2023;4.8;https://www.linkedin.com/learning/building-apps-with-ai-tools-chatgpt-semantic-kernel-and-langchain; Building Apps with AI Tools: ChatGPT, Semantic Kernel, and Langchain ;uses the OpenAI API with Python
+CREATED: openai, python, ai;en;00:59:00;2024;4.8;https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution; Hands-On OpenAI API: Building a Real-World Solution ;transcribes audio files with OpenAI, uses Python
+CREATED: openai, ai, python;en;00:34:00;2023;4.4;https://www.linkedin.com/learning/openai-api-building-assistants; OpenAI API: Building Assistants ;Morten is the teacher, short, Python but he uses the API, shows how to use the Playground
+CREATED: ai, node, openai;fr;01:32:00;2024;4.9999;https://www.linkedin.com/learning/l-essentiel-d-openai-et-des-modeles-de-langage-gpt-pour-node-js; L'essentiel d'OpenAI et des modèles de langage GPT pour Node.js ;Sandy Ludosky, French, uses OpenAI in Node, June 2024 recent
+CREATED: openai, ai, python;fr;01:39:00;2024;4.9988;https://www.linkedin.com/learning/l-essentiel-d-openai-pour-le-developpement-en-python; L'essentiel d'OpenAI pour le développement en Python ;Sandy Ludosky, French, Python, connects to OpenAI API with key, etc.
+CREATED: ai, openai, python;es;01:28:00;2023;4.999888;https://www.linkedin.com/learning/openai-para-desarrollo-esencial; OpenAI para desarrollo esencial ;Rodrigo Días Concha, OpenAI with Python, he had the same course in English
+CREATED: ai, node, openai;en;00:36:00;2024;4.78;https://www.linkedin.com/learning/openai-api-working-with-files; OpenAI API: Working with Files ;shorter but uses Node to access OpenAI to upload and store files
+CREATED: openai, ai, python;en;02:18:00;2024;4.91;https://www.linkedin.com/learning/openai-api-for-python-developers; OpenAI API for Python Developers ;Sandy Ludosky, basic Python and OpenAI API, longer course
+CREATED: openai, ai, nextjs;en;00:08:01;2024;4.99999;https://www.youtube.com/watch?v=sHuIIX79MOs; Build Your First AI Chatbot in 8 Minutes (with Next.js & OpenAI) ;8-minute video on Next.js and OpenAI
+CREATED: openai, ai, nextjs;en;00:07:41;2024;4.99999; https://www.youtube.com/watch?v=I14_HrJktIs;ChatGPT Bot with NEXT.JS 13 and OpenAI API in 10 minutes; looks good, only four months ago
+CREATED: react, authentication;en;05:12:00;2021;4.7;https://www.linkedin.com/learning/react-authentication; React: Authentication ;long, Shawn Wassel but 2021, does have Kinde or the like
+CREATED: react,aws;en;02:47:00;2021;4.88;https://www.linkedin.com/learning/creating-a-serverless-application-using-react-in-aws/2392677; Creating a Serverless Application Using React in AWS ; good course about React running on AWS
+
+
+
+CREATED: csharp;es;01:52:00;2022;4.5;https://www.linkedin.com/learning/c-sharp-avanzado-2; C# avanzado 2;Noemí León, a good overview of C# to get back into it
+CREATED: php;es;01:44:00;2022;4.8;https://www.linkedin.com/learning/php-avanzado-19675676; PHP avanzado ;Gabriela García, nice voice
+CREATED: angular,ngrx,redux;fr;01:58:00;2021;4.51;https://www.linkedin.com/learning/angular-gerer-les-etats-d-application-avec-redux-et-ngrx;Angular : Gérer les états d'application avec Redux et NgRx;Elise Patrikainen, nice voice, nice advanced Angular course but 2021, but should work with newer versions
+CREATED: typescript,dpod;fr;02:21:00;2025;4.8;https://www.linkedin.com/learning/l-essentiel-de-typescript; L'essentiel de TypeScript ;French, very new, essentials but goes into advanced topics
+CREATED: typescript, dpod;es;01:45:00;2020;4.73;https://www.linkedin.com/learning/typescript-trucos; Generación dinámica de tipos de datos ;Sergio, long course, Spanish, a good overview course and some depth
+CREATED: typescript,dpod;es;02:45:00;2021;4.83;https://www.linkedin.com/learning/typescript-avanzado; TypeScript avanzado ;Sergio, extra topics like NPM package, etc. good course and Spanish
+CREATED: typescript,rust,go,dpod;en;02:10:00;2025;4.97;https://www.linkedin.com/learning/choosing-the-right-back-end-language-typescript-go-or-rust-for-your-greenfield-project; Choosing the Right Back-End Language: TypeScript, Go, or Rust for Your Greenfield Project ;Nice course to give good background and comparison for each of these three languages, save to tech-quote site
+CREATED: typescript,dpod;es;01:54:00;2024;4.52;https://www.linkedin.com/learning/advanced-typescript-concepts; Advanced TypeScript Concepts ;Maikke van Putten, interesting teacher (Dutch?), advanced topics: e.g. reflection, patterns
+CREATED: typescript,dpod;en;01:03:00;2020;4.4;https://www.linkedin.com/learning/typescript-object-oriented-programming; TypeScript: Object-Oriented Programming ;the basics of OOP in TypeScript, a good overview
+CREATED: python,dpod;es;01:23:00;2023;4.51;https://www.linkedin.com/learning/domina-python;Domina Python;Ana María Pinto, deep concepts, images, etc.
+CREATED: php,dpod;fr;02:29:00;2023;4.97;https://www.linkedin.com/learning/php-la-programmation-orientee-objet; PHP : La programmation orientée objet ;Laurent N'Daw, long course and good updated basics of classes
+CREATED: php,dpod;fr;01:56:00;2024;4.83;https://www.linkedin.com/learning/php-l-architecture-mvc; PHP : L'architecture MVC ;Laurent N'Daw shorter course, French, but MVC
+CREATED: php, dpod;fr;01:59:00;2024;4.93;https://www.linkedin.com/learning/php-la-programmation-orientee-objet-avec-les-bases-de-donnees; PHP : La programmation orientée objet avec les bases de données ;also Laurent N'Daw, French with OOP and data, good combination, does active record, etc.
+CREATED: csharp,dpod;es;02:23:00;2017;4.94;https://www.linkedin.com/learning/c-sharp-programacion-orientada-a-objetos;C#: Programación orientada a objetos;Noemí León, decent overview, but a bit old (2017), but Spanish
+CREATED: csharp,dpod;es;02:24:00;2019;4.91;https://www.linkedin.com/learning/c-sharp-interfaces-delegados-eventos-y-genericos-esencial; C#: Interfaces, delegados, eventos y genéricos esencial ; topics beyond OOP, Juan José Montiel Pérez, nice voice, older 2019 but long
+CREATED: csharp,dpod;es;01:46:00;2020;4.92;https://www.linkedin.com/learning/c-sharp-avanzado-1; C# avanzado 1 ;Noemí León, good overview course to get back into C#, and in Spanish
+CREATED: csharp,dpod;fr;01:09:00;2018;4.81;https://www.linkedin.com/learning/c-sharp-delegues-evenements-et-expressions-lambdas;  C# : Délégués, évènements et expressions lambdas ; Sylvain Labasse, good advanced class
+CREATED: csharp,dpod;fr;01:03:00;2018;4.87;https://www.linkedin.com/learning/c-sharp-les-collections-et-generiques;  C# : Les collections et génériques ; Sylvain Labasse, good advanced class
+CREATED: csharp,dpod;fr;00:48:00;2022;4.96;https://www.linkedin.com/learning/10-astuces-a-connaitre-en-c-sharp; 10 astuces à connaître en C# ;Sylvain Labasse, good course to build examples into dpod
+CREATED: csharp,python,dpod;en;02:15:00;2025;4.21;https://www.linkedin.com/learning/transition-from-c-sharp-to-python; Transition from C# to Python ;Joe Marini, unique class
+CREATED: csharp,dpod;en;02:31:00;2024;4.94;https://www.linkedin.com/learning/nail-your-c-sharp-interview; Nail Your C# Interview ;Kathyrn Hodge, a bit forced, but good concepts, e.g. using TryDequeue in a while loop
+CREATED: csharp,dpod;en;01:56:00;2025;4.93;https://www.linkedin.com/learning/c-sharp-hands-on-practice-with-data-structures; C# Hands-on Practice with Data-Structures ;DESC
+CREATED: ruby,dpod;es;01:09:00;2024;4.96;https://www.linkedin.com/learning/domina-ruby-strings-arrays-y-hashes; Domina Ruby: Strings, Arrays y Hashes ;Carla Urrea Stabile, nice voice, Spanish, good basics plus for Ruby
+CREATED: ruby,dpod;es;00:38:00;2024;4.93;https://www.linkedin.com/learning/domina-ruby-scripting-archivos-clases-modulos-y-metodos;  Domina Ruby: Scripting, archivos, clases, módulos y métodos ;Carla Urrea Stabile, nice voice, Spanish, more good basics plus for Ruby
+CREATED: ruby,dpod;en;04:02:05;2018;4.89;https://youtu.be/t_ispmWmdjY?list=PL_EzhIKp343lBMH4UuklrMRL_WkilGoXe&t=10;Ruby Programming Language - Full Course;Mike at Free Code Camp, speaks cleanly so subtitles can be displayed in other languages, four hour thorough overview of Ruby
+CREATED: ruby,dpod;en;04:02:05;2018;4.89;https://www.youtube.com/watch?v=t_ispmWmdjY&list=PL_EzhIKp343lBMH4UuklrMRL_WkilGoXe;Ruby Programming Language - Full Course;Mike at Free Code Camp, speaks cleanly so subtitles can be displayed in other languages, four hour thorough overview of Ruby
+CREATED: elixir,dpod;en;03:04:00;2022;4.99;https://www.linkedin.com/learning/elixir-101-essential-functional-programming-techniques; Elixir 101: Essential Functional Programming Techniques ; Vanessa Lee, very long course, all Elixir basics
+CREATED: bash,dpod;es;02:26:00;2024;4.78;https://www.linkedin.com/learning/aprende-shell-scripting-en-linux; Aprende Shell Scripting en Linux ;shell scripting in Spanish, seems like the basics
+CREATED: bash,dpod;de;03:12:00;2024;4.93;https://www.linkedin.com/learning/bash-shell-scripting-lernen; Bash-Shell-Scripting lernen ;Tim Schürmann, nice voice, good examples (renamining files in directory in three lines)
+CREATED: bash,dpod;de;02:58:00;2024;4.93;https://www.linkedin.com/learning/bash-shell-scripting-fur-fortgeschrittene-variablen-funktionen-und-prozessmanagement; Bash-Shell-Scripting für Fortgeschrittene: Variablen, Funktionen und Prozessmanagement ;the advanced course by Tim, nice voice, solid concepts and examples
+CREATED: bash,dpod;fr;01:42:00;2017;4.88;https://www.linkedin.com/learning/decouvrir-l-ecriture-de-scripts-en-bash; Découvrir l'écriture de scripts en Bash ;Rudi Bruchez for old times sake, basic course on bash scripting
+CREATED: bash,dpod,awk;en;02:01:00;2022;4.97;https://www.linkedin.com/learning/awk-essential-training; AWK Essential Training ;good, solid, long course on AWK
+CREATED: bash,dpod,sed;en;00:15:24;2022;4.94;https://www.youtube.com/watch?v=nXLnx8ncZyE; Linux Crash Course - The sed Command ;basic short video on SED basics
+CREATED: rust,dpod;es;02:26:00;2024;4.95;https://www.linkedin.com/learning/rust-esencial-24011472; Rust Esencial ;solid Rust course in Spanish, Eliezer López, nice voice, professional
+CREATED: rust,dpod;fr;01:59:00;2022;4.93;https://www.linkedin.com/learning/decouvrir-rust; Découvrir Rust ;solid course on Rust in French, Benjamin Coenen, nice voice
+CREATED: rust,dpod,javascript;en;01:17:00;2023;4.92;https://www.linkedin.com/learning/rust-for-javascript-developers; Rust for JavaScript Developers ;nice comparison course, showing Rust from a JavaScript perspective
+CREATED: rust,dpod,leptos;es;01:21:00;2022;4.78;https://www.linkedin.com/learning/full-stack-web-applications-with-rust-and-leptos; Full-Stack Web Applications with Rust and Leptos ;Rust in action, will be interesting to get to know Leptos, very practical teacher, simply blogging application, for Hetzner
+CREATED: rust,python,dpod;en;01:32:00;2024;4.98;https://www.linkedin.com/learning/using-rust-with-python; Using Rust with Python ;experienced teacher, "use Rust for what it's best at, and Python for what it's best at, moving them closer together"
+CREATED: rust,dpod;en;06:35:00;2024;4.78;https://www.linkedin.com/learning/rust-programming-from-fundamentals-to-advanced-concepts-with-ai-assisted-development; Rust Programming: From Fundamentals to Advanced Concepts with AI-Assisted Development ;interesting course, six hours, says it uses AI but didn't see how, he compares languages in his explanations, seems experienced
+CREATED: rust,dpod;de;02:26:00;2021;4.89;https://www.linkedin.com/learning/rust-lernen;Rust lernen;Tim Schürmann, very organized and clear
+CREATED: rust,dpod;en;06:47:00;2021;4.91;https://www.linkedin.com/learning/rust-essential-training; Rust Essential Training ;nice, long tour of Rust starting from the basics
+CREATED: rust,dpod;en;01:30:00;2022;4.89;https://www.linkedin.com/learning/practice-it-rust-file-manipulation; Practice It: Rust File Manipulation ;Rust and files, nice focus
+CREATED: kotlin,dpod;es;04:52:00;2022;4.976;https://www.linkedin.com/learning/kotlin-esencial; Kotlin esencial ;María Puy Arrastia Lana, nice voice, long course in Kotlin in Spanish
+CREATED: kotlin,dpod;es;01:52:00;2022;4.576;https://www.linkedin.com/learning/kotlin-avanzado-2; Kotlin avanzado ;María Puy Arrastia Lana, nice voice, advanced course in Kotlin in Spanish
+CREATED: kotlin,dpod;en;02:34:00;2022;4.95;https://www.linkedin.com/learning/transitioning-from-java-to-kotlin; Transitioning from Java to Kotlin ;Nate Ebel, nice comparison course, nice voice
+CREATED: kotlin,dpod;en;02:51:00;2022;4.96;https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code; Kotlin Essential Training: Object-Oriented and Async Code  ;Nate Ebel, nice OOP course on Kotlin, nice voice
+CREATED: kotlin,dpod;en;04:42:00;2022;4.95;https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o; Kotlin Essential Training: Functions, Collections, and I/O ;Nate Ebel, file I/O and other useful topic, nice voice
+CREATED: csharp,dpod;en;01:18:00;2024;4.95;https://www.linkedin.com/learning/advanced-c-sharp-classes-records-and-structs; Advanced C#: Classes, Records, and Structs ;Good base OOP course, short, but by Joe Marini
+CREATED: csharp,dpdoing;en;01:46:00;2023;4.991;https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming; Advanced C#: Object-Oriented Programming ;Joe Marini, longer OOP course, very good
+CREATED: csharp,dpod;en;03:10:00;2024;4.983;https://www.linkedin.com/learning/advanced-c-sharp-functional-programming-patterns-25066789; Advanced C#: Functional Programming Patterns ;Very detailed course on functional programming in C#
