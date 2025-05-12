@@ -112,14 +112,19 @@
 >>create>>poetry, python, backend25;en;00:14:42;2023;4.88;https://www.youtube.com/watch?v=0f3moPe_bhk; How to Create and Use Virtual Environments in Python With Poetry ;good overview and then showing how to use Poetry
 
 ### PYENV (PYTHON VERSION MANAGEMENT) ######################################################
+>>create>>pyenv, backend25;en;00:10:47;2021;4.77;https://www.youtube.com/watch?v=31WU0Dhw4sk; How to Install and Run Multiple Python Versions on macOS | pyenv & virtualenv Setup Tutorial ;watch this quick as an overview
+
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-https://www.youtube.com/watch?v=31WU0Dhw4sk watch this quick as an overview, 4.77
 https://www.youtube.com/watch?v=MVyb-nI4KyI watch and install pyenv on Ubuntu, 4.89
 
 ### WGET ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 https://www.youtube.com/watch?v=FuGRDIOObew good overview of how to use wget, 4.88
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 https://www.youtube.com/watch?v=So_fdFW5SXU history of wget and curl, 4.86
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 https://www.youtube.com/watch?v=zszbBJ81_YU simple examples, 4.77
 
 ### ZED ######################################################
