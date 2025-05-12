@@ -121,21 +121,16 @@
 >>create>>wget, backend25;en;00:12:38;2022;4.77;https://www.youtube.com/watch?v=zszbBJ81_YU; The wget Command | How to Download Files From a Server ; simple examples of wget
 
 ### ZED ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-https://www.youtube.com/watch?v=lLNA58Pkfqk ten minutes on installing and an overview of Zed
+>>create>>zed, backend25;en;00:10:34;2024;4.98;https://www.youtube.com/watch?v=lLNA58Pkfqk;TITLE;ten minutes on installing and an overview of Zed
 
 ### SSH ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-https://www.linkedin.com/learning/learning-ssh-14571185/learning-ssh 2022, basic course on SSH by Scott Simpson, 4.88
+>>create>>ssh, backend25;en;01:36:00;2022;4.88;https://www.linkedin.com/learning/learning-ssh-14571185/learning-ssh; Learning SSH ;basic course on SSH by Scott Simpson
 
 ### MISE EN PLACE ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-https://www.youtube.com/watch?v=BOGWfATch-g eight minutes of a background to mise by someone who uses it, "frontend to your dev environment"
+>>create>>mise, backend25;en;00:08:31;2025;4.91;https://www.youtube.com/watch?v=BOGWfATch-g; Mise vs. ASDF: Why a Rust Rewrite and Curated Plugins Make All the Difference #rust ;eight minutes of a background to mise by someone who uses it, "frontend to your dev environment", recent
 
 ### PYCHARM ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-https://www.youtube.com/watch?v=2EB8siO-_OM&list=PLCTHcU1KoD98IeuVcqJ2rt1FNytfR_C90 long playlist of setting up PyCharm for Python, 4.992
-
+>>create>>pycharm, backend25;en;02:00:00;2021;4.992;https://www.youtube.com/watch?v=2EB8siO-_OM&list=PLCTHcU1KoD98IeuVcqJ2rt1FNytfR_C90;Getting Started with PyCharm;long playlist of setting up PyCharm for Python by midwest nice guy
 
 >>create>>bash, dpdoing;en;02:26:00;2022;4.92;https://www.linkedin.com/learning/learning-bash-scripting-17063287;Learning Bash Scripting; Scott Simpson long course
 
