@@ -5,30 +5,16 @@
 === frontend
 
 ### SEO ######################################################
->>create>>seo, frontend25;en;01:11:00;2024;4.47;https://www.linkedin.com/learning/technical-seo-24379762;Technical SEO;good overview of technical SEO
 
 ### A11Y/WCAG ######################################################
->>create>>a11y, frontend25;en;00:32:34;2024;4.97;https://www.youtube.com/watch?v=2oiBKSjOOFE;Kyle: The Only Accessibility Video You Will Ever Need;classic Kyle video, good overview of accessibility and recent
->>create>>a11y, frontend25;en;01:24:00;2023;4.96;https://www.linkedin.com/learning/accessibility-first-design; Accessibility-First Design ; more high-level slides-only but good basics
->>create>>wcag, frontend25;en;00:27:00;2023;4.89;https://www.youtube.com/watch?v=JIuWM3iFPVM&list=PLwDZg2kBRS1x6xwoMcI3L6-CBCLhwyI-N&index=2;WCAG 2.2 At A Glance - 3.2.6 Consistent Help (Level A); 7 videos general overview, good base to start
 
 ### BROWSERSTACK ######################################################
->>create>>browserstack, frontend25;en;02:00:00;2021;3.7;https://www.youtube.com/watch?v=gf-2lvXGD48&list=PL1vH6dHT3H7rtHbusxWfN8oksYqDo8CwK&index=1;BrowserStack Product Tutorials;watch these at 2x speed for an overview, uses Selenium I think
- 
+
 ### OWASP ######################################################
->>create>>owasp, frontend25;en;00:08:50;2021;4.88;https://www.youtube.com/watch?v=hryt-rCLJUA; OWASP Top 10 2021 - The List and How You Should Use It ;high overview of the most common attacks
 
 ### ADVANCED CSS ######################################################
->>create>>css, flexbox, frontend25;fr;01:45:00;2023;4.792;https://www.linkedin.com/learning/css-maitriser-les-flexbox;Mastering CSS Flexboxl;flexbox with Damien Bruyndonckx 
->>create>>flexbox, grid, css, frontend25;fr;04:00:00;2022;4.96;https://www.linkedin.com/learning/la-mise-en-page-css-combiner-les-flex-et-les-grids; CSS Layouts: Combining Flex and Grid ;long course by Damien Bruyndonckx on how to use flex and grid
->>create>>css, animations, frontend25;fr;02:37:00;2023;4.59;https://www.linkedin.com/learning/css-animations-et-transitions-22819867; CSS: Animations and Transitions ;Damien Bruyndonckx on animations, long course
->>create>>grid, css, frontend25;fr;02:00:00;2023;4.92;https://www.linkedin.com/learning/css-apprendre-le-grid-layout; CSS: Learning Grid Layouts ;Damien Bruyndonckx on grid
->>create>>css, mediaqueries, frontend25;en;01:03:00;2025;4.95;https://www.linkedin.com/learning/advanced-css-media-queries; Advanced CSS Media Queries ;Jen Kramer basics on medi queries, good overview
->>create>>css, layouts, frontend25;en;01:26:00;2022;4.96;https://www.linkedin.com/learning/level-up-css-layout; Level Up: CSS Layout ;Morten Rand-Hendriksen on CSS layout patterns one should know
->>create>>css, frontend25;en;02:03:00;2022;4.82;https://www.linkedin.com/learning/css-tips; CSS Tips ; Morten Rand-Hendriksen with CSS tips one should know 
 
 ### WEBPACK ######################################################
->>create>>webpack, frontend25;fr;02:14:00;2024;4.89;https://www.linkedin.com/learning/l-essentiel-de-webpack-5; Webpack 5 Essential Training ;again Damien Bruyndonckx with good basics on Webpack 5
 
 
 
@@ -36,101 +22,61 @@
 - backend
 
 ### CURL ######################################################
->>create>>curl,backend25;en;00:15:00;2020;4.89;https://www.youtube.com/watch?v=APtOavXTv5M;cURL - The only HTTP client you'll ever need;15 minutes basics of curl
 
 ### INTELLIJ ######################################################
->>create>>intellij, java, backend25;en;02:10:00;2021;4.989;https://www.linkedin.com/learning/intellij-idea-community-edition-essential-training-2;IntelliJ IDEA Community Edition Essential Training;from 2021 but quite thorough, Java based
 
 ### DOCKER ######################################################
->>create>>docker, backend25;fr;03:14:00;2023;4.96;https://www.linkedin.com/learning/l-essentiel-de-docker; L'essentiel de Docker ;solid, long course on Docker, French, professional trainer
->>create>>docker, backend25;fr;01:48:00;2023;4.95;https://www.linkedin.com/learning/docker-avance; Docker avancé ;advanced course on Docker, French, professional trainer
 
 ### DOCKER COMPOSE ######################################################
->>create>>docker,backend25;en;00:36:00;2022;4.97;https://www.linkedin.com/learning/learning-docker-compose;Learning Docker Compose;short, basic course on Docker compose, nice voice
 
 ### ITERM ######################################################
->>create>>iterm, mac, backend25;de;00:10:09;2022;4.88;https://www.youtube.com/watch?v=ZcVdpkSako4;Das beste Terminal für macOS;short intro to iterm (same as iterm2)
 
 ### REACT 19 ######################################################
->>create>>react, frontend25;en;00:08:41;2024;4.79;https://www.youtube.com/watch?v=v07gXY6ESEo;Kyle: NEW React 19 Changes Are Amazing;quick overview of React 19
 
 ### MAC ######################################################
->>create>>mac,backend25;en;00:08:44;2024;4.82;https://www.youtube.com/watch?v=glEIACnAB70;My Mac Coding Setup (Full Stack Web Dev + Mobile App Dev);quick and good tips (Snapper, etc.)
 
 ### OH-MY-ZSH ######################################################
->>create>>mac, backend25;en;00:10:41;2022;4.94;https://www.youtube.com/watch?v=CF1tMjvHDRA;How To Make Your Boring Mac Terminal So Much Better;more than oh-my-zsh but good
 
 ### POWERLEVEL 10K ######################################################
->>create>>mac, backend25;en;00:20:09;2022;4.979;https://www.youtube.com/watch?v=9-l8SX8Bs7c;Powerlevel10k;twenty minutes of Powerlevel10k and environment
 
 ### MAKE ######################################################
->>create>>make, clanguage, backend25;en;00:09:23;2015;4.97;https://www.youtube.com/watch?v=_r7i5X0rXJk;How to Create a Simple Makefile - Introduction to Makefiles;simple, take before C course in French
->>create>>clanguage, backend25;fr;07:53:00;2018;4.58;https://www.linkedin.com/learning/l-essentiel-du-langage-c;L'essentiel du langage C;super long French course, professional, in detail, C retro
 
 ### BRUNO (API TESTING) ######################################################
->>create>>bruno, backend25;en;00:03:49;2024;4.9995;https://www.youtube.com/watch?v=FXckKHtZo4o;The BEST API Client - Open-Source & Git-friendly (Bruno);short and simply intro to Bruno
 
 ### CURL ######################################################
->>create>>curl, backend25;en;00:14:41;2017;4.992;https://www.youtube.com/watch?v=7XUibDYw4mc;Basic cURL Tutorial;goes through the basics
 
 ### DBEAVER ######################################################
->>create>>dbeaver, backend25;en;00:15:49;2022;4.58;https://www.youtube.com/watch?v=LEx96-CkB1Q;DBeaver Tutorial - How to Use DBeaver ;watch at 2x speed for overview
 
 ### DIRENV ######################################################
->>create>>direnv, backend25;en;00:11:15;2024;4.998;https://www.youtube.com/watch?v=udezempDBVQ;I'm never using .env files ever again;direnv by someone who really likes it
 
 ### GREP ######################################################
->>create>>grep, backend25;en;02:02:00;2019;4.44;https://www.linkedin.com/learning/bash-patterns-and-regular-expressions; Bash Patterns and Regular Expressions ;Grant McWilliams Linux experience based on grep, regex, and some sed etc.
 
 ### HASHICORP NOMAD CLI (JOB SCHEDULER) ######################################################
->>create>>hashicorpnomad, backend25;en;00:05:24;2021;4.78;https://www.youtube.com/watch?v=j6CZ5nJ1O8Q; Is HashiCorp Nomad worth learning? ;five minutes of explaining  an "orchestration engine that solves the same problem as Kubernetes"
->>create>>hashicorpnomad, backend25;en;00:04:52;2023;4.77;https://www.youtube.com/watch?v=mWgVoQ2RADk; Getting Started With HashiCorp Nomad ;shows code how to use it
 
 ### HASHICORP VAULT (SECRET MANAGEMENT) ######################################################
->>create>>hashicorpvault, backend25;en;00:29:09;2025;4.83;https://www.youtube.com/watch?v=klyAhaklGNU; HashiCorp Vault Tutorial for Beginners - What, Why and How ;long overview but good background
 
 ### NEOVIM ######################################################
->>create>>vim,backend25;en;00:09:43;2022;4.50;https://www.youtube.com/watch?v=qZO9A5F6BZs; Vim As You Editor - Advanced Motions P1 ; Primeagen classic, watched some but there are more tips, watch at some point
->>create>>neovim,backend25;en;01:04:21;2024;4.92;https://www.youtube.com/watch?v=KYDG3AHgYEs; Full Neovim Setup from Scratch in 2025 ;one hour, organized, uses Kickstart because it sets everything up but is minimal, recent, long
 
 ### GIT ######################################################
->>create>>git, backend25;en;00:56:00;2022;4.88;https://www.linkedin.com/learning/8-git-commands-you-should-know-16027523; 8 Git Commands You Should Know ;good to know Git commands
->>create>>git, gitworkflow, backend25;en;01:04:00;2022;4.81;https://www.linkedin.com/learning/git-workflows;  Git Workflows  ;various Git workflows, short but important
->>create>>git, backend25;en;00:51:00;2022;4.86;https://www.linkedin.com/learning/coding-exercises-git; Coding Exercises: Git ;Ray Villalobos with many Git tips, good
->>create>>git, backend25;en;00:47:00;2020;4.85;https://www.linkedin.com/learning/github-quick-tips; GitHub Quick Tips ;more Git tips from Ray Villalobos
->>create>>git, backend25;en;02:11:00;2021;4.67;https://www.linkedin.com/learning/gitops-foundations; GitOps Foundations ;extended course on Git but with good concepts
 
 ### ORBSTACK ######################################################
->>create>>orbstack, backend25;en;00:16:41;2024;4.75;https://www.youtube.com/watch?v=aJe7CvQ-aM8; Faster Docker, K8S and VMs on macOS! // OrbStack ;high-level overview of OrbStack
 
 ### PGADMIN ######################################################
->>create>>pgadmin, backend25;en;00:15:27;2022;4.79;https://www.youtube.com/watch?v=WFT5MaZN6g4; pgAdmin Tutorial - How to Use pgAdmin ;how to download and use pgAdmin
 
 ### POETRY (PYTHON DEPENDENCY MANAGEMENT) ######################################################
->>create>>poetry, python, backend25;en;00:14:42;2023;4.88;https://www.youtube.com/watch?v=0f3moPe_bhk; How to Create and Use Virtual Environments in Python With Poetry ;good overview and then showing how to use Poetry
 
 ### PYENV (PYTHON VERSION MANAGEMENT) ######################################################
->>create>>pyenv, backend25;en;00:10:47;2021;4.77;https://www.youtube.com/watch?v=31WU0Dhw4sk; How to Install and Run Multiple Python Versions on macOS | pyenv & virtualenv Setup Tutorial ;watch this quick as an overview
->>create>>pyenv, backend25;en;00:07:35;2025;4.89;https://www.youtube.com/watch?v=MVyb-nI4KyI; How I handle multiple Python Versions (pyenv) ;NetworkChuck entertainer but tips are useful, watch and install pyenv on Ubuntu, recent
 
 ### WGET ######################################################
->>create>>wget, backend25;en;00:12:23;2025;4.88;https://www.youtube.com/watch?v=FuGRDIOObew; Linux Literacy | WGET ;good overview of how to use wget, and recent
->>create>>wget,curl,backend25;en;00:04:54;2023;4.86;https://www.youtube.com/watch?v=So_fdFW5SXU; Curl VS Wget: What Even Is The Difference ; history of wget and curl, 
->>create>>wget, backend25;en;00:12:38;2022;4.77;https://www.youtube.com/watch?v=zszbBJ81_YU; The wget Command | How to Download Files From a Server ; simple examples of wget
 
 ### ZED ######################################################
->>create>>zed, backend25;en;00:10:34;2024;4.98;https://www.youtube.com/watch?v=lLNA58Pkfqk; Zed Editor Overview | Linux Quick Start ;ten minutes on installing and an overview of Zed
 
 ### SSH ######################################################
->>create>>ssh, backend25;en;01:36:00;2022;4.88;https://www.linkedin.com/learning/learning-ssh-14571185/learning-ssh; Learning SSH ;basic course on SSH by Scott Simpson
 
 ### MISE EN PLACE ######################################################
->>create>>mise, backend25;en;00:08:31;2025;4.91;https://www.youtube.com/watch?v=BOGWfATch-g; Mise vs. ASDF: Why a Rust Rewrite and Curated Plugins Make All the Difference #rust ;eight minutes of a background to mise by someone who uses it, "frontend to your dev environment", recent
 
 ### PYCHARM ######################################################
->>create>>pycharm, backend25;en;02:00:00;2021;4.992;https://www.youtube.com/watch?v=2EB8siO-_OM&list=PLCTHcU1KoD98IeuVcqJ2rt1FNytfR_C90;Getting Started with PyCharm;long playlist of setting up PyCharm for Python by midwest nice guy
 
->>create>>bash, dpdoing;en;02:26:00;2022;4.92;https://www.linkedin.com/learning/learning-bash-scripting-17063287;Learning Bash Scripting; Scott Simpson long course
 
 
 
@@ -823,3 +769,57 @@ CREATED: kotlin,dpod;en;04:42:00;2022;4.95;https://www.linkedin.com/learning/kot
 CREATED: csharp,dpod;en;01:18:00;2024;4.95;https://www.linkedin.com/learning/advanced-c-sharp-classes-records-and-structs; Advanced C#: Classes, Records, and Structs ;Good base OOP course, short, but by Joe Marini
 CREATED: csharp,dpdoing;en;01:46:00;2023;4.991;https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming; Advanced C#: Object-Oriented Programming ;Joe Marini, longer OOP course, very good
 CREATED: csharp,dpod;en;03:10:00;2024;4.983;https://www.linkedin.com/learning/advanced-c-sharp-functional-programming-patterns-25066789; Advanced C#: Functional Programming Patterns ;Very detailed course on functional programming in C#
+CREATED: seo, frontend25;en;01:11:00;2024;4.47;https://www.linkedin.com/learning/technical-seo-24379762;Technical SEO;good overview of technical SEO
+CREATED: a11y, frontend25;en;00:32:34;2024;4.97;https://www.youtube.com/watch?v=2oiBKSjOOFE;Kyle: The Only Accessibility Video You Will Ever Need;classic Kyle video, good overview of accessibility and recent
+CREATED: a11y, frontend25;en;01:24:00;2023;4.96;https://www.linkedin.com/learning/accessibility-first-design; Accessibility-First Design ; more high-level slides-only but good basics
+CREATED: wcag, frontend25;en;00:27:00;2023;4.89;https://www.youtube.com/watch?v=JIuWM3iFPVM&list=PLwDZg2kBRS1x6xwoMcI3L6-CBCLhwyI-N&index=2;WCAG 2.2 At A Glance - 3.2.6 Consistent Help (Level A); 7 videos general overview, good base to start
+CREATED: browserstack, frontend25;en;02:00:00;2021;3.7;https://www.youtube.com/watch?v=gf-2lvXGD48&list=PL1vH6dHT3H7rtHbusxWfN8oksYqDo8CwK&index=1;BrowserStack Product Tutorials;watch these at 2x speed for an overview, uses Selenium I think
+CREATED: owasp, frontend25;en;00:08:50;2021;4.88;https://www.youtube.com/watch?v=hryt-rCLJUA; OWASP Top 10 2021 - The List and How You Should Use It ;high overview of the most common attacks
+CREATED: css, flexbox, frontend25;fr;01:45:00;2023;4.792;https://www.linkedin.com/learning/css-maitriser-les-flexbox;Mastering CSS Flexboxl;flexbox with Damien Bruyndonckx
+CREATED: flexbox, grid, css, frontend25;fr;04:00:00;2022;4.96;https://www.linkedin.com/learning/la-mise-en-page-css-combiner-les-flex-et-les-grids; CSS Layouts: Combining Flex and Grid ;long course by Damien Bruyndonckx on how to use flex and grid
+CREATED: css, animations, frontend25;fr;02:37:00;2023;4.59;https://www.linkedin.com/learning/css-animations-et-transitions-22819867; CSS: Animations and Transitions ;Damien Bruyndonckx on animations, long course
+CREATED: grid, css, frontend25;fr;02:00:00;2023;4.92;https://www.linkedin.com/learning/css-apprendre-le-grid-layout; CSS: Learning Grid Layouts ;Damien Bruyndonckx on grid
+CREATED: css, mediaqueries, frontend25;en;01:03:00;2025;4.95;https://www.linkedin.com/learning/advanced-css-media-queries; Advanced CSS Media Queries ;Jen Kramer basics on medi queries, good overview
+CREATED: css, layouts, frontend25;en;01:26:00;2022;4.96;https://www.linkedin.com/learning/level-up-css-layout; Level Up: CSS Layout ;Morten Rand-Hendriksen on CSS layout patterns one should know
+CREATED: css, frontend25;en;02:03:00;2022;4.82;https://www.linkedin.com/learning/css-tips; CSS Tips ; Morten Rand-Hendriksen with CSS tips one should know
+CREATED: webpack, frontend25;fr;02:14:00;2024;4.89;https://www.linkedin.com/learning/l-essentiel-de-webpack-5; Webpack 5 Essential Training ;again Damien Bruyndonckx with good basics on Webpack 5
+CREATED: curl,backend25;en;00:15:00;2020;4.89;https://www.youtube.com/watch?v=APtOavXTv5M;cURL - The only HTTP client you'll ever need;15 minutes basics of curl
+CREATED: intellij, java, backend25;en;02:10:00;2021;4.989;https://www.linkedin.com/learning/intellij-idea-community-edition-essential-training-2;IntelliJ IDEA Community Edition Essential Training;from 2021 but quite thorough, Java based
+CREATED: docker, backend25;fr;03:14:00;2023;4.96;https://www.linkedin.com/learning/l-essentiel-de-docker; L'essentiel de Docker ;solid, long course on Docker, French, professional trainer
+CREATED: docker, backend25;fr;01:48:00;2023;4.95;https://www.linkedin.com/learning/docker-avance; Docker avancé ;advanced course on Docker, French, professional trainer
+CREATED: docker,backend25;en;00:36:00;2022;4.97;https://www.linkedin.com/learning/learning-docker-compose;Learning Docker Compose;short, basic course on Docker compose, nice voice
+CREATED: iterm, mac, backend25;de;00:10:09;2022;4.88;https://www.youtube.com/watch?v=ZcVdpkSako4;Das beste Terminal für macOS;short intro to iterm (same as iterm2)
+CREATED: react, frontend25;en;00:08:41;2024;4.79;https://www.youtube.com/watch?v=v07gXY6ESEo;Kyle: NEW React 19 Changes Are Amazing;quick overview of React 19
+CREATED: mac,backend25;en;00:08:44;2024;4.82;https://www.youtube.com/watch?v=glEIACnAB70;My Mac Coding Setup (Full Stack Web Dev + Mobile App Dev);quick and good tips (Snapper, etc.)
+CREATED: mac, backend25;en;00:10:41;2022;4.94;https://www.youtube.com/watch?v=CF1tMjvHDRA;How To Make Your Boring Mac Terminal So Much Better;more than oh-my-zsh but good
+CREATED: mac, backend25;en;00:20:09;2022;4.979;https://www.youtube.com/watch?v=9-l8SX8Bs7c;Powerlevel10k;twenty minutes of Powerlevel10k and environment
+CREATED: make, clanguage, backend25;en;00:09:23;2015;4.97;https://www.youtube.com/watch?v=_r7i5X0rXJk;How to Create a Simple Makefile - Introduction to Makefiles;simple, take before C course in French
+CREATED: clanguage, backend25;fr;07:53:00;2018;4.58;https://www.linkedin.com/learning/l-essentiel-du-langage-c;L'essentiel du langage C;super long French course, professional, in detail, C retro
+CREATED: bruno, backend25;en;00:03:49;2024;4.9995;https://www.youtube.com/watch?v=FXckKHtZo4o;The BEST API Client - Open-Source & Git-friendly (Bruno);short and simply intro to Bruno
+CREATED: curl, backend25;en;00:14:41;2017;4.992;https://www.youtube.com/watch?v=7XUibDYw4mc;Basic cURL Tutorial;goes through the basics
+CREATED: dbeaver, backend25;en;00:15:49;2022;4.58;https://www.youtube.com/watch?v=LEx96-CkB1Q;DBeaver Tutorial - How to Use DBeaver ;watch at 2x speed for overview
+CREATED: direnv, backend25;en;00:11:15;2024;4.998;https://www.youtube.com/watch?v=udezempDBVQ;I'm never using .env files ever again;direnv by someone who really likes it
+CREATED: grep, backend25;en;02:02:00;2019;4.44;https://www.linkedin.com/learning/bash-patterns-and-regular-expressions; Bash Patterns and Regular Expressions ;Grant McWilliams Linux experience based on grep, regex, and some sed etc.
+CREATED: hashicorpnomad, backend25;en;00:05:24;2021;4.78;https://www.youtube.com/watch?v=j6CZ5nJ1O8Q; Is HashiCorp Nomad worth learning? ;five minutes of explaining  an "orchestration engine that solves the same problem as Kubernetes"
+CREATED: hashicorpnomad, backend25;en;00:04:52;2023;4.77;https://www.youtube.com/watch?v=mWgVoQ2RADk; Getting Started With HashiCorp Nomad ;shows code how to use it
+CREATED: hashicorpvault, backend25;en;00:29:09;2025;4.83;https://www.youtube.com/watch?v=klyAhaklGNU; HashiCorp Vault Tutorial for Beginners - What, Why and How ;long overview but good background
+CREATED: vim,backend25;en;00:09:43;2022;4.50;https://www.youtube.com/watch?v=qZO9A5F6BZs; Vim As You Editor - Advanced Motions P1 ; Primeagen classic, watched some but there are more tips, watch at some point
+CREATED: neovim,backend25;en;01:04:21;2024;4.92;https://www.youtube.com/watch?v=KYDG3AHgYEs; Full Neovim Setup from Scratch in 2025 ;one hour, organized, uses Kickstart because it sets everything up but is minimal, recent, long
+CREATED: git, backend25;en;00:56:00;2022;4.88;https://www.linkedin.com/learning/8-git-commands-you-should-know-16027523; 8 Git Commands You Should Know ;good to know Git commands
+CREATED: git, gitworkflow, backend25;en;01:04:00;2022;4.81;https://www.linkedin.com/learning/git-workflows;  Git Workflows  ;various Git workflows, short but important
+CREATED: git, backend25;en;00:51:00;2022;4.86;https://www.linkedin.com/learning/coding-exercises-git; Coding Exercises: Git ;Ray Villalobos with many Git tips, good
+CREATED: git, backend25;en;00:47:00;2020;4.85;https://www.linkedin.com/learning/github-quick-tips; GitHub Quick Tips ;more Git tips from Ray Villalobos
+CREATED: git, backend25;en;02:11:00;2021;4.67;https://www.linkedin.com/learning/gitops-foundations; GitOps Foundations ;extended course on Git but with good concepts
+CREATED: orbstack, backend25;en;00:16:41;2024;4.75;https://www.youtube.com/watch?v=aJe7CvQ-aM8; Faster Docker, K8S and VMs on macOS! // OrbStack ;high-level overview of OrbStack
+CREATED: pgadmin, backend25;en;00:15:27;2022;4.79;https://www.youtube.com/watch?v=WFT5MaZN6g4; pgAdmin Tutorial - How to Use pgAdmin ;how to download and use pgAdmin
+CREATED: poetry, python, backend25;en;00:14:42;2023;4.88;https://www.youtube.com/watch?v=0f3moPe_bhk; How to Create and Use Virtual Environments in Python With Poetry ;good overview and then showing how to use Poetry
+CREATED: pyenv, backend25;en;00:10:47;2021;4.77;https://www.youtube.com/watch?v=31WU0Dhw4sk; How to Install and Run Multiple Python Versions on macOS | pyenv & virtualenv Setup Tutorial ;watch this quick as an overview
+CREATED: pyenv, backend25;en;00:07:35;2025;4.89;https://www.youtube.com/watch?v=MVyb-nI4KyI; How I handle multiple Python Versions (pyenv) ;NetworkChuck entertainer but tips are useful, watch and install pyenv on Ubuntu, recent
+CREATED: wget, backend25;en;00:12:23;2025;4.88;https://www.youtube.com/watch?v=FuGRDIOObew; Linux Literacy | WGET ;good overview of how to use wget, and recent
+CREATED: wget,curl,backend25;en;00:04:54;2023;4.86;https://www.youtube.com/watch?v=So_fdFW5SXU; Curl VS Wget: What Even Is The Difference ; history of wget and curl,
+CREATED: wget, backend25;en;00:12:38;2022;4.77;https://www.youtube.com/watch?v=zszbBJ81_YU; The wget Command | How to Download Files From a Server ; simple examples of wget
+CREATED: zed, backend25;en;00:10:34;2024;4.98;https://www.youtube.com/watch?v=lLNA58Pkfqk; Zed Editor Overview | Linux Quick Start ;ten minutes on installing and an overview of Zed
+CREATED: ssh, backend25;en;01:36:00;2022;4.88;https://www.linkedin.com/learning/learning-ssh-14571185/learning-ssh; Learning SSH ;basic course on SSH by Scott Simpson
+CREATED: mise, backend25;en;00:08:31;2025;4.91;https://www.youtube.com/watch?v=BOGWfATch-g; Mise vs. ASDF: Why a Rust Rewrite and Curated Plugins Make All the Difference #rust ;eight minutes of a background to mise by someone who uses it, "frontend to your dev environment", recent
+CREATED: pycharm, backend25;en;02:00:00;2021;4.992;https://www.youtube.com/watch?v=2EB8siO-_OM&list=PLCTHcU1KoD98IeuVcqJ2rt1FNytfR_C90;Getting Started with PyCharm;long playlist of setting up PyCharm for Python by midwest nice guy
+CREATED: bash, dpdoing;en;02:26:00;2022;4.92;https://www.linkedin.com/learning/learning-bash-scripting-17063287;Learning Bash Scripting; Scott Simpson long course

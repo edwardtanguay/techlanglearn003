@@ -78,6 +78,19 @@
 		"status": ""
 	},
 	{
+		"topics": "iterm, mac, backend25",
+		"language": "de",
+		"duration": "00:10:09",
+		"year": "2022",
+		"rank": "4.88",
+		"url": "https://www.youtube.com/watch?v=ZcVdpkSako4",
+		"title": "Das beste Terminal für macOS",
+		"description": "short intro to iterm (same as iterm2)",
+		"platform": "youtube",
+		"fileIdCode": "de-yt-das-beste-terminal-fr-macos",
+		"status": ""
+	},
+	{
 		"topics": "pycharm, python",
 		"language": "en",
 		"duration": "02:25:00",
@@ -88,6 +101,32 @@
 		"description": "English course that shows how to use PyCharm, 2022",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-learning-python-with-pycharm",
+		"status": ""
+	},
+	{
+		"topics": "git, backend25",
+		"language": "en",
+		"duration": "00:56:00",
+		"year": "2022",
+		"rank": "4.88",
+		"url": "https://www.linkedin.com/learning/8-git-commands-you-should-know-16027523",
+		"title": "8 Git Commands You Should Know",
+		"description": "good to know Git commands",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-8-git-commands-you-should-know",
+		"status": ""
+	},
+	{
+		"topics": "a11y, frontend25",
+		"language": "en",
+		"duration": "01:24:00",
+		"year": "2023",
+		"rank": "4.96",
+		"url": "https://www.linkedin.com/learning/accessibility-first-design",
+		"title": "Accessibility-First Design",
+		"description": "more high-level slides-only but good basics",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-accessibilityfirst-design",
 		"status": ""
 	},
 	{
@@ -130,6 +169,19 @@
 		"status": "started"
 	},
 	{
+		"topics": "css, mediaqueries, frontend25",
+		"language": "en",
+		"duration": "01:03:00",
+		"year": "2025",
+		"rank": "4.95",
+		"url": "https://www.linkedin.com/learning/advanced-css-media-queries",
+		"title": "Advanced CSS Media Queries",
+		"description": "Jen Kramer basics on medi queries, good overview",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-advanced-css-media-queries",
+		"status": ""
+	},
+	{
 		"topics": "python,dpod",
 		"language": "en",
 		"duration": "02:05:00",
@@ -156,7 +208,7 @@
 		"status": ""
 	},
 	{
-		"topics": "bash,dpod,awk",
+		"topics": "bash,dpod,awk, backend25",
 		"language": "en",
 		"duration": "02:01:00",
 		"year": "2022",
@@ -166,6 +218,19 @@
 		"description": "good, solid, long course on AWK",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-awk-essential-training",
+		"status": ""
+	},
+	{
+		"topics": "grep, backend25",
+		"language": "en",
+		"duration": "02:02:00",
+		"year": "2019",
+		"rank": "4.44",
+		"url": "https://www.linkedin.com/learning/bash-patterns-and-regular-expressions",
+		"title": "Bash Patterns and Regular Expressions",
+		"description": "Grant McWilliams Linux experience based on grep, regex, and some sed etc.",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-bash-patterns-and-regular-expressions",
 		"status": ""
 	},
 	{
@@ -273,6 +338,19 @@
 		"status": ""
 	},
 	{
+		"topics": "git, backend25",
+		"language": "en",
+		"duration": "00:51:00",
+		"year": "2022",
+		"rank": "4.86",
+		"url": "https://www.linkedin.com/learning/coding-exercises-git",
+		"title": "Coding Exercises: Git",
+		"description": "Ray Villalobos with many Git tips, good",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-coding-exercises-git",
+		"status": ""
+	},
+	{
 		"topics": "gitlab",
 		"language": "en",
 		"duration": "01:27:00",
@@ -310,6 +388,19 @@
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-css-advanced-layouts-with-grid",
 		"status": "not yet started"
+	},
+	{
+		"topics": "css, frontend25",
+		"language": "en",
+		"duration": "02:03:00",
+		"year": "2022",
+		"rank": "4.82",
+		"url": "https://www.linkedin.com/learning/css-tips",
+		"title": "CSS Tips",
+		"description": "Morten Rand-Hendriksen with CSS tips one should know",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-css-tips",
+		"status": ""
 	},
 	{
 		"topics": "go",
@@ -442,16 +533,42 @@
 		"status": ""
 	},
 	{
-		"topics": "git",
+		"topics": "git, gitworkflow, backend25",
 		"language": "en",
 		"duration": "01:04:00",
 		"year": "2022",
-		"rank": "4.989",
-		"url": "https://www.linkedin.com/learning/git-workflows/github-flow-in-practice",
+		"rank": "4.81",
+		"url": "https://www.linkedin.com/learning/git-workflows",
 		"title": "Git Workflows",
-		"description": "good course on how to structure Git in teams",
+		"description": "various Git workflows, short but important",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-git-workflows",
+		"status": ""
+	},
+	{
+		"topics": "git, backend25",
+		"language": "en",
+		"duration": "00:47:00",
+		"year": "2020",
+		"rank": "4.85",
+		"url": "https://www.linkedin.com/learning/github-quick-tips",
+		"title": "GitHub Quick Tips",
+		"description": "more Git tips from Ray Villalobos",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-github-quick-tips",
+		"status": ""
+	},
+	{
+		"topics": "git, backend25",
+		"language": "en",
+		"duration": "02:11:00",
+		"year": "2021",
+		"rank": "4.67",
+		"url": "https://www.linkedin.com/learning/gitops-foundations",
+		"title": "GitOps Foundations",
+		"description": "extended course on Git but with good concepts",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-gitops-foundations",
 		"status": ""
 	},
 	{
@@ -546,6 +663,19 @@
 		"status": ""
 	},
 	{
+		"topics": "intellij, java, backend25",
+		"language": "en",
+		"duration": "02:10:00",
+		"year": "2021",
+		"rank": "4.989",
+		"url": "https://www.linkedin.com/learning/intellij-idea-community-edition-essential-training-2",
+		"title": "IntelliJ IDEA Community Edition Essential Training",
+		"description": "from 2021 but quite thorough, Java based",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-intellij-idea-community-edition-essential-training",
+		"status": ""
+	},
+	{
 		"topics": "kotlin,dpod",
 		"language": "en",
 		"duration": "04:42:00",
@@ -582,6 +712,32 @@
 		"description": "Laravel 11 created late 2024, woman teacher from India with understandable accent, comprehensive, would be good for latest basics of Laravel",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-laravel-essential-training",
+		"status": ""
+	},
+	{
+		"topics": "bash, dpdoing",
+		"language": "en",
+		"duration": "02:26:00",
+		"year": "2022",
+		"rank": "4.92",
+		"url": "https://www.linkedin.com/learning/learning-bash-scripting-17063287",
+		"title": "Learning Bash Scripting",
+		"description": "Scott Simpson long course",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-learning-bash-scripting",
+		"status": ""
+	},
+	{
+		"topics": "docker,backend25",
+		"language": "en",
+		"duration": "00:36:00",
+		"year": "2022",
+		"rank": "4.97",
+		"url": "https://www.linkedin.com/learning/learning-docker-compose",
+		"title": "Learning Docker Compose",
+		"description": "short, basic course on Docker compose, nice voice",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-learning-docker-compose",
 		"status": ""
 	},
 	{
@@ -624,6 +780,19 @@
 		"status": ""
 	},
 	{
+		"topics": "ssh, backend25",
+		"language": "en",
+		"duration": "01:36:00",
+		"year": "2022",
+		"rank": "4.88",
+		"url": "https://www.linkedin.com/learning/learning-ssh-14571185/learning-ssh",
+		"title": "Learning SSH",
+		"description": "basic course on SSH by Scott Simpson",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-learning-ssh",
+		"status": ""
+	},
+	{
 		"topics": "webflow",
 		"language": "en",
 		"duration": "02:07:00",
@@ -635,6 +804,19 @@
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-learning-webflow",
 		"status": "watched first 2 videos, fringe and no-code but interesting"
+	},
+	{
+		"topics": "css, layouts, frontend25",
+		"language": "en",
+		"duration": "01:26:00",
+		"year": "2022",
+		"rank": "4.96",
+		"url": "https://www.linkedin.com/learning/level-up-css-layout",
+		"title": "Level Up: CSS Layout",
+		"description": "Morten Rand-Hendriksen on CSS layout patterns one should know",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-level-up-css-layout",
+		"status": ""
 	},
 	{
 		"topics": "go,dpod",
@@ -897,6 +1079,19 @@
 		"status": "course finished, decent, good overview of an area that was new"
 	},
 	{
+		"topics": "seo, frontend25",
+		"language": "en",
+		"duration": "01:11:00",
+		"year": "2024",
+		"rank": "4.47",
+		"url": "https://www.linkedin.com/learning/technical-seo-24379762",
+		"title": "Technical SEO",
+		"description": "good overview of technical SEO",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-technical-seo",
+		"status": ""
+	},
+	{
 		"topics": "tensorflow, ai",
 		"language": "en",
 		"duration": "00:38:00",
@@ -1027,6 +1222,32 @@
 		"status": "finished"
 	},
 	{
+		"topics": "curl, backend25",
+		"language": "en",
+		"duration": "00:14:41",
+		"year": "2017",
+		"rank": "4.992",
+		"url": "https://www.youtube.com/watch?v=7XUibDYw4mc",
+		"title": "Basic cURL Tutorial",
+		"description": "goes through the basics",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-basic-curl-tutorial",
+		"status": ""
+	},
+	{
+		"topics": "browserstack, frontend25",
+		"language": "en",
+		"duration": "02:00:00",
+		"year": "2021",
+		"rank": "3.7",
+		"url": "https://www.youtube.com/watch?v=gf-2lvXGD48\u0026list=PL1vH6dHT3H7rtHbusxWfN8oksYqDo8CwK\u0026index=1",
+		"title": "BrowserStack Product Tutorials",
+		"description": "watch these at 2x speed for an overview, uses Selenium I think",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-browserstack-product-tutorials",
+		"status": ""
+	},
+	{
 		"topics": "go, graphql, nextjs, gin",
 		"language": "en",
 		"duration": "02:30:00",
@@ -1066,6 +1287,149 @@
 		"status": ""
 	},
 	{
+		"topics": "curl,backend25",
+		"language": "en",
+		"duration": "00:15:00",
+		"year": "2020",
+		"rank": "4.89",
+		"url": "https://www.youtube.com/watch?v=APtOavXTv5M",
+		"title": "cURL - The only HTTP client you'll ever need",
+		"description": "15 minutes basics of curl",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-curl-the-only-http-client-youll-ever-need",
+		"status": ""
+	},
+	{
+		"topics": "wget,curl,backend25",
+		"language": "en",
+		"duration": "00:04:54",
+		"year": "2023",
+		"rank": "4.86",
+		"url": "https://www.youtube.com/watch?v=So_fdFW5SXU",
+		"title": "Curl VS Wget: What Even Is The Difference",
+		"description": "history of wget and curl,",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-curl-vs-wget-what-even-is-the-difference",
+		"status": ""
+	},
+	{
+		"topics": "dbeaver, backend25",
+		"language": "en",
+		"duration": "00:15:49",
+		"year": "2022",
+		"rank": "4.58",
+		"url": "https://www.youtube.com/watch?v=LEx96-CkB1Q",
+		"title": "DBeaver Tutorial - How to Use DBeaver",
+		"description": "watch at 2x speed for overview",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-dbeaver-tutorial-how-to-use-dbeaver",
+		"status": ""
+	},
+	{
+		"topics": "orbstack, backend25",
+		"language": "en",
+		"duration": "00:16:41",
+		"year": "2024",
+		"rank": "4.75",
+		"url": "https://www.youtube.com/watch?v=aJe7CvQ-aM8",
+		"title": "Faster Docker, K8S and VMs on macOS! // OrbStack",
+		"description": "high-level overview of OrbStack",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-faster-docker-k8s-and-vms-on-macos-orbstack",
+		"status": ""
+	},
+	{
+		"topics": "neovim,backend25",
+		"language": "en",
+		"duration": "01:04:21",
+		"year": "2024",
+		"rank": "4.92",
+		"url": "https://www.youtube.com/watch?v=KYDG3AHgYEs",
+		"title": "Full Neovim Setup from Scratch in 2025",
+		"description": "one hour, organized, uses Kickstart because it sets everything up but is minimal, recent, long",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-full-neovim-setup-from-scratch-in-2025",
+		"status": ""
+	},
+	{
+		"topics": "hashicorpnomad, backend25",
+		"language": "en",
+		"duration": "00:04:52",
+		"year": "2023",
+		"rank": "4.77",
+		"url": "https://www.youtube.com/watch?v=mWgVoQ2RADk",
+		"title": "Getting Started With HashiCorp Nomad",
+		"description": "shows code how to use it",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-getting-started-with-hashicorp-nomad",
+		"status": ""
+	},
+	{
+		"topics": "pycharm, backend25",
+		"language": "en",
+		"duration": "02:00:00",
+		"year": "2021",
+		"rank": "4.992",
+		"url": "https://www.youtube.com/watch?v=2EB8siO-_OM\u0026list=PLCTHcU1KoD98IeuVcqJ2rt1FNytfR_C90",
+		"title": "Getting Started with PyCharm",
+		"description": "long playlist of setting up PyCharm for Python by midwest nice guy",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-getting-started-with-pycharm",
+		"status": ""
+	},
+	{
+		"topics": "hashicorpvault, backend25",
+		"language": "en",
+		"duration": "00:29:09",
+		"year": "2025",
+		"rank": "4.83",
+		"url": "https://www.youtube.com/watch?v=klyAhaklGNU",
+		"title": "HashiCorp Vault Tutorial for Beginners - What, Why and How",
+		"description": "long overview but good background",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-hashicorp-vault-tutorial-for-beginners-what-why-and-how",
+		"status": ""
+	},
+	{
+		"topics": "pyenv, backend25",
+		"language": "en",
+		"duration": "00:07:35",
+		"year": "2025",
+		"rank": "4.89",
+		"url": "https://www.youtube.com/watch?v=MVyb-nI4KyI",
+		"title": "How I handle multiple Python Versions (pyenv)",
+		"description": "NetworkChuck entertainer but tips are useful, watch and install pyenv on Ubuntu, recent",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-how-i-handle-multiple-python-versions-pyenv",
+		"status": ""
+	},
+	{
+		"topics": "make, clanguage, backend25",
+		"language": "en",
+		"duration": "00:09:23",
+		"year": "2015",
+		"rank": "4.97",
+		"url": "https://www.youtube.com/watch?v=_r7i5X0rXJk",
+		"title": "How to Create a Simple Makefile - Introduction to Makefiles",
+		"description": "simple, take before C course in French",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-how-to-create-a-simple-makefile-introduction-to-makefiles",
+		"status": ""
+	},
+	{
+		"topics": "poetry, python, backend25",
+		"language": "en",
+		"duration": "00:14:42",
+		"year": "2023",
+		"rank": "4.88",
+		"url": "https://www.youtube.com/watch?v=0f3moPe_bhk",
+		"title": "How to Create and Use Virtual Environments in Python With Poetry",
+		"description": "good overview and then showing how to use Poetry",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-how-to-create-and-use-virtual-environments-in-python-with-poetry",
+		"status": ""
+	},
+	{
 		"topics": "angular",
 		"language": "en",
 		"duration": "00:12:06",
@@ -1076,6 +1440,84 @@
 		"description": "Use to install Angular 19 and upgrade your site",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-how-to-create-your-first-angular-19-application-standalone-modulebased-templates-explained",
+		"status": ""
+	},
+	{
+		"topics": "pyenv, backend25",
+		"language": "en",
+		"duration": "00:10:47",
+		"year": "2021",
+		"rank": "4.77",
+		"url": "https://www.youtube.com/watch?v=31WU0Dhw4sk",
+		"title": "How to Install and Run Multiple Python Versions on macOS | pyenv \u0026 virtualenv Setup Tutorial",
+		"description": "watch this quick as an overview",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-how-to-install-and-run-multiple-python-versions-on-macos-pyenv-virtualenv-setup-tutorial",
+		"status": ""
+	},
+	{
+		"topics": "mac, backend25",
+		"language": "en",
+		"duration": "00:10:41",
+		"year": "2022",
+		"rank": "4.94",
+		"url": "https://www.youtube.com/watch?v=CF1tMjvHDRA",
+		"title": "How To Make Your Boring Mac Terminal So Much Better",
+		"description": "more than oh-my-zsh but good",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-how-to-make-your-boring-mac-terminal-so-much-better",
+		"status": ""
+	},
+	{
+		"topics": "direnv, backend25",
+		"language": "en",
+		"duration": "00:11:15",
+		"year": "2024",
+		"rank": "4.998",
+		"url": "https://www.youtube.com/watch?v=udezempDBVQ",
+		"title": "I'm never using .env files ever again",
+		"description": "direnv by someone who really likes it",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-im-never-using-env-files-ever-again",
+		"status": ""
+	},
+	{
+		"topics": "hashicorpnomad, backend25",
+		"language": "en",
+		"duration": "00:05:24",
+		"year": "2021",
+		"rank": "4.78",
+		"url": "https://www.youtube.com/watch?v=j6CZ5nJ1O8Q",
+		"title": "Is HashiCorp Nomad worth learning?",
+		"description": "five minutes of explaining  an \"orchestration engine that solves the same problem as Kubernetes\"",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-is-hashicorp-nomad-worth-learning",
+		"status": ""
+	},
+	{
+		"topics": "react, frontend25",
+		"language": "en",
+		"duration": "00:08:41",
+		"year": "2024",
+		"rank": "4.79",
+		"url": "https://www.youtube.com/watch?v=v07gXY6ESEo",
+		"title": "Kyle: NEW React 19 Changes Are Amazing",
+		"description": "quick overview of React 19",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-kyle-new-react-19-changes-are-amazing",
+		"status": ""
+	},
+	{
+		"topics": "a11y, frontend25",
+		"language": "en",
+		"duration": "00:32:34",
+		"year": "2024",
+		"rank": "4.97",
+		"url": "https://www.youtube.com/watch?v=2oiBKSjOOFE",
+		"title": "Kyle: The Only Accessibility Video You Will Ever Need",
+		"description": "classic Kyle video, good overview of accessibility and recent",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-kyle-the-only-accessibility-video-you-will-ever-need",
 		"status": ""
 	},
 	{
@@ -1118,7 +1560,7 @@
 		"status": ""
 	},
 	{
-		"topics": "bash,dpod,sed",
+		"topics": "bash,dpod,sed, backend25",
 		"language": "en",
 		"duration": "00:15:24",
 		"year": "2022",
@@ -1128,6 +1570,84 @@
 		"description": "basic short video on SED basics",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-linux-crash-course-the-sed-command",
+		"status": ""
+	},
+	{
+		"topics": "wget, backend25",
+		"language": "en",
+		"duration": "00:12:23",
+		"year": "2025",
+		"rank": "4.88",
+		"url": "https://www.youtube.com/watch?v=FuGRDIOObew",
+		"title": "Linux Literacy | WGET",
+		"description": "good overview of how to use wget, and recent",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-linux-literacy-wget",
+		"status": ""
+	},
+	{
+		"topics": "mise, backend25",
+		"language": "en",
+		"duration": "00:08:31",
+		"year": "2025",
+		"rank": "4.91",
+		"url": "https://www.youtube.com/watch?v=BOGWfATch-g",
+		"title": "Mise vs. ASDF: Why a Rust Rewrite and Curated Plugins Make All the Difference #rust",
+		"description": "eight minutes of a background to mise by someone who uses it, \"frontend to your dev environment\", recent",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-mise-vs-asdf-why-a-rust-rewrite-and-curated-plugins-make-all-the-difference-rust",
+		"status": ""
+	},
+	{
+		"topics": "mac,backend25",
+		"language": "en",
+		"duration": "00:08:44",
+		"year": "2024",
+		"rank": "4.82",
+		"url": "https://www.youtube.com/watch?v=glEIACnAB70",
+		"title": "My Mac Coding Setup (Full Stack Web Dev + Mobile App Dev)",
+		"description": "quick and good tips (Snapper, etc.)",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-my-mac-coding-setup-full-stack-web-dev-mobile-app-dev",
+		"status": ""
+	},
+	{
+		"topics": "owasp, frontend25",
+		"language": "en",
+		"duration": "00:08:50",
+		"year": "2021",
+		"rank": "4.88",
+		"url": "https://www.youtube.com/watch?v=hryt-rCLJUA",
+		"title": "OWASP Top 10 2021 - The List and How You Should Use It",
+		"description": "high overview of the most common attacks",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-owasp-top-10-2021-the-list-and-how-you-should-use-it",
+		"status": ""
+	},
+	{
+		"topics": "pgadmin, backend25",
+		"language": "en",
+		"duration": "00:15:27",
+		"year": "2022",
+		"rank": "4.79",
+		"url": "https://www.youtube.com/watch?v=WFT5MaZN6g4",
+		"title": "pgAdmin Tutorial - How to Use pgAdmin",
+		"description": "how to download and use pgAdmin",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-pgadmin-tutorial-how-to-use-pgadmin",
+		"status": ""
+	},
+	{
+		"topics": "mac, backend25",
+		"language": "en",
+		"duration": "00:20:09",
+		"year": "2022",
+		"rank": "4.979",
+		"url": "https://www.youtube.com/watch?v=9-l8SX8Bs7c",
+		"title": "Powerlevel10k",
+		"description": "twenty minutes of Powerlevel10k and environment",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-powerlevel10k",
 		"status": ""
 	},
 	{
@@ -1222,6 +1742,32 @@
 		"status": "finished"
 	},
 	{
+		"topics": "bruno, backend25",
+		"language": "en",
+		"duration": "00:03:49",
+		"year": "2024",
+		"rank": "4.9995",
+		"url": "https://www.youtube.com/watch?v=FXckKHtZo4o",
+		"title": "The BEST API Client - Open-Source \u0026 Git-friendly (Bruno)",
+		"description": "short and simply intro to Bruno",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-the-best-api-client-opensource-gitfriendly-bruno",
+		"status": ""
+	},
+	{
+		"topics": "wget, backend25",
+		"language": "en",
+		"duration": "00:12:38",
+		"year": "2022",
+		"rank": "4.77",
+		"url": "https://www.youtube.com/watch?v=zszbBJ81_YU",
+		"title": "The wget Command | How to Download Files From a Server",
+		"description": "simple examples of wget",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-the-wget-command-how-to-download-files-from-a-server",
+		"status": ""
+	},
+	{
 		"topics": "mobx",
 		"language": "en",
 		"duration": "00:13:02",
@@ -1246,6 +1792,45 @@
 		"platform": "youtube",
 		"fileIdCode": "en-yt-use-svelte-5-snippets-to-reuse-markup-without-creating-components",
 		"status": "2 minutes of 18"
+	},
+	{
+		"topics": "vim,backend25",
+		"language": "en",
+		"duration": "00:09:43",
+		"year": "2022",
+		"rank": "4.50",
+		"url": "https://www.youtube.com/watch?v=qZO9A5F6BZs",
+		"title": "Vim As You Editor - Advanced Motions P1",
+		"description": "Primeagen classic, watched some but there are more tips, watch at some point",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-vim-as-you-editor-advanced-motions-p1",
+		"status": ""
+	},
+	{
+		"topics": "wcag, frontend25",
+		"language": "en",
+		"duration": "00:27:00",
+		"year": "2023",
+		"rank": "4.89",
+		"url": "https://www.youtube.com/watch?v=JIuWM3iFPVM\u0026list=PLwDZg2kBRS1x6xwoMcI3L6-CBCLhwyI-N\u0026index=2",
+		"title": "WCAG 2.2 At A Glance - 3.2.6 Consistent Help (Level A)",
+		"description": "7 videos general overview, good base to start",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-wcag-22-at-a-glance-326-consistent-help-level-a",
+		"status": ""
+	},
+	{
+		"topics": "zed, backend25",
+		"language": "en",
+		"duration": "00:10:34",
+		"year": "2024",
+		"rank": "4.98",
+		"url": "https://www.youtube.com/watch?v=lLNA58Pkfqk",
+		"title": "Zed Editor Overview | Linux Quick Start",
+		"description": "ten minutes on installing and an overview of Zed",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-zed-editor-overview-linux-quick-start",
+		"status": ""
 	},
 	{
 		"topics": "typescript,dpod",
@@ -1333,7 +1918,7 @@
 		"rank": "3.7",
 		"url": "https://www.linkedin.com/learning/css-avanzado-12-trucos/presentacion-del-curso-css-avanzado-12-trucos",
 		"title": "CSS avanzado: 12 trucos",
-		"description": "tutorial is 8 years old but Zuriñe has a nice, Spanish voice and these topics should be timeless, if nothing else, watch it for the Spanish practice",
+		"description": "(TOO SPECIFIC) tutorial is 8 years old but Zuriñe has a nice, Spanish voice and these topics should be timeless, if nothing else, watch it for the Spanish practice",
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-css-avanzado-12-trucos",
 		"status": "not yet started"
@@ -1352,7 +1937,7 @@
 		"status": ""
 	},
 	{
-		"topics": "docker",
+		"topics": "docker,backend25",
 		"language": "es",
 		"duration": "02:34:00",
 		"year": "2024",
@@ -1781,6 +2366,45 @@
 		"status": ""
 	},
 	{
+		"topics": "css, animations, frontend25",
+		"language": "fr",
+		"duration": "02:37:00",
+		"year": "2023",
+		"rank": "4.59",
+		"url": "https://www.linkedin.com/learning/css-animations-et-transitions-22819867",
+		"title": "CSS: Animations and Transitions",
+		"description": "Damien Bruyndonckx on animations, long course",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-css-animations-and-transitions",
+		"status": ""
+	},
+	{
+		"topics": "flexbox, grid, css, frontend25",
+		"language": "fr",
+		"duration": "04:00:00",
+		"year": "2022",
+		"rank": "4.96",
+		"url": "https://www.linkedin.com/learning/la-mise-en-page-css-combiner-les-flex-et-les-grids",
+		"title": "CSS Layouts: Combining Flex and Grid",
+		"description": "long course by Damien Bruyndonckx on how to use flex and grid",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-css-layouts-combining-flex-and-grid",
+		"status": ""
+	},
+	{
+		"topics": "grid, css, frontend25",
+		"language": "fr",
+		"duration": "02:00:00",
+		"year": "2023",
+		"rank": "4.92",
+		"url": "https://www.linkedin.com/learning/css-apprendre-le-grid-layout",
+		"title": "CSS: Learning Grid Layouts",
+		"description": "Damien Bruyndonckx on grid",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-css-learning-grid-layouts",
+		"status": ""
+	},
+	{
 		"topics": "bash,dpdoing",
 		"language": "fr",
 		"duration": "01:42:00",
@@ -1820,6 +2444,19 @@
 		"status": ""
 	},
 	{
+		"topics": "docker, backend25",
+		"language": "fr",
+		"duration": "01:48:00",
+		"year": "2023",
+		"rank": "4.95",
+		"url": "https://www.linkedin.com/learning/docker-avance",
+		"title": "Docker avancé",
+		"description": "advanced course on Docker, French, professional trainer",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-docker-avanc",
+		"status": ""
+	},
+	{
 		"topics": "html, images",
 		"language": "fr",
 		"duration": "02:18:00",
@@ -1843,6 +2480,19 @@
 		"description": "basics of Django, Docstring has nice accent, short",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-de-django",
+		"status": ""
+	},
+	{
+		"topics": "docker, backend25",
+		"language": "fr",
+		"duration": "03:14:00",
+		"year": "2023",
+		"rank": "4.96",
+		"url": "https://www.linkedin.com/learning/l-essentiel-de-docker",
+		"title": "L'essentiel de Docker",
+		"description": "solid, long course on Docker, French, professional trainer",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-lessentiel-de-docker",
 		"status": ""
 	},
 	{
@@ -1872,7 +2522,7 @@
 		"status": ""
 	},
 	{
-		"topics": "githubActions",
+		"topics": "githubActions, backend25",
 		"language": "fr",
 		"duration": "02:03:00",
 		"year": "2023",
@@ -1957,7 +2607,7 @@
 		"rank": "4.81",
 		"url": "https://www.linkedin.com/learning/l-essentiel-des-css-2",
 		"title": "L'essentiel des CSS",
-		"description": "a very up-to-date and solid course (6+ hours) on CSS, in French, nice accent (Damian Bruyndonckx), responsive, etc.",
+		"description": "(TOO BASIC) a very up-to-date and solid course (6+ hours) on CSS, in French, nice accent (Damian Bruyndonckx), responsive, etc.",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-des-css",
 		"status": ""
@@ -1986,6 +2636,32 @@
 		"description": "Sandy Ludosky, French, Python, connects to OpenAI API with key, etc.",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-dopenai-pour-le-dveloppement-en-python",
+		"status": ""
+	},
+	{
+		"topics": "clanguage, backend25",
+		"language": "fr",
+		"duration": "07:53:00",
+		"year": "2018",
+		"rank": "4.58",
+		"url": "https://www.linkedin.com/learning/l-essentiel-du-langage-c",
+		"title": "L'essentiel du langage C",
+		"description": "super long French course, professional, in detail, C retro",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-lessentiel-du-langage-c",
+		"status": ""
+	},
+	{
+		"topics": "css, flexbox, frontend25",
+		"language": "fr",
+		"duration": "01:45:00",
+		"year": "2023",
+		"rank": "4.792",
+		"url": "https://www.linkedin.com/learning/css-maitriser-les-flexbox",
+		"title": "Mastering CSS Flexboxl",
+		"description": "flexbox with Damien Bruyndonckx",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-mastering-css-flexboxl",
 		"status": ""
 	},
 	{
@@ -2090,6 +2766,19 @@
 		"description": "Madjid in French, 2021, good overview of TensorFlow, and very long",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-tensorflow-pour-le-deep-learning",
+		"status": ""
+	},
+	{
+		"topics": "webpack, frontend25",
+		"language": "fr",
+		"duration": "02:14:00",
+		"year": "2024",
+		"rank": "4.89",
+		"url": "https://www.linkedin.com/learning/l-essentiel-de-webpack-5",
+		"title": "Webpack 5 Essential Training",
+		"description": "again Damien Bruyndonckx with good basics on Webpack 5",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-webpack-5-essential-training",
 		"status": ""
 	}
 ]
