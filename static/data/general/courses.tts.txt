@@ -113,9 +113,7 @@
 
 ### PYENV (PYTHON VERSION MANAGEMENT) ######################################################
 >>create>>pyenv, backend25;en;00:10:47;2021;4.77;https://www.youtube.com/watch?v=31WU0Dhw4sk; How to Install and Run Multiple Python Versions on macOS | pyenv & virtualenv Setup Tutorial ;watch this quick as an overview
-
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-https://www.youtube.com/watch?v=MVyb-nI4KyI watch and install pyenv on Ubuntu, 4.89
+>>create>>pyenv;en;00:07:35;2025;4.89;https://www.youtube.com/watch?v=MVyb-nI4KyI; How I handle multiple Python Versions (pyenv) ;NetworkChuck entertainer but tips are useful, watch and install pyenv on Ubuntu, recent
 
 ### WGET ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
