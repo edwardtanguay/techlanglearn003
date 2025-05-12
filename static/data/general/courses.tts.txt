@@ -119,7 +119,7 @@
 >>create>>wget, backend25;en;00:12:38;2022;4.77;https://www.youtube.com/watch?v=zszbBJ81_YU; The wget Command | How to Download Files From a Server ; simple examples of wget
 
 ### ZED ######################################################
->>create>>zed, backend25;en;00:10:34;2024;4.98;https://www.youtube.com/watch?v=lLNA58Pkfqk;TITLE;ten minutes on installing and an overview of Zed
+>>create>>zed, backend25;en;00:10:34;2024;4.98;https://www.youtube.com/watch?v=lLNA58Pkfqk; Zed Editor Overview | Linux Quick Start ;ten minutes on installing and an overview of Zed
 
 ### SSH ######################################################
 >>create>>ssh, backend25;en;01:36:00;2022;4.88;https://www.linkedin.com/learning/learning-ssh-14571185/learning-ssh; Learning SSH ;basic course on SSH by Scott Simpson
