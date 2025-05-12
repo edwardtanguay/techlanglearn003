@@ -100,9 +100,7 @@
 >>create>>git, gitworkflow, backend25;en;01:04:00;2022;4.81;https://www.linkedin.com/learning/git-workflows;  Git Workflows  ;various Git workflows, short but important
 >>create>>git, backend25;en;00:51:00;2022;4.86;https://www.linkedin.com/learning/coding-exercises-git; Coding Exercises: Git ;Ray Villalobos with many Git tips, good
 >>create>>;en;00:47:00;2020;4.85;https://www.linkedin.com/learning/github-quick-tips; GitHub Quick Tips ;more Git tips from Ray Villalobos
-
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-https://www.linkedin.com/learning/gitops-foundations extended course but with good concepts, 4.67
+>>create>>git, backend25;en;02:11:00;2021;4.67;https://www.linkedin.com/learning/gitops-foundations; GitOps Foundations ;extended course on Git but with good concepts
 
 ### ORBSTACK ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
