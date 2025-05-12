@@ -116,8 +116,7 @@
 >>create>>pyenv;en;00:07:35;2025;4.89;https://www.youtube.com/watch?v=MVyb-nI4KyI; How I handle multiple Python Versions (pyenv) ;NetworkChuck entertainer but tips are useful, watch and install pyenv on Ubuntu, recent
 
 ### WGET ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-https://www.youtube.com/watch?v=FuGRDIOObew good overview of how to use wget, 4.88
+>>create>>wget, backend25;en;00:12:23;2025;4.88;https://www.youtube.com/watch?v=FuGRDIOObew; Linux Literacy | WGET ;good overview of how to use wget, and recent
 
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 https://www.youtube.com/watch?v=So_fdFW5SXU history of wget and curl, 4.86
