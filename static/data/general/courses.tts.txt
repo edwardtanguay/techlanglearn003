@@ -113,16 +113,12 @@
 
 ### PYENV (PYTHON VERSION MANAGEMENT) ######################################################
 >>create>>pyenv, backend25;en;00:10:47;2021;4.77;https://www.youtube.com/watch?v=31WU0Dhw4sk; How to Install and Run Multiple Python Versions on macOS | pyenv & virtualenv Setup Tutorial ;watch this quick as an overview
->>create>>pyenv;en;00:07:35;2025;4.89;https://www.youtube.com/watch?v=MVyb-nI4KyI; How I handle multiple Python Versions (pyenv) ;NetworkChuck entertainer but tips are useful, watch and install pyenv on Ubuntu, recent
+>>create>>pyenv, backend25;en;00:07:35;2025;4.89;https://www.youtube.com/watch?v=MVyb-nI4KyI; How I handle multiple Python Versions (pyenv) ;NetworkChuck entertainer but tips are useful, watch and install pyenv on Ubuntu, recent
 
 ### WGET ######################################################
 >>create>>wget, backend25;en;00:12:23;2025;4.88;https://www.youtube.com/watch?v=FuGRDIOObew; Linux Literacy | WGET ;good overview of how to use wget, and recent
-
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-https://www.youtube.com/watch?v=So_fdFW5SXU history of wget and curl, 4.86
-
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-https://www.youtube.com/watch?v=zszbBJ81_YU simple examples, 4.77
+>>create>>wget,curl,backend25;en;00:04:54;2023;4.86;https://www.youtube.com/watch?v=So_fdFW5SXU; Curl VS Wget: What Even Is The Difference ; history of wget and curl, 
+>>create>>wget, backend25;en;00:12:38;2022;4.77;https://www.youtube.com/watch?v=zszbBJ81_YU; The wget Command | How to Download Files From a Server ; simple examples of wget
 
 ### ZED ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
