@@ -82,9 +82,7 @@
 >>create>>direnv, backend25;en;00:11:15;2024;4.998;https://www.youtube.com/watch?v=udezempDBVQ;I'm never using .env files ever again;direnv by someone who really likes it
 
 ### GREP ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-https://www.linkedin.com/learning/bash-patterns-and-regular-expressions
+>>create>>grep, backend25;en;02:02:00;2019;4.44;https://www.linkedin.com/learning/bash-patterns-and-regular-expressions; Bash Patterns and Regular Expressions ;Grant McWilliams Linux experience based on grep, regex, and some sed etc.
 
 ### HASHICORP NOMAD CLI (JOB SCHEDULER) ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
