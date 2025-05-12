@@ -94,14 +94,14 @@
 ### NEOVIM ######################################################
 >>create>>vim,backend25;en;00:09:43;2022;4.50;https://www.youtube.com/watch?v=qZO9A5F6BZs; Vim As You Editor - Advanced Motions P1 ; Primeagen classic, watched some but there are more tips, watch at some point
 >>create>>neovim,backend25;en;01:04:21;2024;4.92;https://www.youtube.com/watch?v=KYDG3AHgYEs; Full Neovim Setup from Scratch in 2025 ;one hour, organized, uses Kickstart because it sets everything up but is minimal, recent, long
- 
 
 ### GIT ######################################################
+>>create>>git, backend25;en;00:56:00;2022;4.88;https://www.linkedin.com/learning/8-git-commands-you-should-know-16027523; 8 Git Commands You Should Know ;good to know Git commands
+>>create>>git, gitworkflow, backend25;en;01:04:00;2022;4.81;https://www.linkedin.com/learning/git-workflows;  Git Workflows  ;various Git workflows, short but important
+>>create>>git, backend25;en;00:51:00;2022;4.86;https://www.linkedin.com/learning/coding-exercises-git; Coding Exercises: Git ;Ray Villalobos with many Git tips, good
+>>create>>;en;00:47:00;2020;4.85;https://www.linkedin.com/learning/github-quick-tips; GitHub Quick Tips ;more Git tips from Ray Villalobos
+
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-https://www.linkedin.com/learning/8-git-commands-you-should-know-16027523 good to know, 4.88
-https://www.linkedin.com/learning/git-workflows various workflows, short but important, 4.81
-https://www.linkedin.com/learning/coding-exercises-git various quick tips, 4.86
-https://www.linkedin.com/learning/github-quick-tips various tips for GitHub, 4.85
 https://www.linkedin.com/learning/gitops-foundations extended course but with good concepts, 4.67
 
 ### ORBSTACK ######################################################
