@@ -5,7 +5,7 @@ https://www.linkedin.com/learning/intellij-idea-community-edition-essential-trai
 - duration: 02:10:00
 - language: en
 - topics: intellij, java, backend25
-- rank: 4.989
+- rank: 5.00
 - description: from 2021 but quite thorough, Java based
 - year: 2021
 

@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=FXckKHtZo4o
 - duration: 00:03:49
 - language: en
 - topics: bruno, backend25
-- rank: 4.9995
+- rank: 4.97
 - description: short and simply intro to Bruno
 - year: 2024
 
