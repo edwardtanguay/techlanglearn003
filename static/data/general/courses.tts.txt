@@ -103,16 +103,13 @@
 >>create>>git, backend25;en;02:11:00;2021;4.67;https://www.linkedin.com/learning/gitops-foundations; GitOps Foundations ;extended course on Git but with good concepts
 
 ### ORBSTACK ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-https://www.youtube.com/watch?v=aJe7CvQ-aM8 high-level overview of OrbStack, 4.75
+>>create>>orbstack, backend25;en;00:16:41;2024;4.75;https://www.youtube.com/watch?v=aJe7CvQ-aM8; Faster Docker, K8S and VMs on macOS! // OrbStack ;high-level overview of OrbStack
 
 ### PGADMIN ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-https://www.youtube.com/watch?v=WFT5MaZN6g4 how to download and use pgAdmin, 4.79
+>>create>>pgadmin, backend25;en;00:15:27;2022;4.79;https://www.youtube.com/watch?v=WFT5MaZN6g4; pgAdmin Tutorial - How to Use pgAdmin ;how to download and use pgAdmin
 
 ### POETRY (PYTHON DEPENDENCY MANAGEMENT) ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-https://www.youtube.com/watch?v=0f3moPe_bhk good overview and then showing how to use Poetry, 4.88
+>>create>>poetry, python, backend25;en;00:14:42;2023;4.88;https://www.youtube.com/watch?v=0f3moPe_bhk; How to Create and Use Virtual Environments in Python With Poetry ;good overview and then showing how to use Poetry
 
 ### PYENV (PYTHON VERSION MANAGEMENT) ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
