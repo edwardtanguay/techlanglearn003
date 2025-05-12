@@ -21,7 +21,7 @@
 ### ADVANCED CSS ######################################################
 >>create>>css, flexbox, frontend25;fr;01:45:00;2023;4.792;https://www.linkedin.com/learning/css-maitriser-les-flexbox;Mastering CSS Flexboxl;flexbox with Damien Bruyndonckx 
 >>create>>flexbox, grid, css, frontend25;fr;04:00:00;2022;4.96;https://www.linkedin.com/learning/la-mise-en-page-css-combiner-les-flex-et-les-grids; CSS Layouts: Combining Flex and Grid ;long course by Damien Bruyndonckx on how to use flex and grid
->>create>>css, animations, frontend25;fr;02:37:00;2023;4.59;https://www.linkedin.com/learning/css-animations-et-transitions-22819867;TITLE;Damien Bruyndonckx on animations, long course
+>>create>>css, animations, frontend25;fr;02:37:00;2023;4.59;https://www.linkedin.com/learning/css-animations-et-transitions-22819867; CSS: Animations and Transitions ;Damien Bruyndonckx on animations, long course
 >>create>>grid, css, frontend25;fr;02:00:00;2023;4.92;https://www.linkedin.com/learning/css-apprendre-le-grid-layout; CSS: Learning Grid Layouts ;Damien Bruyndonckx on grid
 >>create>>css, mediaqueries, frontend25;en;01:03:00;2025;4.95;https://www.linkedin.com/learning/advanced-css-media-queries; Advanced CSS Media Queries ;Jen Kramer basics on medi queries, good overview
 >>create>>css, layouts, frontend25;en;01:26:00;2022;4.96;https://www.linkedin.com/learning/level-up-css-layout; Level Up: CSS Layout ;Morten Rand-Hendriksen on CSS layout patterns one should know
