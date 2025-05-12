@@ -1,7 +1,5 @@
-=======================================================
-
 - good teacher, Python, C#: https://www.linkedin.com/learning/instructors/joe-marini
-
+=======================================================
 
 === Learn Tech 2025 Notes
 === frontend
