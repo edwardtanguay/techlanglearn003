@@ -85,13 +85,11 @@
 >>create>>grep, backend25;en;02:02:00;2019;4.44;https://www.linkedin.com/learning/bash-patterns-and-regular-expressions; Bash Patterns and Regular Expressions ;Grant McWilliams Linux experience based on grep, regex, and some sed etc.
 
 ### HASHICORP NOMAD CLI (JOB SCHEDULER) ######################################################
->>create>>;en;00:05:24;2021;4.78;https://www.youtube.com/watch?v=j6CZ5nJ1O8Q; Is HashiCorp Nomad worth learning? ;five minutes of explaining  an "orchestration engine that solves the same problem as Kubernetes"
+>>create>>hashicorpnomad, backend25;en;00:05:24;2021;4.78;https://www.youtube.com/watch?v=j6CZ5nJ1O8Q; Is HashiCorp Nomad worth learning? ;five minutes of explaining  an "orchestration engine that solves the same problem as Kubernetes"
 >>create>>en;en;00:04:52;2023;4.77;https://www.youtube.com/watch?v=mWgVoQ2RADk; Getting Started With HashiCorp Nomad ;shows code how to use it
 
 ### HASHICORP VAULT (SECRET MANAGEMENT) ######################################################
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
-https://www.youtube.com/watch?v=klyAhaklGNU long overview but good background
-
+>>create>>hashicorpvault, backend25;en;00:29:09;2025;4.83;https://www.youtube.com/watch?v=klyAhaklGNU; HashiCorp Vault Tutorial for Beginners - What, Why and How ;long overview but good background
 
 ### NEOVIM ######################################################
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;https://www.youtube.com/watch?v=qZO9A5F6BZs;TITLE;DESC
