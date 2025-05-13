@@ -1,96 +1,32 @@
-- backend25
-- pdf with python/FPDF2
-- https://www.youtube.com/watch?v=q70xzDG6nls&list=PLjNQtX45f0dR9K2sMJ5ad9wVjqslNBIC0
--
+- tech25
+- es, https://www.linkedin.com/learning/aprende-confluence
+- es, https://www.linkedin.com/learning/aprende-jira
+- es, https://www.linkedin.com/learning/gestion-de-proyectos-con-jira
+- de, https://www.linkedin.com/learning/confluence-grundkurs-21735656
+- en, https://www.linkedin.com/learning/learning-confluence-22306456
+- en, https://www.linkedin.com/learning/learning-confluence-administration
 
 
 
+- WORLD OF JAVA
+- FRENCH
+- Scala, fr, 2023: https://www.linkedin.com/learning/l-essentiel-de-scala
+- Spring Boot, fr, 2021: https://www.linkedin.com/learning/l-essentiel-de-spring-boot
+- Java advanced, fr, 2023: https://www.linkedin.com/learning/java-niveau-avance
+- GERMAN
+- Java new features 14-21, de, 2023: https://www.linkedin.com/learning/java-14-21-neue-features
+- SPANISH
+- Java collections, nice voice, 4.99, es, 2023: https://www.linkedin.com/learning/domina-java-colecciones
+- Sping Boot, nice voice, 4.97, es, 2023: https://www.linkedin.com/learning/spring-boot-esencial
+- Java advanced, 2020: https://www.linkedin.com/learning/java-avanzado-2
+- ENGLISH
+- Scala: https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup
+- Maven: https://www.linkedin.com/learning/introducing-maven
+- Groovy: https://www.linkedin.com/learning/learning-groovy
+- Gradle: https://www.linkedin.com/learning/learning-gradle
 
-
-
-- good teacher, Python, C#: https://www.linkedin.com/learning/instructors/joe-marini
+- all good courses from Joe Marini: Python, C#: https://www.linkedin.com/learning/instructors/joe-marini
 =======================================================
-
-
--
-
-
-=== Learn Tech 2025 Notes
-=== frontend
-
-### SEO ######################################################
-
-### A11Y/WCAG ######################################################
-
-### BROWSERSTACK ######################################################
-
-### OWASP ######################################################
-
-### ADVANCED CSS ######################################################
-
-### WEBPACK ######################################################
-
-
-
-
-- backend
-
-### CURL ######################################################
-
-### INTELLIJ ######################################################
-
-### DOCKER ######################################################
-
-### DOCKER COMPOSE ######################################################
-
-### ITERM ######################################################
-
-### REACT 19 ######################################################
-
-### MAC ######################################################
-
-### OH-MY-ZSH ######################################################
-
-### POWERLEVEL 10K ######################################################
-
-### MAKE ######################################################
-
-### BRUNO (API TESTING) ######################################################
-
-### CURL ######################################################
-
-### DBEAVER ######################################################
-
-### DIRENV ######################################################
-
-### GREP ######################################################
-
-### HASHICORP NOMAD CLI (JOB SCHEDULER) ######################################################
-
-### HASHICORP VAULT (SECRET MANAGEMENT) ######################################################
-
-### NEOVIM ######################################################
-
-### GIT ######################################################
-
-### ORBSTACK ######################################################
-
-### PGADMIN ######################################################
-
-### POETRY (PYTHON DEPENDENCY MANAGEMENT) ######################################################
-
-### PYENV (PYTHON VERSION MANAGEMENT) ######################################################
-
-### WGET ######################################################
-
-### ZED ######################################################
-
-### SSH ######################################################
-
-### MISE EN PLACE ######################################################
-
-### PYCHARM ######################################################
-
 
 
 
