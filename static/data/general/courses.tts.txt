@@ -6,6 +6,13 @@
 - en, https://www.youtube.com/watch?v=6OSpm4uXqDw , longer 40m
 
 
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
 - tech25
 - es, https://www.linkedin.com/learning/aprende-confluence
 - es, https://www.linkedin.com/learning/aprende-jira
@@ -785,3 +792,5 @@ CREATED: mise, backend25;en;00:08:31;2025;4.91;https://www.youtube.com/watch?v=B
 CREATED: pycharm, backend25;en;02:00:00;2021;4.992;https://www.youtube.com/watch?v=2EB8siO-_OM&list=PLCTHcU1KoD98IeuVcqJ2rt1FNytfR_C90;Getting Started with PyCharm;long playlist of setting up PyCharm for Python by midwest nice guy
 CREATED: bash, dpdoing;en;02:26:00;2022;4.92;https://www.linkedin.com/learning/learning-bash-scripting-17063287;Learning Bash Scripting; Scott Simpson long course
 CREATED: python, backend25;en;4:24;2024;4.93;https://www.youtube.com/watch?v=Lr1koR-YkMw;What does the structure of a modern Python project look like?;DESC
+CREATED: python, backend25;en;00:11:37;2024;4.985;https://www.youtube.com/watch?v=Kz6IlDCyOUY;How to Publish a Python Package to PyPI (pip);good 11 minute video on Pip projects
+CREATED: python;en;00:10:45;2023;4.993;https://www.youtube.com/watch?v=2P30W3TN4nI&t=246s;PyCharm Virtual Environments (venv) Explained;10 minutes PyCharm/venv

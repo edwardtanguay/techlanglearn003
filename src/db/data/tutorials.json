@@ -1226,7 +1226,7 @@
 		"language": "en",
 		"duration": "00:14:41",
 		"year": "2017",
-		"rank": "4.992",
+		"rank": "4.83",
 		"url": "https://www.youtube.com/watch?v=7XUibDYw4mc",
 		"title": "Basic cURL Tutorial",
 		"description": "goes through the basics",
@@ -1365,19 +1365,6 @@
 		"status": ""
 	},
 	{
-		"topics": "pycharm, backend25",
-		"language": "en",
-		"duration": "02:00:00",
-		"year": "2021",
-		"rank": "4.992",
-		"url": "https://www.youtube.com/watch?v=2EB8siO-_OM\u0026list=PLCTHcU1KoD98IeuVcqJ2rt1FNytfR_C90",
-		"title": "Getting Started with PyCharm",
-		"description": "long playlist of setting up PyCharm for Python by midwest nice guy",
-		"platform": "youtube",
-		"fileIdCode": "en-yt-getting-started-with-pycharm",
-		"status": ""
-	},
-	{
 		"topics": "hashicorpvault, backend25",
 		"language": "en",
 		"duration": "00:29:09",
@@ -1466,6 +1453,19 @@
 		"description": "more than oh-my-zsh but good",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-how-to-make-your-boring-mac-terminal-so-much-better",
+		"status": ""
+	},
+	{
+		"topics": "python, backend25",
+		"language": "en",
+		"duration": "00:11:37",
+		"year": "2024",
+		"rank": "4.985",
+		"url": "https://www.youtube.com/watch?v=Kz6IlDCyOUY",
+		"title": "How to Publish a Python Package to PyPI (pip)",
+		"description": "good 11 minute video on Pip projects",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-how-to-publish-a-python-package-to-pypi-pip",
 		"status": ""
 	},
 	{
@@ -1653,6 +1653,19 @@
 	{
 		"topics": "python",
 		"language": "en",
+		"duration": "00:10:45",
+		"year": "2023",
+		"rank": "4.993",
+		"url": "https://www.youtube.com/watch?v=2P30W3TN4nI\u0026t=246s",
+		"title": "PyCharm Virtual Environments (venv) Explained",
+		"description": "10 minutes PyCharm/venv",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-pycharm-virtual-environments-venv-explained",
+		"status": ""
+	},
+	{
+		"topics": "python",
+		"language": "en",
 		"duration": "00:09:04",
 		"year": "2024",
 		"rank": "4.2",
@@ -1827,10 +1840,10 @@
 		"rank": "4.93",
 		"url": "https://www.youtube.com/watch?v=Lr1koR-YkMw",
 		"title": "What does the structure of a modern Python project look like?",
-		"description": "DESC",
+		"description": "smart",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-what-does-the-structure-of-a-modern-python-project-look-like",
-		"status": ""
+		"status": "finished"
 	},
 	{
 		"topics": "zed, backend25",
