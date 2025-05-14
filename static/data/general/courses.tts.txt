@@ -1,3 +1,11 @@
+- PYCHARM
+- en, https://www.youtube.com/watch?v=mFyE9xgeKcA, My 2025 uv-based Python Project Layout for Production Apps
+- en, Python venv, 10m: https://www.youtube.com/watch?v=2P30W3TN4nI
+- en, 4.99 Flask/PyCharm, 3h, https://www.youtube.com/watch?v=oQ5UfJqW5Jo
+- en, 4.98, build Python package to store and use: https://www.youtube.com/watch?v=5KEObONUkik
+- en, https://www.youtube.com/watch?v=6OSpm4uXqDw , longer 40m
+
+
 - tech25
 - es, https://www.linkedin.com/learning/aprende-confluence
 - es, https://www.linkedin.com/learning/aprende-jira
@@ -5,6 +13,9 @@
 - de, https://www.linkedin.com/learning/confluence-grundkurs-21735656
 - en, https://www.linkedin.com/learning/learning-confluence-22306456
 - en, https://www.linkedin.com/learning/learning-confluence-administration
+
+- jenkins
+
 
 
 
@@ -773,3 +784,4 @@ CREATED: ssh, backend25;en;01:36:00;2022;4.88;https://www.linkedin.com/learning/
 CREATED: mise, backend25;en;00:08:31;2025;4.91;https://www.youtube.com/watch?v=BOGWfATch-g; Mise vs. ASDF: Why a Rust Rewrite and Curated Plugins Make All the Difference #rust ;eight minutes of a background to mise by someone who uses it, "frontend to your dev environment", recent
 CREATED: pycharm, backend25;en;02:00:00;2021;4.992;https://www.youtube.com/watch?v=2EB8siO-_OM&list=PLCTHcU1KoD98IeuVcqJ2rt1FNytfR_C90;Getting Started with PyCharm;long playlist of setting up PyCharm for Python by midwest nice guy
 CREATED: bash, dpdoing;en;02:26:00;2022;4.92;https://www.linkedin.com/learning/learning-bash-scripting-17063287;Learning Bash Scripting; Scott Simpson long course
+CREATED: python, backend25;en;4:24;2024;4.93;https://www.youtube.com/watch?v=Lr1koR-YkMw;What does the structure of a modern Python project look like?;DESC

@@ -673,7 +673,7 @@
 		"description": "from 2021 but quite thorough, Java based",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-intellij-idea-community-edition-essential-training",
-		"status": "started"
+		"status": "finished"
 	},
 	{
 		"topics": "kotlin,dpod",
@@ -1817,6 +1817,19 @@
 		"description": "7 videos general overview, good base to start",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-wcag-22-at-a-glance-326-consistent-help-level-a",
+		"status": ""
+	},
+	{
+		"topics": "python, backend25",
+		"language": "en",
+		"duration": "4:24",
+		"year": "2024",
+		"rank": "4.93",
+		"url": "https://www.youtube.com/watch?v=Lr1koR-YkMw",
+		"title": "What does the structure of a modern Python project look like?",
+		"description": "DESC",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-what-does-the-structure-of-a-modern-python-project-look-like",
 		"status": ""
 	},
 	{

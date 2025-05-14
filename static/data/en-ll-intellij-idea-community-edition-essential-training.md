@@ -8,7 +8,7 @@ https://www.linkedin.com/learning/intellij-idea-community-edition-essential-trai
 - rank: 5.00
 - description: from 2021 but quite thorough, Java based
 - year: 2021
-- status: started
+- status: finished
 
 ## Why IntelliJ IDEA? , 1:17, 2025-05-12
 
@@ -126,7 +126,37 @@ https://www.linkedin.com/learning/intellij-idea-community-edition-essential-trai
 
 - basic breakpoints
 
-## Inspect variable values , 4:07, nnn
+## Inspect variable values , 4:07, 2025-05-13
+
+- more debuggin
+
+## Build Java Projects, 2:38, 2025-05-13
+
+- how to build, added a module
+
+## Add external libraries to a project , 2:40, 2025-05-13
+
+- get jar file: https://github.com/google/gson
+
+## Download libraries from Maven repos , 3:48, 2025-05-13
+
+- creates a Maven project with lots of boilerplate
+
+## Package classes in JAR files , 2:41, 2025-05-13
+
+- works well on two computers
+
+## Generate API documentation with JavaDoc , 2:52, 2025-05-13
+
+- created basic documentation
+
+## Install Git, 1:04, 2025-05-13
+
+- simple install
+
+## Create a local Git repository , 3:33, 2025-05-13
+
+- commits one file locally
 
 ## Configure GitHub in IntelliJ IDEA , 1:48, 2025-05-12
 
@@ -135,6 +165,38 @@ https://www.linkedin.com/learning/intellij-idea-community-edition-essential-trai
 ## Share a project on GitHub , 2:36, 2025-05-12
 
 - worked
+
+## Pull changes from GitHub, 1:29, 2025-05-13
+
+- pulled change from online
+
+## Commit and push changes to GitHub , 3:38, 2025-05-13
+
+- pushing works
+
+## Manage multiple branches with Git , 3:45, 2025-05-13
+
+- branches and merging
+
+## Share code snippets as Gists , 1:13, 2025-05-13
+
+- simple gist
+
+## Create a Groovy project , 3:05, 2025-05-13
+
+- Groovy built on top of Java 8
+
+## Create a Scala project , 4:17, 2025-05-13
+
+- Scala plug-in
+
+## Create a Kotlin project , 3:30, nnn
+
+- Kotlin created by JetBrains
+
+## Next steps , 1:03, 2025-05-13
+
+- other courses
 
 ## VOCAB - SPANISH
 
