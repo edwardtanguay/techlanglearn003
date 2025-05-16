@@ -949,7 +949,7 @@
 		"status": ""
 	},
 	{
-		"topics": "python, pycharm, jupyter",
+		"topics": "python, pycharm, jupyter, backend25",
 		"language": "en",
 		"duration": "00:29:00",
 		"year": "2021",
@@ -959,7 +959,7 @@
 		"description": "simply shows how to use PyCharm and Jupyter",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-python-tools-jupyter-vs-pycharm",
-		"status": "did first of two main parts"
+		"status": "finished"
 	},
 	{
 		"topics": "python, pytorch, ai",
@@ -1466,7 +1466,7 @@
 		"description": "good 11 minute video on Pip projects",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-how-to-publish-a-python-package-to-pypi-pip",
-		"status": ""
+		"status": "started"
 	},
 	{
 		"topics": "direnv, backend25",

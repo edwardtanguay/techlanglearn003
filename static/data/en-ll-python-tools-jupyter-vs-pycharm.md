@@ -4,11 +4,11 @@ https://www.linkedin.com/learning/python-tools-jupyter-vs-pycharm/pycharm-vs-the
 
 - duration: 00:29:00
 - language: en
-- topics: python, pycharm, jupyter
+- topics: python, pycharm, jupyter, backend25
 - rank: 4.9992
 - description: simply shows how to use PyCharm and Jupyter
 - year: 2021
-- status: did first of two main parts
+- status: finished
 
 ## PyCharm vs. the Jupyter Notebook,1:13, 2025-01-22
 
@@ -24,7 +24,7 @@ https://www.linkedin.com/learning/python-tools-jupyter-vs-pycharm/approaching-an
 
 - created 2015
 - an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text
-- for scientifi computing
+- for scientific computing
 - enables you to share your ideas about code
 
 ## PyCharm overview, 1:26, 2025-01-22
@@ -47,11 +47,50 @@ https://www.linkedin.com/learning/python-tools-jupyter-vs-pycharm/approaching-an
 - pros
   - build-in workspace virtual environment
 
-## Understanding your goals, 1:50, nnn
+## Understanding your goals, 1:50, 2025-05-14
 
-https://www.linkedin.com/learning/python-tools-jupyter-vs-pycharm/understanding-your-goals?autoSkip=true&resume=false
+- PyCharm vs. Jupyter
+  - PyCharm
+    - for applications
+  - Jupyter
+    - data-centric
+    - data manipulation
+    - data visualization
+    - sandbox to work with new Python libraries
+    - work through data structure problems
+    - instructional document for teaching purposes
 
-- nnn
+## Debugging in Jupyter vs. PyCharm , 3:02, 2025-05-15
+
+- both debug
+
+## Version control in Jupyter vs. PyCharm , 3:37, 2025-05-15
+
+- PyCharm better than Jupyter on Git
+
+## Integrations in Jupyter vs. PyCharm , 3:25, 2025-05-15
+
+- Jupyter have nbextensions
+
+## Code profiling in Jupyter vs. PyCharm , 2:58, 2025-05-15
+
+- Jupyter built-in code profiling, PyCharm only professional
+
+## Machine learning in Jupyter vs. PyCharm , 1:45, 2025-05-15
+
+- Jupyter a bit more appropriate
+
+## Who uses Jupyter Notebook? , 1:07, 2025-05-15
+
+- data scientists, professors
+
+## Who uses PyCharm?, 1:12, 2025-05-15
+
+- developers
+
+## The future of Python , 0:39, 2025-05-15
+
+- jupyter.org
 
 ## VOCAB - ITALIAN
 

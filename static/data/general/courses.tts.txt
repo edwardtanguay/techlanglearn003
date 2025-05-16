@@ -1,4 +1,15 @@
+
+- ADD, backend25
+- https://youtu.be/v07gXY6ESEo?si=-MWH5MF51O8-bIr4 - react 19
+- https://youtu.be/-ybCiHPWKNA?si=Unj7jECVEzqizGEf - neovim for noobs
+- https://www.youtube.com/watch?v=tmTajqVgkwI - husky
+
+
 - PYCHARM
+- en, NEXT, https://www.youtube.com/watch?v=F3QhYxixO2Q
+
+
+
 - en, https://www.youtube.com/watch?v=mFyE9xgeKcA, My 2025 uv-based Python Project Layout for Production Apps
 - en, Python venv, 10m: https://www.youtube.com/watch?v=2P30W3TN4nI
 - en, 4.99 Flask/PyCharm, 3h, https://www.youtube.com/watch?v=oQ5UfJqW5Jo
