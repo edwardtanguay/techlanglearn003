@@ -1466,7 +1466,7 @@
 		"description": "good 11 minute video on Pip projects",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-how-to-publish-a-python-package-to-pypi-pip",
-		"status": "started"
+		"status": "started building basic Python project with venv etc."
 	},
 	{
 		"topics": "direnv, backend25",

@@ -8,17 +8,19 @@ https://www.youtube.com/watch?v=Kz6IlDCyOUY
 - rank: 4.985
 - description: good 11 minute video on Pip projects
 - year: 2024
-- status: started
+- status: started building basic Python project with venv etc.
 
 ## watchlog
 
-nnn - 00:00
+2025-05-16 - 00:35
+2025-05-16 - 05:55
 
 ## notes
 
-- nnn
+- recording notes in learntech25
 
 ## VOCAB - SPANISH
 
 ```
+
 ```
