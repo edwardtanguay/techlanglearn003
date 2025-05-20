@@ -1463,10 +1463,10 @@
 		"rank": "4.985",
 		"url": "https://www.youtube.com/watch?v=Kz6IlDCyOUY",
 		"title": "How to Publish a Python Package to PyPI (pip)",
-		"description": "good 11 minute video on Pip projects",
+		"description": "good 11 minute video on Pip projects, only does CLI command, not package to import in code",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-how-to-publish-a-python-package-to-pypi-pip",
-		"status": "started building basic Python project with venv etc."
+		"status": "finished"
 	},
 	{
 		"topics": "direnv, backend25",

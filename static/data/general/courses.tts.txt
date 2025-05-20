@@ -1,5 +1,8 @@
 
 - ADD, backend25
+- cherry pick
+- https://www.youtube.com/watch?v=0qVBdfkgMEo - Amplitude
+- https://www.youtube.com/watch?v=ck9pFtF34Uo - Magnolia
 - https://youtu.be/v07gXY6ESEo?si=-MWH5MF51O8-bIr4 - react 19
 - https://youtu.be/-ybCiHPWKNA?si=Unj7jECVEzqizGEf - neovim for noobs
 - https://www.youtube.com/watch?v=tmTajqVgkwI - husky
@@ -7,6 +10,9 @@
 
 - PYCHARM
 - en, NEXT, https://www.youtube.com/watch?v=F3QhYxixO2Q
+
+- OTHER
+- https://www.youtube.com/watch?v=LUJw9eTUTYQ - deepseek on your computer
 
 
 

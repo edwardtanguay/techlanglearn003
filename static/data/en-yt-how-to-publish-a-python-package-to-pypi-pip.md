@@ -6,14 +6,16 @@ https://www.youtube.com/watch?v=Kz6IlDCyOUY
 - language: en
 - topics: python, backend25
 - rank: 4.985
-- description: good 11 minute video on Pip projects
+- description: good 11 minute video on Pip projects, only does CLI command, not package to import in code
 - year: 2024
-- status: started building basic Python project with venv etc.
+- status: finished
 
 ## watchlog
 
 2025-05-16 - 00:35
 2025-05-16 - 05:55
+2025-05-19 - 07:25
+2025-05-19 - 11:37
 
 ## notes
 
