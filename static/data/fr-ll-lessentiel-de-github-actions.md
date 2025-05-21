@@ -21,11 +21,17 @@ https://www.linkedin.com/learning/l-essentiel-de-github-actions/comprendre-la-di
 
 - with GitHub you can create wikis
 
-## Créer un compte GitHub, 2:09, nnn
+## Créer un compte GitHub, 2:09, 2025-05-20
 
 https://www.linkedin.com/learning/l-essentiel-de-github-actions/creer-un-compte-github?autoSkip=true&resume=false
 
-- nnn
+- mentioned sponsors
+
+## Comprendre la CI/CD, 3:22, 2025-05-20
+
+- CD/CI overview
+
+## Écrire des fichiers en YAML, 3:46, nnn
 
 ## VOCAB - FRENCH
 

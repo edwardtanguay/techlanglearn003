@@ -1,3 +1,8 @@
+- rubyonrails
+>>create>>rubyonrails,ruby,dpdoing;en;01:07:00;2024;4.91;https://www.linkedin.com/learning/hands-on-introduction-ruby-on-rails; Hands-On Introduction: Ruby on Rails ;basic rails course from 2024, instructor has accent but seems professional
+>>create>>ruby,dpdoing;en;09:16:00;2024;4.92;https://www.linkedin.com/learning/complete-guide-to-ruby; Complete Guide to Ruby ;extremely long (9 hours) and up-to-date (2024) course by Kevin Skoglund, Ruby only not rails
+>>create>>rubyonrails,ruby,dpdoing;fr;06:10:00;2017;4.95;https://www.linkedin.com/learning/l-essentiel-de-ruby-on-rails; L'essentiel de Ruby on Rails ;long course (6 hours) in French, old but still relevant
+
 
 - ADD, backend25
 - cherry pick
@@ -24,7 +29,6 @@
 
 
 
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
@@ -331,9 +335,6 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 - https://www.linkedin.com/learning/shopify-grundkurs
 - kafka
 - regex, en, 2024: https://www.linkedin.com/learning/learning-regular-expressions-15586553/write-text-matching-patterns
-- rubyonrails
-- en; rubyonreails; 2024; https://www.linkedin.com/learning/hands-on-introduction-ruby-on-rails
-
 - FRINGE - probably won't use at a job, but interesting
 - https://www.linkedin.com/learning/learning-airtable/create-powerful-databases-with-airtable
 - Neovim: https://www.youtube.com/watch?v=m8C0Cq9Uv9o
