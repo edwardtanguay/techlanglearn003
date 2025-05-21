@@ -351,6 +351,19 @@
 		"status": ""
 	},
 	{
+		"topics": "ruby,dpdoing",
+		"language": "en",
+		"duration": "09:16:00",
+		"year": "2024",
+		"rank": "4.92",
+		"url": "https://www.linkedin.com/learning/complete-guide-to-ruby",
+		"title": "Complete Guide to Ruby",
+		"description": "extremely long (9 hours) and up-to-date (2024) course by Kevin Skoglund, Ruby only not rails",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-complete-guide-to-ruby",
+		"status": ""
+	},
+	{
 		"topics": "gitlab",
 		"language": "en",
 		"duration": "01:27:00",
@@ -647,6 +660,19 @@
 		"description": "a 12-hour course, covers everything, presenter just reads but technical, mostly powerpoints but some code, \"goal is not to teach you how to write code, but how to use AWS so you don't have to code'\", a lot at the command line",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-handson-development-in-aws",
+		"status": ""
+	},
+	{
+		"topics": "rubyonrails,ruby,dpdoing",
+		"language": "en",
+		"duration": "01:07:00",
+		"year": "2024",
+		"rank": "4.91",
+		"url": "https://www.linkedin.com/learning/hands-on-introduction-ruby-on-rails",
+		"title": "Hands-On Introduction: Ruby on Rails",
+		"description": "basic rails course from 2024, instructor has accent but seems professional",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-handson-introduction-ruby-on-rails",
 		"status": ""
 	},
 	{
@@ -2585,6 +2611,19 @@
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-de-node-package-manager-npm",
 		"status": ""
+	},
+	{
+		"topics": "rubyonrails,ruby,dpdoing",
+		"language": "fr",
+		"duration": "06:10:00",
+		"year": "2017",
+		"rank": "4.95",
+		"url": "https://www.linkedin.com/learning/l-essentiel-de-ruby-on-rails",
+		"title": "L'essentiel de Ruby on Rails",
+		"description": "long course (6 hours) in French, old but still relevant",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-lessentiel-de-ruby-on-rails",
+		"status": "started"
 	},
 	{
 		"topics": "scala",

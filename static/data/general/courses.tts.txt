@@ -1,9 +1,3 @@
-- rubyonrails
->>create>>rubyonrails,ruby,dpdoing;en;01:07:00;2024;4.91;https://www.linkedin.com/learning/hands-on-introduction-ruby-on-rails; Hands-On Introduction: Ruby on Rails ;basic rails course from 2024, instructor has accent but seems professional
->>create>>ruby,dpdoing;en;09:16:00;2024;4.92;https://www.linkedin.com/learning/complete-guide-to-ruby; Complete Guide to Ruby ;extremely long (9 hours) and up-to-date (2024) course by Kevin Skoglund, Ruby only not rails
->>create>>rubyonrails,ruby,dpdoing;fr;06:10:00;2017;4.95;https://www.linkedin.com/learning/l-essentiel-de-ruby-on-rails; L'essentiel de Ruby on Rails ;long course (6 hours) in French, old but still relevant
-
-
 - ADD, backend25
 - cherry pick
 - https://www.youtube.com/watch?v=0qVBdfkgMEo - Amplitude
@@ -812,3 +806,6 @@ CREATED: bash, dpdoing;en;02:26:00;2022;4.92;https://www.linkedin.com/learning/l
 CREATED: python, backend25;en;4:24;2024;4.93;https://www.youtube.com/watch?v=Lr1koR-YkMw;What does the structure of a modern Python project look like?;DESC
 CREATED: python, backend25;en;00:11:37;2024;4.985;https://www.youtube.com/watch?v=Kz6IlDCyOUY;How to Publish a Python Package to PyPI (pip);good 11 minute video on Pip projects
 CREATED: python;en;00:10:45;2023;4.993;https://www.youtube.com/watch?v=2P30W3TN4nI&t=246s;PyCharm Virtual Environments (venv) Explained;10 minutes PyCharm/venv
+CREATED: rubyonrails,ruby,dpdoing;en;01:07:00;2024;4.91;https://www.linkedin.com/learning/hands-on-introduction-ruby-on-rails; Hands-On Introduction: Ruby on Rails ;basic rails course from 2024, instructor has accent but seems professional
+CREATED: ruby,dpdoing;en;09:16:00;2024;4.92;https://www.linkedin.com/learning/complete-guide-to-ruby; Complete Guide to Ruby ;extremely long (9 hours) and up-to-date (2024) course by Kevin Skoglund, Ruby only not rails
+CREATED: rubyonrails,ruby,dpdoing;fr;06:10:00;2017;4.95;https://www.linkedin.com/learning/l-essentiel-de-ruby-on-rails; L'essentiel de Ruby on Rails ;long course (6 hours) in French, old but still relevant
