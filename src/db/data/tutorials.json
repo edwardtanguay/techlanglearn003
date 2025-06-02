@@ -361,7 +361,7 @@
 		"description": "extremely long (9 hours) and up-to-date (2024) course by Kevin Skoglund, Ruby only not rails",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-complete-guide-to-ruby",
-		"status": ""
+		"status": "doing the three OOP sections plus modules (4)"
 	},
 	{
 		"topics": "gitlab",
@@ -1388,6 +1388,19 @@
 		"description": "shows code how to use it",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-getting-started-with-hashicorp-nomad",
+		"status": ""
+	},
+	{
+		"topics": "git, rebase, backend25",
+		"language": "en",
+		"duration": "00:21:43",
+		"year": "2024",
+		"rank": "4.8",
+		"url": "https://www.youtube.com/watch?v=4aIazhclURE",
+		"title": "Git rebase is not that scary",
+		"description": "explains how to use Git Rebase in branches",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-git-rebase-is-not-that-scary",
 		"status": ""
 	},
 	{
@@ -2623,7 +2636,7 @@
 		"description": "long course (6 hours) in French, old but still relevant",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-de-ruby-on-rails",
-		"status": "started"
+		"status": "covered basic section of Ruby, got Rails running on Ubuntu, continue to learn Rails in depth and in French"
 	},
 	{
 		"topics": "scala",

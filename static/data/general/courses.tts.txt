@@ -1,4 +1,9 @@
-- ADD, backend25
+
+- ADD:backend25
+- rebase
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 - cherry pick
 - https://www.youtube.com/watch?v=0qVBdfkgMEo - Amplitude
 - https://www.youtube.com/watch?v=ck9pFtF34Uo - Magnolia
@@ -6,6 +11,10 @@
 - https://youtu.be/-ybCiHPWKNA?si=Unj7jECVEzqizGEf - neovim for noobs
 - https://www.youtube.com/watch?v=tmTajqVgkwI - husky
 
+
+WSL: https://www.linkedin.com/learning/learning-windows-subsystem-for-linux-16134127/windows-subsystem-for-linux
+
+jujutsu: https://www.youtube.com/watch?v=LV0JzI8IcCY
 
 - PYCHARM
 - en, NEXT, https://www.youtube.com/watch?v=F3QhYxixO2Q
@@ -809,3 +818,4 @@ CREATED: python;en;00:10:45;2023;4.993;https://www.youtube.com/watch?v=2P30W3TN4
 CREATED: rubyonrails,ruby,dpdoing;en;01:07:00;2024;4.91;https://www.linkedin.com/learning/hands-on-introduction-ruby-on-rails; Hands-On Introduction: Ruby on Rails ;basic rails course from 2024, instructor has accent but seems professional
 CREATED: ruby,dpdoing;en;09:16:00;2024;4.92;https://www.linkedin.com/learning/complete-guide-to-ruby; Complete Guide to Ruby ;extremely long (9 hours) and up-to-date (2024) course by Kevin Skoglund, Ruby only not rails
 CREATED: rubyonrails,ruby,dpdoing;fr;06:10:00;2017;4.95;https://www.linkedin.com/learning/l-essentiel-de-ruby-on-rails; L'essentiel de Ruby on Rails ;long course (6 hours) in French, old but still relevant
+CREATED: git, rebase, backend25;en;00:21:43;2024;4.8;https://www.youtube.com/watch?v=4aIazhclURE; Git rebase is not that scary ;explains how to use Git Rebase in branches
