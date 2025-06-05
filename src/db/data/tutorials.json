@@ -1391,17 +1391,30 @@
 		"status": ""
 	},
 	{
+		"topics": "git, cherrypick, backend25",
+		"language": "en",
+		"duration": "4:41",
+		"year": "2023",
+		"rank": "4.97",
+		"url": "https://www.youtube.com/watch?v=i657Bg_HAWI",
+		"title": "Git CHERRY PICK Tutorial",
+		"description": "looks solid",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-git-cherry-pick-tutorial",
+		"status": "finished"
+	},
+	{
 		"topics": "git, rebase, backend25",
 		"language": "en",
-		"duration": "00:21:43",
-		"year": "2024",
-		"rank": "4.8",
-		"url": "https://www.youtube.com/watch?v=4aIazhclURE",
-		"title": "Git rebase is not that scary",
-		"description": "explains how to use Git Rebase in branches",
+		"duration": "16:11",
+		"year": "2018",
+		"rank": "4.99",
+		"url": "https://www.youtube.com/watch?v=CRlGDDprdOQ",
+		"title": "Git MERGE vs REBASE",
+		"description": "good but he rebases the master which is probably not a good idea if working in teams",
 		"platform": "youtube",
-		"fileIdCode": "en-yt-git-rebase-is-not-that-scary",
-		"status": ""
+		"fileIdCode": "en-yt-git-merge-vs-rebase",
+		"status": "finished"
 	},
 	{
 		"topics": "hashicorpvault, backend25",

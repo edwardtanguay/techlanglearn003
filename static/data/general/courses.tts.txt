@@ -1,9 +1,19 @@
+- Kyle: Learn Web Components In 25 Minutes: https://www.youtube.com/watch?v=2I7uX8m0Ta0
+- Designing Modern UI with Lit Web Components: https://www.youtube.com/watch?v=vWcHo_WQN54
+- Lit 3.0 Explained: https://www.youtube.com/watch?v=Jy0dMy2qDMo
+- modular federation: https://www.youtube.com/watch?v=D3XYAx30CNc
+- Rsbuild is 3x faster than Vite: https://www.youtube.com/watch?v=w8mL_HiN9Qo
+- Mastering Micro-Frontends With RSpack and Module Federation: https://www.youtube.com/watch?v=32_EikGKESk
+- Introduction to Lit - Lit University (Basics): https://www.youtube.com/watch?v=uzFakwHaSmw
 
 - ADD:backend25
 - rebase
+- cherrypick merge conflicts: https://www.youtube.com/watch?v=aUeNbpSkY8k
+
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
 - cherry pick
 - https://www.youtube.com/watch?v=0qVBdfkgMEo - Amplitude
 - https://www.youtube.com/watch?v=ck9pFtF34Uo - Magnolia
@@ -819,3 +829,5 @@ CREATED: rubyonrails,ruby,dpdoing;en;01:07:00;2024;4.91;https://www.linkedin.com
 CREATED: ruby,dpdoing;en;09:16:00;2024;4.92;https://www.linkedin.com/learning/complete-guide-to-ruby; Complete Guide to Ruby ;extremely long (9 hours) and up-to-date (2024) course by Kevin Skoglund, Ruby only not rails
 CREATED: rubyonrails,ruby,dpdoing;fr;06:10:00;2017;4.95;https://www.linkedin.com/learning/l-essentiel-de-ruby-on-rails; L'essentiel de Ruby on Rails ;long course (6 hours) in French, old but still relevant
 CREATED: git, rebase, backend25;en;00:21:43;2024;4.8;https://www.youtube.com/watch?v=4aIazhclURE; Git rebase is not that scary ;explains how to use Git Rebase in branches
+CREATED: git, rebase, backend25;en;16:11;2018;4.99;https://www.youtube.com/watch?v=CRlGDDprdOQ;Git MERGE vs REBASE;basic info
+CREATED: git, cherrypick, backend25;en;4:41;2023;4.97;https://www.youtube.com/watch?v=i657Bg_HAWI;Git CHERRY PICK Tutorial;looks solid
