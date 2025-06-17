@@ -114,7 +114,7 @@
 		"description": "good to know Git commands",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-8-git-commands-you-should-know",
-		"status": ""
+		"status": "finished"
 	},
 	{
 		"topics": "a11y, frontend25",
@@ -1389,6 +1389,19 @@
 		"platform": "youtube",
 		"fileIdCode": "en-yt-getting-started-with-hashicorp-nomad",
 		"status": ""
+	},
+	{
+		"topics": "backend25,git",
+		"language": "en",
+		"duration": "00:04:23",
+		"year": "2020",
+		"rank": "4.87",
+		"url": "https://www.youtube.com/watch?v=wIY824wWpu4",
+		"title": "Git cherry pick tutorial. How to use git cherry-pick.",
+		"description": "short example, looks good",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-git-cherry-pick-tutorial-how-to-use-git-cherrypick",
+		"status": "finished"
 	},
 	{
 		"topics": "git, cherrypick, backend25",

@@ -24,7 +24,27 @@ https://www.linkedin.com/learning/domina-ruby-scripting-archivos-clases-modulos-
 - writes file
 - put/write
 
-## Cómo leer un archivo y sus líneas desde un programa en Ruby, 1:25, nnn
+## Cómo leer un archivo y sus líneas desde un programa en Ruby, 1:25, 2025-06-11
+
+- used foreach
+
+## Cómo verificar la existencia de un archivo en el sistema de archivos desde un programa en Ruby. , 2:56, 2025-06-14
+
+- used Dir.foreach
+
+## Cuál es la diferencia entre exec y system al ejecutar comandos del sistema operativo en Ruby. , 2:10, 2025-06-14
+
+- exec stops execution
+
+## Qué es "frozen string: true" y cómo se utiliza para asegurar la integridad de los datos en Ruby , 1:34, 2025-06-14
+
+- this is only for strings
+
+## Cómo definir y manejar rápidamente atributos de instancia en una clase en Ruby. , 3:53, 2025-06-14
+
+- shows attr_accessor
+
+## Cuál es la diferencia entre variables de instancia y variables de clase en Ruby. , 2:10 2025-06-14
 
 ## VOCAB - SPANISH
 

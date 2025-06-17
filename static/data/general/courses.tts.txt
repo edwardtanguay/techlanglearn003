@@ -1,3 +1,22 @@
+Gitlens
+https://www.youtube.com/watch?v=9Gr-tp9ucOk
+
+How to Create a Tag for a Commit on Github
+https://www.youtube.com/watch?v=ktGLZDy3oc0
+
+Python pre-commit
+https://www.youtube.com/results?search_query=python+pre-commit
+
+Node.js husky
+https://www.youtube.com/results?search_query=node.js+husky
+
+Python black
+https://www.youtube.com/results?search_query=python+black
+
+Git Hooks prettier
+https://www.youtube.com/results?search_query=git+hooks+prettier
+
+
 - how to make versions in GitHub
 - Kyle: Learn Web Components In 25 Minutes: https://www.youtube.com/watch?v=2I7uX8m0Ta0
 - Designing Modern UI with Lit Web Components: https://www.youtube.com/watch?v=vWcHo_WQN54
@@ -16,6 +35,8 @@
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 - cherry pick
+
+
 - https://www.youtube.com/watch?v=0qVBdfkgMEo - Amplitude
 - https://www.youtube.com/watch?v=ck9pFtF34Uo - Magnolia
 - https://youtu.be/v07gXY6ESEo?si=-MWH5MF51O8-bIr4 - react 19
@@ -832,3 +853,4 @@ CREATED: rubyonrails,ruby,dpdoing;fr;06:10:00;2017;4.95;https://www.linkedin.com
 CREATED: git, rebase, backend25;en;00:21:43;2024;4.8;https://www.youtube.com/watch?v=4aIazhclURE; Git rebase is not that scary ;explains how to use Git Rebase in branches
 CREATED: git, rebase, backend25;en;16:11;2018;4.99;https://www.youtube.com/watch?v=CRlGDDprdOQ;Git MERGE vs REBASE;basic info
 CREATED: git, cherrypick, backend25;en;4:41;2023;4.97;https://www.youtube.com/watch?v=i657Bg_HAWI;Git CHERRY PICK Tutorial;looks solid
+CREATED: backend25,git;en;00:04:23;2020;4.87;https://www.youtube.com/watch?v=wIY824wWpu4;Git cherry pick tutorial. How to use git cherry-pick.;short example, looks good
