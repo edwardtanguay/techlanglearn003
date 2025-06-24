@@ -1,3 +1,14 @@
+GitHub
+
+
+>>create>>git, github;en;00:52:00;2021;4.983;https://www.linkedin.com/learning/coding-exercises-github;Coding Exercises: GitHub;Ray Villalobos, his Git coding exercises were good, not that long, do quickly
+
+git worktrees
+https://www.youtube.com/results?search_query=git+worktree+tutorial
+
+git bisect
+https://www.youtube.com/results?search_query=git+bisect+tutorial
+
 Gitlens
 https://www.youtube.com/watch?v=9Gr-tp9ucOk
 
@@ -30,7 +41,6 @@ https://www.youtube.com/results?search_query=git+hooks+prettier
 - rebase
 - cherrypick merge conflicts: https://www.youtube.com/watch?v=aUeNbpSkY8k
 
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 

@@ -342,13 +342,13 @@
 		"language": "en",
 		"duration": "00:51:00",
 		"year": "2022",
-		"rank": "4.86",
+		"rank": "4.96",
 		"url": "https://www.linkedin.com/learning/coding-exercises-git",
 		"title": "Coding Exercises: Git",
 		"description": "Ray Villalobos with many Git tips, good",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-coding-exercises-git",
-		"status": ""
+		"status": "finished"
 	},
 	{
 		"topics": "ruby,dpdoing",
