@@ -351,6 +351,19 @@
 		"status": "finished"
 	},
 	{
+		"topics": "git, github",
+		"language": "en",
+		"duration": "00:52:00",
+		"year": "2021",
+		"rank": "4.983",
+		"url": "https://www.linkedin.com/learning/coding-exercises-github",
+		"title": "Coding Exercises: GitHub",
+		"description": "Ray Villalobos, his Git coding exercises were good, not that long, do quickly",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-coding-exercises-github",
+		"status": "started"
+	},
+	{
 		"topics": "ruby,dpdoing",
 		"language": "en",
 		"duration": "09:16:00",
@@ -537,7 +550,7 @@
 		"language": "en",
 		"duration": "02:37:00",
 		"year": "2023",
-		"rank": "4.93",
+		"rank": "4.975",
 		"url": "https://www.linkedin.com/learning/git-for-teams/using-git-for-team-collaboration",
 		"title": "Git for Teams",
 		"description": "Kevin Bowersox, lots of good tips for teams, Gitlab installation, secrets, Git flow, GitLab Runner, CI pipeline, cherry-picking, squashing, reverting",
@@ -563,7 +576,7 @@
 		"language": "en",
 		"duration": "00:47:00",
 		"year": "2020",
-		"rank": "4.85",
+		"rank": "4.976",
 		"url": "https://www.linkedin.com/learning/github-quick-tips",
 		"title": "GitHub Quick Tips",
 		"description": "more Git tips from Ray Villalobos",

@@ -70,7 +70,7 @@
 			<tbody>
 				{#each store.filteredTutorials as tutorial}
 					<tr class={getStatusClass(tutorial)}>
-						<td>{tutorial.rank.toFixed(2)}</td>
+						<td>{tutorial.rank.toFixed(5)}</td>
 						<td>{tutorial.year === 0 ? '' : tutorial.year}</td>
 						<td>{tutorial.language}</td>
 						<td>{tutorial.topics}</td>
