@@ -19,7 +19,19 @@ https://www.linkedin.com/learning/coding-exercises-github
 - `npx degit Asabeneh/30-Days-Of-Python 30dayspython`
 - very useful
 
-## How do you merge a linear history? , 4:22, nnn
+## How do you merge a linear history? , 4:22, 2025-06-24
+
+- he rebased onto main and then said, "don't rebased onto a public branch'"
+
+## Add an issue directly from the Terminal , 2:56, 2025-06-25
+
+- useful: https://cli.github.com
+
+## Deleting all commit history , 1:56, 2025-06-25
+
+- switch and checkout not the same for --orphan flag
+
+## Fix a committed password , 4:32, nnn
 
 ## VOCAB - SPANISH
 

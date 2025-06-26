@@ -37,6 +37,8 @@ https://www.linkedin.com/learning/elixir-101-essential-functional-programming-te
 
 ## The usual suspects, 9:09, nnn
 
+
+
 ## VOCAB - ITALIAN
 
 ```
