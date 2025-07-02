@@ -31,7 +31,11 @@ https://www.linkedin.com/learning/coding-exercises-github
 
 - switch and checkout not the same for --orphan flag
 
-## Fix a committed password , 4:32, nnn
+## Fix a committed password , 4:32, 2025-06-26
+
+- nice idea: add a commit and fixup it with the commit that added the password
+
+## Create a monorepo , 3:18, nnn
 
 ## VOCAB - SPANISH
 

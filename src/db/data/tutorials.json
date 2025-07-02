@@ -156,7 +156,7 @@
 		"status": ""
 	},
 	{
-		"topics": "csharp,dpdoing",
+		"topics": "csharp,dpdoing,dpodcurrent",
 		"language": "en",
 		"duration": "01:46:00",
 		"year": "2023",
@@ -481,7 +481,7 @@
 		"status": ""
 	},
 	{
-		"topics": "elixir,dpdoing",
+		"topics": "elixir,dpdoing,dpodcurrent",
 		"language": "en",
 		"duration": "03:04:00",
 		"year": "2022",
@@ -598,7 +598,7 @@
 		"status": ""
 	},
 	{
-		"topics": "go,dpdoing",
+		"topics": "go,dpdoing,dpodcurrent",
 		"language": "en",
 		"duration": "01:25:00",
 		"year": "2021",
@@ -2184,7 +2184,7 @@
 		"status": "started"
 	},
 	{
-		"topics": "ruby,dpod",
+		"topics": "ruby,dpod,dpodcurrent",
 		"language": "es",
 		"duration": "01:09:00",
 		"year": "2024",
@@ -2249,14 +2249,14 @@
 		"status": ""
 	},
 	{
-		"topics": "kotlin,dpdoing",
+		"topics": "kotlin,dpdoing,dpodcurrent",
 		"language": "es",
 		"duration": "04:52:00",
 		"year": "2022",
 		"rank": "4.976",
 		"url": "https://www.linkedin.com/learning/kotlin-esencial",
 		"title": "Kotlin esencial",
-		"description": "María Puy Arrastia Lana, nice voice, long course in Kotlin in Spanish",
+		"description": "María Puy Arrastia Lana, nice voice, long course in Kotlin in Spanish, uses IntelliJ, free community edition for Kotlin",
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-kotlin-esencial",
 		"status": "started"
@@ -2509,7 +2509,7 @@
 		"status": ""
 	},
 	{
-		"topics": "bash,dpdoing",
+		"topics": "bash,dpdoing,dpodcurrent,rust",
 		"language": "fr",
 		"duration": "01:42:00",
 		"year": "2017",
@@ -2522,7 +2522,7 @@
 		"status": "started"
 	},
 	{
-		"topics": "rust,dpdoing",
+		"topics": "rust,dpdoing,dpodcurrent",
 		"language": "fr",
 		"duration": "01:59:00",
 		"year": "2022",
@@ -2691,7 +2691,7 @@
 		"status": ""
 	},
 	{
-		"topics": "typescript,dpod",
+		"topics": "typescript,dpod,dpodcurrent",
 		"language": "fr",
 		"duration": "02:21:00",
 		"year": "2025",
@@ -2808,7 +2808,7 @@
 		"status": ""
 	},
 	{
-		"topics": "php,dpdoing",
+		"topics": "php,dpdoing,dpodcurrent",
 		"language": "fr",
 		"duration": "02:29:00",
 		"year": "2023",
@@ -2847,7 +2847,7 @@
 		"status": "started"
 	},
 	{
-		"topics": "python,dpod",
+		"topics": "python,dpod,dpodcurrent",
 		"language": "fr",
 		"duration": "01:16:00",
 		"year": "2021",

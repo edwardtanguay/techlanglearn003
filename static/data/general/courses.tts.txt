@@ -1,10 +1,43 @@
+new bash english
+https://www.linkedin.com/learning/learning-bash-scripting-26210777/learning-bash-scripting
+
 Python Poetry
 https://www.linkedin.com/learning/create-an-open-source-project-in-python
+https://www.youtube.com/results?search_query=python+poetry
+
+Python pipeenv
+https://www.youtube.com/results?search_query=pipenv
+
+React Testing Library
+https://www.youtube.com/watch?v=SppbtlpPZu4&list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ&index=6
+
+Ubuntu
+https://www.linkedin.com/learning/ubuntu-linux-essential-commands-and-system-administration/administering-ubuntu-linux
+
+
+ASP.NET auf Linux
+https://www.linkedin.com/learning/asp-dot-net-hosting-auf-linux
+
+Tkinter with Python
+https://www.linkedin.com/learning/python-gui-programmierung-mit-tkinter
+
 
 Gradle
 https://www.linkedin.com/learning/learning-gradle/hello-world
 https://www.linkedin.com/learning/gradle-for-java-based-applications-and-libraries
 
+React
+https://www.linkedin.com/learning/interactive-react-for-the-web
+
+SonarCube
+BPMM
+runbook
+
+CI/CD
+https://www.linkedin.com/learning/static-application-security-testing
+
+OWASP
+https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599
 
 
 git worktrees

@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/elixir-101-essential-functional-programming-te
 
 - duration: 03:04:00
 - language: en
-- topics: elixir,dpdoing
+- topics: elixir,dpdoing,dpodcurrent
 - rank: 4.99
 - description: Vanessa Lee, very long course, all Elixir basics
 - year: 2022
@@ -35,8 +35,11 @@ https://www.linkedin.com/learning/elixir-101-essential-functional-programming-te
 
 - recompile
 
-## The usual suspects, 9:09, nnn
+## The usual suspects, 9:09, 2025-06-26
 
+- strings, int/float, bool
+
+## The collections , 17:22, nnn
 
 
 ## VOCAB - ITALIAN

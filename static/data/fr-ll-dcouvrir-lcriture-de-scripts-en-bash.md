@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/decouvrir-l-ecriture-de-scripts-en-bash
 
 - duration: 01:42:00
 - language: fr
-- topics: bash,dpdoing
+- topics: bash,dpdoing,dpodcurrent,rust
 - rank: 4.88
 - description: Rudi Bruchez for old times sake, basic course on bash scripting
 - year: 2017
@@ -22,7 +22,19 @@ https://www.linkedin.com/learning/decouvrir-l-ecriture-de-scripts-en-bash
 
 - il a créé un fichier avec le même nom qu'une commande
 
-## Donner les permissions d'exécution, 5:29, nnn
+## Donner les permissions d'exécution, 5:29, 2025-06-30
+
+- just does a hellow world
+
+## Créer des variables , 5:00, 2025-06-30
+
+- no $ when defining variable
+
+## Interpoler les variables dans les chaînes , 5:15, 2025-06-30
+
+- two ways to do interpolation
+
+## Utiliser les fonctions spéciales de chaînes , 5:56, nnn
 
 
 ## VOCAB - FRENCH

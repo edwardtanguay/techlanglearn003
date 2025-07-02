@@ -4,9 +4,9 @@ https://www.linkedin.com/learning/kotlin-esencial
 
 - duration: 04:52:00
 - language: es
-- topics: kotlin,dpdoing
+- topics: kotlin,dpdoing,dpodcurrent
 - rank: 4.976
-- description: María Puy Arrastia Lana, nice voice, long course in Kotlin in Spanish
+- description: María Puy Arrastia Lana, nice voice, long course in Kotlin in Spanish, uses IntelliJ, free community edition for Kotlin
 - year: 2022
 - status: started
 

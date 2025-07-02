@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/decouvrir-rust
 
 - duration: 01:59:00
 - language: fr
-- topics: rust,dpdoing
+- topics: rust,dpdoing,dpodcurrent
 - rank: 4.93
 - description: solid course on Rust in French, Benjamin Coenen, nice voice
 - year: 2022
@@ -31,7 +31,11 @@ https://www.linkedin.com/learning/decouvrir-rust
 
 - how to cast numbers
 
-## Utiliser des chaînes de caractères , 5:15, nnn
+## Utiliser des chaînes de caractères , 5:15, 2025-07-02
+
+- strings are not uncomplicated, use mut to make them mutable
+
+## Utiliser des tableaux , 5:12, nnn
 
 ## VOCAB - FRENCH
 

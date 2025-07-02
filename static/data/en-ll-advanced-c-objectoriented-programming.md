@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming
 
 - duration: 01:46:00
 - language: en
-- topics: csharp,dpdoing
+- topics: csharp,dpdoing,dpodcurrent
 - rank: 4.991
 - description: Joe Marini, longer OOP course, very good
 - year: 2023
@@ -22,7 +22,11 @@ https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming
 
 - rectangle example
 
-## Properties , 6:25, nnn
+## Properties , 6:25, 2025-06-30
+
+- good examples of properties
+
+## Inheritance, 9:19, nnn
 
 ## VOCAB - ITALIAN
 
