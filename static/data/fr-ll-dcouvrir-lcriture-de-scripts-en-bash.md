@@ -34,8 +34,11 @@ https://www.linkedin.com/learning/decouvrir-l-ecriture-de-scripts-en-bash
 
 - two ways to do interpolation
 
-## Utiliser les fonctions spéciales de chaînes , 5:56, nnn
+## Utiliser les fonctions spéciales de chaînes , 5:56, 2025-07-02
 
+- upper/lower case etc.
+
+## Réaliser des calculs arithmétiques , 3:09, nnn
 
 ## VOCAB - FRENCH
 
