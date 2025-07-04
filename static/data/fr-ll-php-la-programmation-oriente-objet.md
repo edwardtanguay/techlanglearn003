@@ -38,7 +38,11 @@ https://www.linkedin.com/learning/php-la-programmation-orientee-objet
 
 - makes Person
 
-## Créer une instance de la classe(objet) , 3:58, nnn
+## Créer une instance de la classe(objet) , 3:58, 2025-07-02
+
+- simple class, shows output in browser
+
+## Défi : Créer une classe Calculatrice , 1:08, nnn
 
 ## VOCAB - FRENCH
 

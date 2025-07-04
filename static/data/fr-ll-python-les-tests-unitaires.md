@@ -9,9 +9,15 @@ https://www.linkedin.com/learning/python-les-tests-unitaires
 - description: Docstring, good course on Python testing
 - year: 2021
 
-## TITLE, TIME, nnn
+## Aborder la formation, 1:23, 2025-07-02
 
-- nnn
+- unittest and pytest
+
+## Comprendre les tests de code, 7:05, 2025-07-02
+
+- does an example of a test, but not unittest or pytest
+
+## Placer les tests , 1:59, nnn
 
 ## VOCAB - SPANISH
 

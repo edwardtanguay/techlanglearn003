@@ -1,3 +1,6 @@
+Python OOP, very short
+https://www.linkedin.com/learning/python-la-programmation-orientee-objet
+
 new bash english
 https://www.linkedin.com/learning/learning-bash-scripting-26210777/learning-bash-scripting
 
