@@ -74,7 +74,11 @@ https://www.linkedin.com/learning/l-essentiel-de-typescript
 
 - is only for TypeScript, not for execution
 
-## Comprendre le typage par inférence, 1:46, nnn
+## Comprendre le typage par inférence, 1:46, 2025-07-05
+
+- you have to handle null and undefined
+
+## S’initier au typage par annotation , 1:59, nnn
 
 ## VOCAB - SPANISH
 
