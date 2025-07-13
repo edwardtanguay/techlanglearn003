@@ -905,3 +905,4 @@ CREATED: git, rebase, backend25;en;16:11;2018;4.99;https://www.youtube.com/watch
 CREATED: git, cherrypick, backend25;en;4:41;2023;4.97;https://www.youtube.com/watch?v=i657Bg_HAWI;Git CHERRY PICK Tutorial;looks solid
 CREATED: backend25,git;en;00:04:23;2020;4.87;https://www.youtube.com/watch?v=wIY824wWpu4;Git cherry pick tutorial. How to use git cherry-pick.;short example, looks good
 CREATED: git, github;en;00:52:00;2021;4.983;https://www.linkedin.com/learning/coding-exercises-github;Coding Exercises: GitHub;Ray Villalobos, his Git coding exercises were good, not that long, do quickly
+CREATED: scala,dpodcurrent;en;04:43:00;2024;4.92;https://www.linkedin.com/learning/scala-essential-training-2023;Scala Essential Training;Developer instructor, long course, solid basics
