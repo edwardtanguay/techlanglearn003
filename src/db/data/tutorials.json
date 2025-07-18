@@ -1099,10 +1099,10 @@
 		"rank": "4.92",
 		"url": "https://www.linkedin.com/learning/scala-essential-training-2023",
 		"title": "Scala Essential Training",
-		"description": "Developer instructor, long course, solid basics",
+		"description": "Developer instructor, long course, solid basics, half OOP, half functional, \"I don't like to spend time talking on slides\", \"we will write more than a 1000 lines of code from scratch\"",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-scala-essential-training",
-		"status": ""
+		"status": "started, working in IntelliJ as project and VSCode as CLI"
 	},
 	{
 		"topics": "python",
