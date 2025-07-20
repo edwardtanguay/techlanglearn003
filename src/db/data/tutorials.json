@@ -2392,14 +2392,14 @@
 		"status": "not yet started"
 	},
 	{
-		"topics": "typescript,dpod",
+		"topics": "typescript,dpod,dpodcurrent",
 		"language": "es",
 		"duration": "02:45:00",
 		"year": "2021",
 		"rank": "4.83",
 		"url": "https://www.linkedin.com/learning/typescript-avanzado",
 		"title": "TypeScript avanzado",
-		"description": "Sergio, extra topics like NPM package, etc. good course and Spanish",
+		"description": "Sergio, extra topics like NPM package, uses webpack, good course and Spanish",
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-typescript-avanzado",
 		"status": ""
@@ -2727,7 +2727,7 @@
 		"description": "a nice retro course with Damian Bruyndonckx in French",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-de-webpack-5",
-		"status": ""
+		"status": "on second section, good workshop, step-by-step"
 	},
 	{
 		"topics": "css",

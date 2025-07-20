@@ -1,3 +1,11 @@
+monorepos
+https://www.linkedin.com/learning/search?keywords=monorepo
+
+Gulp
+https://www.youtube.com/results?search_query=gulpjs
+Grunt usa una sintassi più verbosa e si basa su file temporanei.
+Gulp usa stream e pipe, risultando più veloce e leggibile.
+
 Holger's channel
 https://www.youtube.com/@papperlapapp-dev/videos
 
