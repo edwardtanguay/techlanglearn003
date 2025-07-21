@@ -45,7 +45,11 @@ https://www.linkedin.com/learning/go-design-patterns/what-you-should-know?autoSk
 - has error checking
 - produces mutable object
 
-## Factory pattern overview , 1:40, nnn
+## Factory pattern overview , 1:40, 2025-07-21
+
+- Go doesn't have subclasses
+
+## Factory pattern example , 6:12, nnn
 
 ## VOCAB - ITALIAN
 
