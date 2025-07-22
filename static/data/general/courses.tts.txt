@@ -5,9 +5,6 @@ https://www.linkedin.com/learning/instructors/damien-bruyndonckx
 react/typescript/webpack
 https://www.youtube.com/watch?v=Elpu7CIuqjY&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo
 
-bootstrap 5
-https://www.linkedin.com/learning/l-essentiel-de-bootstrap-5/controler-la-direction-des-elements-flex
-
 monorepos
 https://www.linkedin.com/learning/search?keywords=monorepo
 
@@ -930,3 +927,4 @@ CREATED: git, cherrypick, backend25;en;4:41;2023;4.97;https://www.youtube.com/wa
 CREATED: backend25,git;en;00:04:23;2020;4.87;https://www.youtube.com/watch?v=wIY824wWpu4;Git cherry pick tutorial. How to use git cherry-pick.;short example, looks good
 CREATED: git, github;en;00:52:00;2021;4.983;https://www.linkedin.com/learning/coding-exercises-github;Coding Exercises: GitHub;Ray Villalobos, his Git coding exercises were good, not that long, do quickly
 CREATED: scala,dpodcurrent;en;04:43:00;2024;4.92;https://www.linkedin.com/learning/scala-essential-training-2023;Scala Essential Training;Developer instructor, long course, solid basics
+CREATED: bootstrap;fr;04:48:00;2021;4.4;https://www.linkedin.com/learning/l-essentiel-de-bootstrap-5;L'essentiel de Bootstrap 5;Damien had a good Webpack course where he would get the same errors that I was getting and worked through them, this is a good opportunity to learn Bootstrap, and in French
