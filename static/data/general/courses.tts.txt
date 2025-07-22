@@ -1,3 +1,13 @@
+CSS tips, french
+https://www.linkedin.com/learning/css-astuces-et-techniques/bienvenue
+https://www.linkedin.com/learning/instructors/damien-bruyndonckx
+
+react/typescript/webpack
+https://www.youtube.com/watch?v=Elpu7CIuqjY&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo
+
+bootstrap 5
+https://www.linkedin.com/learning/l-essentiel-de-bootstrap-5/controler-la-direction-des-elements-flex
+
 monorepos
 https://www.linkedin.com/learning/search?keywords=monorepo
 
