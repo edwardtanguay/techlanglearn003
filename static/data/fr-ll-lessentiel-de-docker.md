@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/l-essentiel-de-docker
 
 - duration: 03:14:00
 - language: fr
-- topics: docker, backend25
+- topics: docker, backend25, donext
 - rank: 4.96
 - description: solid, long course on Docker, French, professional trainer
 - year: 2023
