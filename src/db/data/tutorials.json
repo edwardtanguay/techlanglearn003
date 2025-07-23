@@ -855,7 +855,7 @@
 		"description": "Morten Rand-Hendriksen on CSS layout patterns one should know",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-level-up-css-layout",
-		"status": ""
+		"status": "started"
 	},
 	{
 		"topics": "go,dpod",
@@ -2591,10 +2591,10 @@
 		"language": "fr",
 		"duration": "04:48:00",
 		"year": "2021",
-		"rank": "4.4",
+		"rank": "2.4",
 		"url": "https://www.linkedin.com/learning/l-essentiel-de-bootstrap-5",
 		"title": "L'essentiel de Bootstrap 5",
-		"description": "Damien had a good Webpack course where he would get the same errors that I was getting and worked through them, this is a good opportunity to learn Bootstrap, and in French",
+		"description": "(CANCELLED) Damien had a good Webpack course where he would get the same errors that I was getting and worked through them, this is a good opportunity to learn Bootstrap, and in French, but after looking at the final site, which was quite disappointing, I decided not to continue with this course/Bootstrap",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-de-bootstrap-5",
 		"status": "started"
