@@ -1,10 +1,7 @@
 project management
 SEARCH MORE AT LINKEDIN: https://www.linkedin.com/learning/search?keywords=project%20management&promptType=LEARNER_TYPED
 
- ****
->>create>>ppp,projm;en;04:01:00;2025;4.97;https://www.linkedin.com/learning/project-management-foundations-15528659;Project Management Foundations;Long, extensive course on project management, decent presenter, good concepts
->>create>>ppp,projm,excel;en;01:41:00;2024;4.89;https://www.linkedin.com/learning/excel-for-project-management;Excel for Project Management;Trainer is Excel expert, seems competent, good practice Excel course
->>create>>ppp, projm;en;01:44:00;2024;4.77;https://www.linkedin.com/learning/project-management-simplified-2019;TITLE;Another project management course by different trainer, British
+****
 
 
 amplitude
@@ -949,3 +946,6 @@ CREATED: git, github;en;00:52:00;2021;4.983;https://www.linkedin.com/learning/co
 CREATED: scala,dpodcurrent;en;04:43:00;2024;4.92;https://www.linkedin.com/learning/scala-essential-training-2023;Scala Essential Training;Developer instructor, long course, solid basics
 CREATED: bootstrap;fr;04:48:00;2021;4.4;https://www.linkedin.com/learning/l-essentiel-de-bootstrap-5;L'essentiel de Bootstrap 5;Damien had a good Webpack course where he would get the same errors that I was getting and worked through them, this is a good opportunity to learn Bootstrap, and in French
 CREATED: webpack;en;01:20:00;2021;4.978;https://www.youtube.com/watch?v=Elpu7CIuqjY&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo;Webpack with React and TypeScript;An 8-part tutorial, seems basic and to the point
+CREATED: ppp,projm;en;04:01:00;2025;4.97;https://www.linkedin.com/learning/project-management-foundations-15528659;Project Management Foundations;Long, extensive course on project management, decent presenter, good concepts
+CREATED: ppp,projm,excel;en;01:41:00;2024;4.89;https://www.linkedin.com/learning/excel-for-project-management;Excel for Project Management;Trainer is Excel expert, seems competent, good practice Excel course
+CREATED: ppp, projm;en;01:44:00;2024;4.77;https://www.linkedin.com/learning/project-management-simplified-2019;TITLE;Another project management course by different trainer, British

@@ -507,6 +507,19 @@
 		"status": ""
 	},
 	{
+		"topics": "ppp,projm,excel",
+		"language": "en",
+		"duration": "01:41:00",
+		"year": "2024",
+		"rank": "4.89",
+		"url": "https://www.linkedin.com/learning/excel-for-project-management",
+		"title": "Excel for Project Management",
+		"description": "Trainer is Excel expert, seems competent, good practice Excel course",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-excel-for-project-management",
+		"status": ""
+	},
+	{
 		"topics": "flask",
 		"language": "en",
 		"duration": "02:02:00",
@@ -962,6 +975,19 @@
 		"status": ""
 	},
 	{
+		"topics": "ppp,projm",
+		"language": "en",
+		"duration": "04:01:00",
+		"year": "2025",
+		"rank": "4.97",
+		"url": "https://www.linkedin.com/learning/project-management-foundations-15528659",
+		"title": "Project Management Foundations",
+		"description": "Long, extensive course on project management, decent presenter, good concepts",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-project-management-foundations",
+		"status": ""
+	},
+	{
 		"topics": "python, testing",
 		"language": "en",
 		"duration": "01:38:00",
@@ -1154,6 +1180,19 @@
 		"description": "good intro course to Tensorflow, only 30 minutes",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-tensorflow-practical-skills-in-constructing-training-and-optimizing-models",
+		"status": ""
+	},
+	{
+		"topics": "ppp, projm",
+		"language": "en",
+		"duration": "01:44:00",
+		"year": "2024",
+		"rank": "4.77",
+		"url": "https://www.linkedin.com/learning/project-management-simplified-2019",
+		"title": "Project Management Simplified",
+		"description": "Another project management course by different trainer, British",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-title",
 		"status": ""
 	},
 	{
