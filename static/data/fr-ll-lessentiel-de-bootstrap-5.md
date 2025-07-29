@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/l-essentiel-de-bootstrap-5
 
 - duration: 04:48:00
 - language: fr
-- topics: bootstrap,donext
+- topics: bootstrap
 - rank: 2.4
 - description: (CANCELLED) Damien had a good Webpack course where he would get the same errors that I was getting and worked through them, this is a good opportunity to learn Bootstrap, and in French, but after looking at the final site, which was quite disappointing, I decided not to continue with this course/Bootstrap
 - year: 2021

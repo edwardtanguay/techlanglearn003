@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=KYDG3AHgYEs
 
 - duration: 01:04:21
 - language: en
-- topics: neovim,backend25
+- topics: neovim,backend25,donext
 - rank: 4.92
 - description: one hour, organized, uses Kickstart because it sets everything up but is minimal, recent, long
 - year: 2024

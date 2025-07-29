@@ -416,7 +416,7 @@
 		"status": "not yet started"
 	},
 	{
-		"topics": "css, frontend25",
+		"topics": "css, frontend25, donext",
 		"language": "en",
 		"duration": "02:03:00",
 		"year": "2022",
@@ -1391,7 +1391,7 @@
 		"status": ""
 	},
 	{
-		"topics": "neovim,backend25",
+		"topics": "neovim,backend25,donext",
 		"language": "en",
 		"duration": "01:04:21",
 		"year": "2024",
@@ -1921,6 +1921,19 @@
 		"description": "7 videos general overview, good base to start",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-wcag-22-at-a-glance-326-consistent-help-level-a",
+		"status": ""
+	},
+	{
+		"topics": "webpack,donext",
+		"language": "en",
+		"duration": "01:20:00",
+		"year": "2021",
+		"rank": "4.978",
+		"url": "https://www.youtube.com/watch?v=Elpu7CIuqjY\u0026list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo",
+		"title": "Webpack with React and TypeScript",
+		"description": "An 8-part tutorial, seems basic and to the point, Webpack 5, React, TypeScript, SVGs, images, dev/prod environments, Husky,",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-webpack-with-react-and-typescript",
 		"status": ""
 	},
 	{
@@ -2587,7 +2600,7 @@
 		"status": ""
 	},
 	{
-		"topics": "bootstrap,donext",
+		"topics": "bootstrap",
 		"language": "fr",
 		"duration": "04:48:00",
 		"year": "2021",
