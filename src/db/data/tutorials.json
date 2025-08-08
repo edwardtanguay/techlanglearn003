@@ -985,7 +985,7 @@
 		"description": "Long, extensive course on project management, decent presenter, good concepts",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-project-management-foundations",
-		"status": ""
+		"status": "started"
 	},
 	{
 		"topics": "python, testing",
@@ -1131,17 +1131,17 @@
 		"status": "started, working in IntelliJ as project and VSCode as CLI"
 	},
 	{
-		"topics": "python",
+		"topics": "python,jupyter",
 		"language": "en",
 		"duration": "02:21:00",
 		"year": "2024",
-		"rank": "4.81",
+		"rank": "4.9",
 		"url": "https://www.linkedin.com/learning/skill-up-with-python-hands-on-data-science-and-machine-learning-projects",
 		"title": "Skill Up with Python: Hands-On Data Science and Machine Learning Projects",
-		"description": "Shaun Wassell teaches practical Python with projects",
+		"description": "Shaun Wassell, I found this for Jupyter Notebooks, looks like he runs them online",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-skill-up-with-python-handson-data-science-and-machine-learning-projects",
-		"status": ""
+		"status": "started, using to learn about Jupyter Notebooks, good course, do rest, I used it to understand to use the Anaconda Jupyter Lab in the cloud"
 	},
 	{
 		"topics": "architecture",
@@ -2867,10 +2867,10 @@
 		"rank": "4.95",
 		"url": "https://www.linkedin.com/learning/pandas-pour-la-data-science",
 		"title": "pandas pour la data science",
-		"description": "Docstring on pandas and Jupyter setup, good",
+		"description": "Docstring on pandas and Jupyter setup, will get data from csv and excel, make graphics with matplotlib, good",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-pandas-pour-la-data-science",
-		"status": ""
+		"status": "started for learning JupyterLab installation, it's a good course for pandas, continue at some point"
 	},
 	{
 		"topics": "php, dpod",

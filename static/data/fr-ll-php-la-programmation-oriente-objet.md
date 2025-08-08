@@ -42,7 +42,39 @@ https://www.linkedin.com/learning/php-la-programmation-orientee-objet
 
 - simple class, shows output in browser
 
-## Défi : Créer une classe Calculatrice , 1:08, nnn
+## Défi : Créer une classe Calculatrice , 1:08, 2025-08-03
+
+- explains challenge
+
+## Solution : Créer une classe Calculatrice , 4:56
+
+- made simple calculator
+
+## Découvrir la visibilité , 1:38, 2025-08-03
+
+- public, private, protected
+
+## Mettre en pratique la visibilité , 2:34, 2025-08-03
+
+- changed public to private
+
+## Aborder les getters et les setters , 1:28, 2025-08-03
+
+- explains getters/setters
+
+## Assimiler l'encapsulation , 5:12, 2025-08-03
+
+- used getters
+
+## Défi : Améliorer la classe calculatrice , 0:41, 2025-08-03
+
+- explained
+
+## Solution : Améliorer la classe calculatrice , 4:28, 2025-08-03
+
+- solved it
+
+## Découvrir l'héritage , 4:20, nnn
 
 ## VOCAB - FRENCH
 

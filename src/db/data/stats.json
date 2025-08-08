@@ -1,8 +1,48 @@
 {
-	"totalDays": 275,
-	"averageDurationPerDay": "00:08:25",
-	"totalDuration": "38:35:20",
+	"totalDays": 285,
+	"averageDurationPerDay": "00:08:31",
+	"totalDuration": "40:28:54",
 	"timeUnits": [
+		{
+			"calendarDate": "2025-08-08",
+			"duration": "00:13:39"
+		},
+		{
+			"calendarDate": "2025-08-07",
+			"duration": "00:51:14"
+		},
+		{
+			"calendarDate": "2025-08-06",
+			"duration": "00:06:02"
+		},
+		{
+			"calendarDate": "2025-08-05",
+			"duration": "00:01:51"
+		},
+		{
+			"calendarDate": "2025-08-04",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2025-08-03",
+			"duration": "00:17:09"
+		},
+		{
+			"calendarDate": "2025-08-02",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2025-08-01",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2025-07-31",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2025-07-30",
+			"duration": "00:23:39"
+		},
 		{
 			"calendarDate": "2025-07-29",
 			"duration": "00:00:00"
