@@ -189,10 +189,10 @@
 		"rank": "4.89",
 		"url": "https://www.linkedin.com/learning/advanced-python-working-with-data",
 		"title": "Advanced Python: Working With Data",
-		"description": "Joe Marini, watch quickly but all about data serialization, etc.",
+		"description": "Joe Marini, uses a large JSON file to show examples, very useful",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-advanced-python-working-with-data",
-		"status": ""
+		"status": "started"
 	},
 	{
 		"topics": "nextjs, ai",
@@ -962,6 +962,19 @@
 		"status": ""
 	},
 	{
+		"topics": "pandas, python, jupyter",
+		"language": "en",
+		"duration": "03:10:00",
+		"year": "2024",
+		"rank": "4.93",
+		"url": "https://www.linkedin.com/learning/pandas-essential-training-24082178",
+		"title": "pandas Essential Training",
+		"description": "starting this mainly to see how Google Colab works to host Juptyer notebooks, but teacher looks good, Jonathan Fernandes does a lot of Python/AI",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-pandas-essential-training",
+		"status": "watched it to learn Google Colab (doesn't share well with notebooks you use in project), might be interesting to continue just to see how one works with pandas to research e.g. Excel data"
+	},
+	{
 		"topics": "rust,dpod",
 		"language": "en",
 		"duration": "01:30:00",
@@ -1155,6 +1168,19 @@
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-software-architecture-from-developer-to-architect",
 		"status": "course finished, decent, good overview of an area that was new"
+	},
+	{
+		"topics": "symfony, php",
+		"language": "en",
+		"duration": "01:35:00",
+		"year": "2023",
+		"rank": "4.8",
+		"url": "https://www.linkedin.com/learning/symfony-6-essential-training",
+		"title": "Symfony 6 Essential Training",
+		"description": "Gary Kovar, an active PHP teacher, nice voice",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-symfony-6-essential-training",
+		"status": "started"
 	},
 	{
 		"topics": "seo, frontend25",
@@ -2363,7 +2389,7 @@
 		"description": "another course by Ana María, she goes over classes, type hinting, mypy, closures, decorators, async, tests and SQLAlchemy",
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-python-avanzado-2",
-		"status": "good course, half way through, OOP, decorators, etc."
+		"status": "finished"
 	},
 	{
 		"topics": "react, monorepos",

@@ -8,7 +8,7 @@ https://www.linkedin.com/learning/python-avanzado-2/mejora-con-python-19000119
 - rank: 4.91
 - description: another course by Ana María, she goes over classes, type hinting, mypy, closures, decorators, async, tests and SQLAlchemy
 - year: 2023
-- status: good course, half way through, OOP, decorators, etc.
+- status: finished
 
 ## Mejora con Python, 0:42, 2024-12-23
 
@@ -128,11 +128,53 @@ https://www.linkedin.com/learning/python-avanzado-2/uso-de-multiples-decoradores
 
 - the order of the decorator functions are important
 
-## Uso de un decorador en la vida real, 1:18, nnn
+## Uso de un decorador en la vida real, 1:18, 2025-08-09
 
-https://www.linkedin.com/learning/python-avanzado-2/uso-de-un-decorador-en-la-vida-real-18998252?autoSkip=true&resume=false
+- used in Django, Flask
 
-- nnn
+## Bases de datos y ORMs , 2:02, 2025-08-09
+
+- basics, Peewee is an ORM
+
+## Conexión y sesiones con SQLAlchemy , 3:33, 2025-08-09
+
+- sets up but does not use code
+
+## Modelos y Tablas con SQLAlchemy , 7:50, 2025-08-09
+
+- lots to set up
+
+## Guardar datos en una BD con SQLAlchemy , 4:41, 2025-08-09
+
+- worked
+
+## Hacer consultas a una BD con SQLAlchemy , 5:24, 2025-08-10
+
+- prints from db
+
+## Qué es la programación asíncrona , 2:01, 2025-08-12
+
+- three kinds
+
+## Asincronísmo en Python usando asyncio, 6:53, 2025-08-12
+
+- worked well, sync and async
+
+## Qué son las pruebas unitarias , 1:28, 2025-08-14
+
+- nose, pytest, pyunit/unittest (uses this)
+
+## Pruebas unitarias con unittest , 4:18, 2025-08-14
+
+- writes three tests
+
+## Resultados en pruebas unitarias , 2:08, 2025-08-14
+
+- shows failed and error
+
+## Pruebas unitarias para manejo de errores , 3:11, 2025-08-14
+
+- handles raised exceptions
 
 ## VOCAB - SPANISH
 

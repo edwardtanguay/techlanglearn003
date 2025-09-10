@@ -1,8 +1,44 @@
-pandas
-https://www.linkedin.com/learning/pandas-essential-training-24082178
+vue: https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902
+
+Gary Kovar: https://www.linkedin.com/learning/instructors/gary-kovar
+
+
+next: https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site
+next: https://www.linkedin.com/learning/learning-next-js-24381329
+
+AI/MCP ********
+https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai
+
+
+Ruby/Hanami
+
+
+Nest.js
+
+python - flask next
+python - FastAPI, Pyramid framework and in Jinja templating
+
+good next python
+https://www.linkedin.com/learning/advanced-python-classes-and-functions
+
+python
+https://www.linkedin.com/learning/advanced-python-working-with-data/data-filtering
+https://www.linkedin.com/learning/8-things-you-must-know-in-python/eight-things-to-know-in-python
+https://www.linkedin.com/learning/learning-the-python-3-standard-library/factorial-square-root-and-gcd-14500538
+https://www.linkedin.com/learning/instructors/jonathan-fernandes
+
+
+penpot
+https://www.linkedin.com/learning/penpot-for-ux-design/what-is-penpot
 
 
 
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
@@ -974,3 +1010,5 @@ CREATED: ppp,projm;en;04:01:00;2025;4.97;https://www.linkedin.com/learning/proje
 CREATED: ppp,projm,excel;en;01:41:00;2024;4.89;https://www.linkedin.com/learning/excel-for-project-management;Excel for Project Management;Trainer is Excel expert, seems competent, good practice Excel course
 CREATED: ppp, projm;en;01:44:00;2024;4.77;https://www.linkedin.com/learning/project-management-simplified-2019;TITLE;Another project management course by different trainer, British
 CREATED: python,jupyter;en;02:21:00;2024;4.9;https://www.linkedin.com/learning/skill-up-with-python-hands-on-data-science-and-machine-learning-projects;Skill Up with Python: Hands-On Data Science and Machine Learning Projects; Shaun Wassell, I found this for Jupyter Notebooks, looks like he runs them online
+CREATED: pandas, python, jupyter;en;03:10:00;2024;4.93;https://www.linkedin.com/learning/pandas-essential-training-24082178; pandas Essential Training ;starting this mainly to see how Google Colab works to host Juptyer notebooks, but teacher looks good, Jonathan Fernandes does a lot of Python/AI
+CREATED: symfony, php;en;01:35:00;2023;4.8; https://www.linkedin.com/learning/symfony-6-essential-training; Symfony 6 Essential Training ;Gary Kovar, an active PHP teacher, nice voice
