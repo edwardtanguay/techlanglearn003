@@ -1,3 +1,20 @@
+REACT FIBER ETC
+React Fiber Reconciliation: How it Works (Part 1): https://www.youtube.com/watch?v=rKk4XJYzSQA
+Senior React interview questions: https://www.youtube.com/watch?v=tiOkArbHnqY
+Top 10 React Interview Questions and Answers 2025; https://www.youtube.com/watch?v=dAHTXKDsrZ8
+HARD React Interview Questions (3 patterns): https://www.youtube.com/watch?v=Zpvzv8Uma8Q
+React Interview Questions and Answers: https://www.youtube.com/watch?v=yQHr4opz_N0
+
+terraform
+
+kubernetes
+
+
+>>create>>kubernetes;en;03:48:00;2025;4.1; https://www.linkedin.com/learning/kubernetes-your-first-project-24688192;Kubernetes: Your First Project;looks like a basic course
+>>create>>terraform ;en;04:35:00;2025;4.1;https://www.linkedin.com/learning/developing-infrastructure-as-code-with-terraform;Developing Infrastructure as Code with Terraform;looks like a good basic course for Terraform, long
+
+
+
 vue: https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902
 
 Gary Kovar: https://www.linkedin.com/learning/instructors/gary-kovar
@@ -8,6 +25,7 @@ next: https://www.linkedin.com/learning/learning-next-js-24381329
 
 AI/MCP ********
 https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai
+https://www.linkedin.com/learning/10-in-10-ai-challenge/challenge-yourself-to-daily-ai-projects
 
 
 Ruby/Hanami
@@ -33,8 +51,10 @@ https://www.linkedin.com/learning/penpot-for-ux-design/what-is-penpot
 
 
 
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+
+
+
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
@@ -1012,3 +1032,5 @@ CREATED: ppp, projm;en;01:44:00;2024;4.77;https://www.linkedin.com/learning/proj
 CREATED: python,jupyter;en;02:21:00;2024;4.9;https://www.linkedin.com/learning/skill-up-with-python-hands-on-data-science-and-machine-learning-projects;Skill Up with Python: Hands-On Data Science and Machine Learning Projects; Shaun Wassell, I found this for Jupyter Notebooks, looks like he runs them online
 CREATED: pandas, python, jupyter;en;03:10:00;2024;4.93;https://www.linkedin.com/learning/pandas-essential-training-24082178; pandas Essential Training ;starting this mainly to see how Google Colab works to host Juptyer notebooks, but teacher looks good, Jonathan Fernandes does a lot of Python/AI
 CREATED: symfony, php;en;01:35:00;2023;4.8; https://www.linkedin.com/learning/symfony-6-essential-training; Symfony 6 Essential Training ;Gary Kovar, an active PHP teacher, nice voice
+CREATED: react, fiber;en;17:14;2024;4.34;https://www.youtube.com/watch?v=XU6O4ASQoWs; React Interview Questions Senior Level (React Fiber, Reconciliation, Virtual DOM);They act out an interview, heavy accents but useful
+CREATED: payload,nextjs;en;00:36:00;2024;4.87;https://www.youtube.com/watch?v=0Pz9g654OIc;Payload CMS - Next.js Will Never Be The Same After This;Payload 3.0 is new and uses Next.js, ByteGrad covers this combination

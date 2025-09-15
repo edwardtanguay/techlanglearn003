@@ -452,7 +452,7 @@
 		"description": "Leticia Portella, nice voice, seems competent, long basic course on Django, good place to start, authentication, login, logout, signup, released Dec 2024 (note she has a unit testing course as well)",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-django-essential-training",
-		"status": ""
+		"status": "started"
 	},
 	{
 		"topics": "elasticsearch",
@@ -1781,6 +1781,19 @@
 		"status": ""
 	},
 	{
+		"topics": "payload,nextjs",
+		"language": "en",
+		"duration": "00:36:00",
+		"year": "2024",
+		"rank": "4.87",
+		"url": "https://www.youtube.com/watch?v=0Pz9g654OIc",
+		"title": "Payload CMS - Next.js Will Never Be The Same After This",
+		"description": "Payload 3.0 is new and uses Next.js, ByteGrad covers this combination",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-payload-cms-nextjs-will-never-be-the-same-after-this",
+		"status": ""
+	},
+	{
 		"topics": "pgadmin, backend25",
 		"language": "en",
 		"duration": "00:15:27",
@@ -1844,6 +1857,19 @@
 		"platform": "youtube",
 		"fileIdCode": "en-yt-react-authentication-with-kinde",
 		"status": "finished"
+	},
+	{
+		"topics": "react, fiber",
+		"language": "en",
+		"duration": "17:14",
+		"year": "2024",
+		"rank": "4.34",
+		"url": "https://www.youtube.com/watch?v=XU6O4ASQoWs",
+		"title": "React Interview Questions Senior Level (React Fiber, Reconciliation, Virtual DOM)",
+		"description": "They act out an interview, heavy accents, decent to get basic concepts",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-react-interview-questions-senior-level-react-fiber-reconciliation-virtual-dom",
+		"status": ""
 	},
 	{
 		"topics": "easyPeasy",
