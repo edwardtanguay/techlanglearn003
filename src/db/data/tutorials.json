@@ -442,7 +442,7 @@
 		"status": ""
 	},
 	{
-		"topics": "terraform",
+		"topics": "terraform, skills2025",
 		"language": "en",
 		"duration": "04:35:00",
 		"year": "2025",
@@ -676,6 +676,19 @@
 		"status": ""
 	},
 	{
+		"topics": "gcp,cloud,skills2025",
+		"language": "en",
+		"duration": "01:00:00",
+		"year": "2025",
+		"rank": "4.0",
+		"url": "https://www.linkedin.com/learning/google-cloud-foundations",
+		"title": "Google Cloud Foundations",
+		"description": "black guy, nice voice, overview course",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-google-cloud-foundations",
+		"status": ""
+	},
+	{
 		"topics": "go, grpc,  dpod",
 		"language": "en",
 		"duration": "01:09:00",
@@ -767,7 +780,7 @@
 		"status": ""
 	},
 	{
-		"topics": "kubernetes",
+		"topics": "kubernetes, skills2025",
 		"language": "en",
 		"duration": "03:48:00",
 		"year": "2025",

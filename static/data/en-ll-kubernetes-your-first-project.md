@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/kubernetes-your-first-project-24688192
 
 - duration: 03:48:00
 - language: en
-- topics: kubernetes
+- topics: kubernetes, skills2025
 - rank: 4.1
 - description: looks like a basic course
 - year: 2025

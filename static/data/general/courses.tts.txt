@@ -1,7 +1,7 @@
 
->>create>>gcp,cloud;en;01:00:00;2025;4.0;https://www.linkedin.com/learning/google-cloud-foundations; Google Cloud Foundations ;black guy, nice voice, overview course
 
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+>>create>>vaadin;en;00:23:00;2017;3.1;https://www.youtube.com/watch?v=jOhkclbdwp0&list=PLcRrh9hGNalkZx921iMqZ-jXR0C72eIPR;Vaadin Framework Tutorial;an official overview of using the framework, old but basic
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 
@@ -1035,3 +1035,4 @@ CREATED: react, fiber;en;17:14;2024;4.34;https://www.youtube.com/watch?v=XU6O4AS
 CREATED: payload,nextjs;en;00:36:00;2024;4.87;https://www.youtube.com/watch?v=0Pz9g654OIc;Payload CMS - Next.js Will Never Be The Same After This;Payload 3.0 is new and uses Next.js, ByteGrad covers this combination
 CREATED: kubernetes;en;03:48:00;2025;4.1; https://www.linkedin.com/learning/kubernetes-your-first-project-24688192;Kubernetes: Your First Project;looks like a basic course
 CREATED: terraform ;en;04:35:00;2025;4.1;https://www.linkedin.com/learning/developing-infrastructure-as-code-with-terraform;Developing Infrastructure as Code with Terraform;looks like a good basic course for Terraform, long
+CREATED: gcp,cloud;en;01:00:00;2025;4.0;https://www.linkedin.com/learning/google-cloud-foundations; Google Cloud Foundations ;black guy, nice voice, overview course

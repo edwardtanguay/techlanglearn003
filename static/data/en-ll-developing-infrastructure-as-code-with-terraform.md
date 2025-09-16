@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/developing-infrastructure-as-code-with-terrafo
 
 - duration: 04:35:00
 - language: en
-- topics: terraform
+- topics: terraform, skills2025
 - rank: 4.1
 - description: looks like a good basic course for Terraform, long
 - year: 2025
