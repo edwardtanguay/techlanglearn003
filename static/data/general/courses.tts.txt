@@ -1,17 +1,14 @@
+GCP
+https://www.linkedin.com/learning/google-cloud-foundations
+
+
+
 REACT FIBER ETC
 React Fiber Reconciliation: How it Works (Part 1): https://www.youtube.com/watch?v=rKk4XJYzSQA
 Senior React interview questions: https://www.youtube.com/watch?v=tiOkArbHnqY
 Top 10 React Interview Questions and Answers 2025; https://www.youtube.com/watch?v=dAHTXKDsrZ8
 HARD React Interview Questions (3 patterns): https://www.youtube.com/watch?v=Zpvzv8Uma8Q
 React Interview Questions and Answers: https://www.youtube.com/watch?v=yQHr4opz_N0
-
-terraform
-
-kubernetes
-
-
->>create>>kubernetes;en;03:48:00;2025;4.1; https://www.linkedin.com/learning/kubernetes-your-first-project-24688192;Kubernetes: Your First Project;looks like a basic course
->>create>>terraform ;en;04:35:00;2025;4.1;https://www.linkedin.com/learning/developing-infrastructure-as-code-with-terraform;Developing Infrastructure as Code with Terraform;looks like a good basic course for Terraform, long
 
 
 
@@ -1034,3 +1031,5 @@ CREATED: pandas, python, jupyter;en;03:10:00;2024;4.93;https://www.linkedin.com/
 CREATED: symfony, php;en;01:35:00;2023;4.8; https://www.linkedin.com/learning/symfony-6-essential-training; Symfony 6 Essential Training ;Gary Kovar, an active PHP teacher, nice voice
 CREATED: react, fiber;en;17:14;2024;4.34;https://www.youtube.com/watch?v=XU6O4ASQoWs; React Interview Questions Senior Level (React Fiber, Reconciliation, Virtual DOM);They act out an interview, heavy accents but useful
 CREATED: payload,nextjs;en;00:36:00;2024;4.87;https://www.youtube.com/watch?v=0Pz9g654OIc;Payload CMS - Next.js Will Never Be The Same After This;Payload 3.0 is new and uses Next.js, ByteGrad covers this combination
+CREATED: kubernetes;en;03:48:00;2025;4.1; https://www.linkedin.com/learning/kubernetes-your-first-project-24688192;Kubernetes: Your First Project;looks like a basic course
+CREATED: terraform ;en;04:35:00;2025;4.1;https://www.linkedin.com/learning/developing-infrastructure-as-code-with-terraform;Developing Infrastructure as Code with Terraform;looks like a good basic course for Terraform, long

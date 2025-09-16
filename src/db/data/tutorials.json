@@ -442,6 +442,19 @@
 		"status": ""
 	},
 	{
+		"topics": "terraform",
+		"language": "en",
+		"duration": "04:35:00",
+		"year": "2025",
+		"rank": "4.1",
+		"url": "https://www.linkedin.com/learning/developing-infrastructure-as-code-with-terraform",
+		"title": "Developing Infrastructure as Code with Terraform",
+		"description": "looks like a good basic course for Terraform, long",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-developing-infrastructure-as-code-with-terraform",
+		"status": ""
+	},
+	{
 		"topics": "python, django",
 		"language": "en",
 		"duration": "02:39:00",
@@ -751,6 +764,19 @@
 		"description": "Nate Ebel, nice OOP course on Kotlin, nice voice",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-kotlin-essential-training-objectoriented-and-async-code",
+		"status": ""
+	},
+	{
+		"topics": "kubernetes",
+		"language": "en",
+		"duration": "03:48:00",
+		"year": "2025",
+		"rank": "4.1",
+		"url": "https://www.linkedin.com/learning/kubernetes-your-first-project-24688192",
+		"title": "Kubernetes: Your First Project",
+		"description": "looks like a basic course",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-kubernetes-your-first-project",
 		"status": ""
 	},
 	{
