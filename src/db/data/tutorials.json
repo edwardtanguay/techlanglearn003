@@ -455,7 +455,7 @@
 		"status": ""
 	},
 	{
-		"topics": "python, django",
+		"topics": "python, django, skills2025",
 		"language": "en",
 		"duration": "02:39:00",
 		"year": "2024",
@@ -2026,6 +2026,19 @@
 		"platform": "youtube",
 		"fileIdCode": "en-yt-use-svelte-5-snippets-to-reuse-markup-without-creating-components",
 		"status": "2 minutes of 18"
+	},
+	{
+		"topics": "vaadin, skills2025",
+		"language": "en",
+		"duration": "00:23:00",
+		"year": "2017",
+		"rank": "3.1",
+		"url": "https://www.youtube.com/watch?v=jOhkclbdwp0\u0026list=PLcRrh9hGNalkZx921iMqZ-jXR0C72eIPR",
+		"title": "Vaadin Framework Tutorial",
+		"description": "an official overview of using the framework, old but basic",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-vaadin-framework-tutorial",
+		"status": ""
 	},
 	{
 		"topics": "vim,backend25",

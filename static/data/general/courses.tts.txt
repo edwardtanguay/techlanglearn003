@@ -1,7 +1,10 @@
 
 
 
->>create>>vaadin;en;00:23:00;2017;3.1;https://www.youtube.com/watch?v=jOhkclbdwp0&list=PLcRrh9hGNalkZx921iMqZ-jXR0C72eIPR;Vaadin Framework Tutorial;an official overview of using the framework, old but basic
+>>create>>gcp,skills2025;en;02:02:00;2020;4.2;https://www.linkedin.com/learning/google-cloud-platform-gcp-essential-training-for-developers;Google Cloud Platform (GCP) Essential Training for Developers;while a bit old, this is GCP for developers
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 
@@ -1036,3 +1039,4 @@ CREATED: payload,nextjs;en;00:36:00;2024;4.87;https://www.youtube.com/watch?v=0P
 CREATED: kubernetes;en;03:48:00;2025;4.1; https://www.linkedin.com/learning/kubernetes-your-first-project-24688192;Kubernetes: Your First Project;looks like a basic course
 CREATED: terraform ;en;04:35:00;2025;4.1;https://www.linkedin.com/learning/developing-infrastructure-as-code-with-terraform;Developing Infrastructure as Code with Terraform;looks like a good basic course for Terraform, long
 CREATED: gcp,cloud;en;01:00:00;2025;4.0;https://www.linkedin.com/learning/google-cloud-foundations; Google Cloud Foundations ;black guy, nice voice, overview course
+CREATED: vaadin, skills2025;en;00:23:00;2017;3.1;https://www.youtube.com/watch?v=jOhkclbdwp0&list=PLcRrh9hGNalkZx921iMqZ-jXR0C72eIPR;Vaadin Framework Tutorial;an official overview of using the framework, old but basic
