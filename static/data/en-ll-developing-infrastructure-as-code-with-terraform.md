@@ -8,12 +8,16 @@ https://www.linkedin.com/learning/developing-infrastructure-as-code-with-terrafo
 - rank: 4.1
 - description: looks like a good basic course for Terraform, long
 - year: 2025
+- status: started
 
-## TITLE, TIME, nnn
+## Introduction, 2:45, 2025-09-16
 
-- nnn
+- good overview of course
+
+## Part I: Introduction to infrastructure as code (IaC) , 0:32
 
 ## VOCAB - SPANISH
 
 ```
+
 ```

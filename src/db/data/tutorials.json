@@ -452,7 +452,7 @@
 		"description": "looks like a good basic course for Terraform, long",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-developing-infrastructure-as-code-with-terraform",
-		"status": ""
+		"status": "started"
 	},
 	{
 		"topics": "python, django, skills2025",
@@ -680,13 +680,26 @@
 		"language": "en",
 		"duration": "01:00:00",
 		"year": "2025",
-		"rank": "4.0",
+		"rank": "2.0",
 		"url": "https://www.linkedin.com/learning/google-cloud-foundations",
 		"title": "Google Cloud Foundations",
-		"description": "black guy, nice voice, overview course",
+		"description": "this turned out to be extremely high level, e.g. for managers and non-technical people",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-google-cloud-foundations",
-		"status": ""
+		"status": "started but stopped because it was more for managers"
+	},
+	{
+		"topics": "gcp,skills2025",
+		"language": "en",
+		"duration": "02:02:00",
+		"year": "2020",
+		"rank": "4.2",
+		"url": "https://www.linkedin.com/learning/google-cloud-platform-gcp-essential-training-for-developers",
+		"title": "Google Cloud Platform (GCP) Essential Training for Developers",
+		"description": "while a bit old, this is GCP for developers",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-google-cloud-platform-gcp-essential-training-for-developers",
+		"status": "started"
 	},
 	{
 		"topics": "go, grpc,  dpod",

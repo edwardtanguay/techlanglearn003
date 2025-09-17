@@ -5,9 +5,10 @@ https://www.linkedin.com/learning/google-cloud-foundations
 - duration: 01:00:00
 - language: en
 - topics: gcp,cloud,skills2025
-- rank: 4.0
+- rank: 2.0
 - description: this turned out to be extremely high level, e.g. for managers and non-technical people
 - year: 2025
+- status: started but stopped because it was more for managers
 
 ## Understanding Google Cloud, 0:35,2025-09-16
 
