@@ -32,7 +32,11 @@ https://www.linkedin.com/learning/django-essential-training-25094632
 
 - website was shown, changed port
 
-## The model view template , 4:55, nnn
+## The model view template , 4:55, 2025-09-19
+
+- creates view "home", works
+
+## Minimum working page , 3:38, nnn
 
 ## VOCAB - SPANISH
 

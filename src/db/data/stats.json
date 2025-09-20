@@ -1,8 +1,20 @@
 {
-	"totalDays": 324,
-	"averageDurationPerDay": "00:07:55",
-	"totalDuration": "42:48:52",
+	"totalDays": 327,
+	"averageDurationPerDay": "00:07:52",
+	"totalDuration": "42:53:47",
 	"timeUnits": [
+		{
+			"calendarDate": "2025-09-19",
+			"duration": "00:04:55"
+		},
+		{
+			"calendarDate": "2025-09-18",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2025-09-17",
+			"duration": "00:00:00"
+		},
 		{
 			"calendarDate": "2025-09-16",
 			"duration": "00:11:58"

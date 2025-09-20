@@ -1963,6 +1963,19 @@
 		"status": "finished"
 	},
 	{
+		"topics": "strapi,skills2025",
+		"language": "en",
+		"duration": "02:40:00",
+		"year": "2025",
+		"rank": "4.78",
+		"url": "https://www.youtube.com/watch?v=OrKLqITuhNA\u0026list=PLh0b_kWrKDf8UBF99mosolJSI9Sv1eNXE",
+		"title": "Strapi v5 Crashkurs 2025",
+		"description": "Version 5 from March 2025",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-strapi-v5-crashkurs-2025",
+		"status": "started"
+	},
+	{
 		"topics": "svelte5",
 		"language": "en",
 		"duration": "00:21:40",

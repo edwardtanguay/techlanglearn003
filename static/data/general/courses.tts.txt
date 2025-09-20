@@ -2,11 +2,12 @@ PETAL stack
 https://www.youtube.com/watch?v=vZBHkvTAb2U
 
 
+Phoenix
+https://www.youtube.com/watch?v=RNMwz5n1M80
 
 
 
 
->>create>>strapi,skills2025;en;02:40:00;2025;4.78;https://www.youtube.com/watch?v=OrKLqITuhNA&list=PLh0b_kWrKDf8UBF99mosolJSI9Sv1eNXE;Strapi v5 Crashkurs 2025;Version 5 from March 2025
 
 
 
@@ -1048,3 +1049,4 @@ CREATED: terraform ;en;04:35:00;2025;4.1;https://www.linkedin.com/learning/devel
 CREATED: gcp,cloud;en;01:00:00;2025;4.0;https://www.linkedin.com/learning/google-cloud-foundations; Google Cloud Foundations ;black guy, nice voice, overview course
 CREATED: vaadin, skills2025;en;00:23:00;2017;3.1;https://www.youtube.com/watch?v=jOhkclbdwp0&list=PLcRrh9hGNalkZx921iMqZ-jXR0C72eIPR;Vaadin Framework Tutorial;an official overview of using the framework, old but basic
 CREATED: gcp,skills2025;en;02:02:00;2020;4.2;https://www.linkedin.com/learning/google-cloud-platform-gcp-essential-training-for-developers;Google Cloud Platform (GCP) Essential Training for Developers;while a bit old, this is GCP for developers
+CREATED: strapi,skills2025;en;02:40:00;2025;4.78;https://www.youtube.com/watch?v=OrKLqITuhNA&list=PLh0b_kWrKDf8UBF99mosolJSI9Sv1eNXE;Strapi v5 Crashkurs 2025;Version 5 from March 2025
