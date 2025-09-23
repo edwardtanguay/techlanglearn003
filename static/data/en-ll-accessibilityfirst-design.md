@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/accessibility-first-design
 
 - duration: 01:24:00
 - language: en
-- topics: a11y, frontend25
+- topics: a11y, frontend25, fall2025
 - rank: 4.96
 - description: more high-level slides-only but good basics
 - year: 2023

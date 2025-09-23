@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/advanced-python-working-with-data
 
 - duration: 02:05:00
 - language: en
-- topics: python,dpod
+- topics: python,dpod, fall2025
 - rank: 4.89
 - description: Joe Marini, uses a large JSON file to show examples, very useful
 - year: 2024

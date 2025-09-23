@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/react-state-management-22688323
 
 - duration: 01:49:00
 - language: en
-- topics: stateManagement, react
+- topics: stateManagement, react, fall2025
 - rank: 4.95
 - description: covers useReducer, useContext, Recoil,
 - year: 2023

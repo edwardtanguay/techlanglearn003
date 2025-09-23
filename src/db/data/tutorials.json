@@ -117,7 +117,7 @@
 		"status": "finished"
 	},
 	{
-		"topics": "a11y, frontend25",
+		"topics": "a11y, frontend25, fall2025",
 		"language": "en",
 		"duration": "01:24:00",
 		"year": "2023",
@@ -182,7 +182,7 @@
 		"status": ""
 	},
 	{
-		"topics": "python,dpod",
+		"topics": "python,dpod, fall2025",
 		"language": "en",
 		"duration": "02:05:00",
 		"year": "2024",
@@ -234,6 +234,19 @@
 		"status": ""
 	},
 	{
+		"topics": "fastapi,fall2025",
+		"language": "en",
+		"duration": "01:11:00",
+		"year": "2024",
+		"rank": "4.999",
+		"url": "https://www.linkedin.com/learning/build-rest-apis-with-fastapi",
+		"title": "Build REST APIs with FastAPI",
+		"description": "Miki Tebeka, solid course",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-build-rest-apis-with-fastapi",
+		"status": "built first GET route"
+	},
+	{
 		"topics": "nodered",
 		"language": "en",
 		"duration": "00:39:00",
@@ -247,7 +260,7 @@
 		"status": ""
 	},
 	{
-		"topics": "monorepos",
+		"topics": "monorepos, fall2025",
 		"language": "en",
 		"duration": "00:55:00",
 		"year": "2024",
@@ -286,11 +299,11 @@
 		"status": ""
 	},
 	{
-		"topics": "react, redux",
+		"topics": "react, redux, fall2025",
 		"language": "en",
 		"duration": "03:50:00",
 		"year": "2024",
-		"rank": "4.69",
+		"rank": "4.999",
 		"url": "https://www.linkedin.com/learning/building-modern-projects-with-react-24955170",
 		"title": "Building Modern Projects with React",
 		"description": "lots of Redux, some Webpack, testing, seems to be React from a different angle, also Remix, Next.js",
@@ -533,11 +546,11 @@
 		"status": ""
 	},
 	{
-		"topics": "flask",
+		"topics": "flask, fall2025",
 		"language": "en",
 		"duration": "02:02:00",
 		"year": "2024",
-		"rank": "4.91",
+		"rank": "4.99",
 		"url": "https://www.linkedin.com/learning/flask-essential-training-24681038",
 		"title": "Flask Essential Training",
 		"description": "seems like a solid course on Flask, Natasha has a nice clear accent, builds example app: uses Flask-WTF for forms, and SQLite and Postgres, builds app, chart.js",
@@ -546,7 +559,7 @@
 		"status": "watched all intro videos, starting now with coding videos"
 	},
 	{
-		"topics": "python,functionalProgramming",
+		"topics": "python,functionalProgramming, fall2025",
 		"language": "en",
 		"duration": "01:55:00",
 		"year": "2024",
@@ -962,7 +975,7 @@
 		"status": ""
 	},
 	{
-		"topics": "nextjs, mongo",
+		"topics": "nextjs, mongo, fall2025",
 		"language": "en",
 		"duration": "03:54:00",
 		"year": "2024",
@@ -1066,7 +1079,7 @@
 		"status": ""
 	},
 	{
-		"topics": "python,dpdoing",
+		"topics": "python,dpdoing, fall2025",
 		"language": "en",
 		"duration": "01:55:00",
 		"year": "2023",
@@ -1131,7 +1144,7 @@
 		"status": ""
 	},
 	{
-		"topics": "stateManagement, react",
+		"topics": "stateManagement, react, fall2025",
 		"language": "en",
 		"duration": "01:49:00",
 		"year": "2023",
@@ -1300,7 +1313,7 @@
 		"status": ""
 	},
 	{
-		"topics": "typescript,dpdoing",
+		"topics": "typescript,dpdoing, fall2025",
 		"language": "en",
 		"duration": "01:03:00",
 		"year": "2020",
@@ -1716,7 +1729,7 @@
 		"status": ""
 	},
 	{
-		"topics": "a11y, frontend25",
+		"topics": "a11y, frontend25, fall2025",
 		"language": "en",
 		"duration": "00:32:34",
 		"year": "2024",
@@ -1820,11 +1833,11 @@
 		"status": ""
 	},
 	{
-		"topics": "owasp, frontend25",
+		"topics": "owasp, frontend25, fall2025",
 		"language": "en",
 		"duration": "00:08:50",
 		"year": "2021",
-		"rank": "4.88",
+		"rank": "4.99",
 		"url": "https://www.youtube.com/watch?v=hryt-rCLJUA",
 		"title": "OWASP Top 10 2021 - The List and How You Should Use It",
 		"description": "high overview of the most common attacks",
@@ -1833,11 +1846,11 @@
 		"status": ""
 	},
 	{
-		"topics": "payload,nextjs",
+		"topics": "payload,nextjs, fall2025",
 		"language": "en",
 		"duration": "00:36:00",
 		"year": "2024",
-		"rank": "4.87",
+		"rank": "4.99999",
 		"url": "https://www.youtube.com/watch?v=0Pz9g654OIc",
 		"title": "Payload CMS - Next.js Will Never Be The Same After This",
 		"description": "Payload 3.0 is new and uses Next.js, ByteGrad covers this combination",
@@ -2028,11 +2041,11 @@
 		"status": ""
 	},
 	{
-		"topics": "mobx",
+		"topics": "mobx, fall2025",
 		"language": "en",
 		"duration": "00:13:02",
 		"year": "2021",
-		"rank": "4.68",
+		"rank": "4.999999",
 		"url": "https://www.youtube.com/watch?v=nGZCL6Wd_zQ",
 		"title": "Typescript for React and MobX From Beginners to Masters",
 		"description": "Jack Harrington only 13 minutes but probably a good overview of what Mobx can do with TypeScript",
@@ -2080,7 +2093,7 @@
 		"status": ""
 	},
 	{
-		"topics": "wcag, frontend25",
+		"topics": "wcag, frontend25, fall2025",
 		"language": "en",
 		"duration": "00:27:00",
 		"year": "2023",
@@ -2093,7 +2106,7 @@
 		"status": ""
 	},
 	{
-		"topics": "webpack,donext",
+		"topics": "webpack,donext, fall2025",
 		"language": "en",
 		"duration": "01:20:00",
 		"year": "2021",
@@ -2132,7 +2145,7 @@
 		"status": ""
 	},
 	{
-		"topics": "typescript,dpod",
+		"topics": "typescript,dpod, fall2025",
 		"language": "es",
 		"duration": "01:54:00",
 		"year": "2024",
@@ -2236,7 +2249,7 @@
 		"status": ""
 	},
 	{
-		"topics": "docker,backend25",
+		"topics": "docker,backend25, fall2025",
 		"language": "es",
 		"duration": "02:34:00",
 		"year": "2024",
@@ -2314,7 +2327,7 @@
 		"status": ""
 	},
 	{
-		"topics": "python, fastapi",
+		"topics": "python, fastapi, fall2025",
 		"language": "es",
 		"duration": "01:24:00",
 		"year": "2024",
@@ -2353,7 +2366,7 @@
 		"status": ""
 	},
 	{
-		"topics": "python,dpod",
+		"topics": "python,dpod, fall2025",
 		"language": "es",
 		"duration": "01:23:00",
 		"year": "2023",
@@ -2496,7 +2509,7 @@
 		"status": "finished"
 	},
 	{
-		"topics": "react, monorepos",
+		"topics": "react, monorepos, fall2025",
 		"language": "es",
 		"duration": "02:27:00",
 		"year": "2022",
@@ -2574,7 +2587,7 @@
 		"status": "not yet started"
 	},
 	{
-		"topics": "typescript,dpod,dpodcurrent",
+		"topics": "typescript,dpod,dpodcurrent, fall2025",
 		"language": "es",
 		"duration": "02:45:00",
 		"year": "2021",
@@ -2730,7 +2743,7 @@
 		"status": "started"
 	},
 	{
-		"topics": "python",
+		"topics": "python, fall2025",
 		"language": "fr",
 		"duration": "02:33:00",
 		"year": "2021",
@@ -2743,7 +2756,7 @@
 		"status": ""
 	},
 	{
-		"topics": "docker, backend25",
+		"topics": "docker, backend25, fall2025",
 		"language": "fr",
 		"duration": "01:48:00",
 		"year": "2023",
@@ -2795,7 +2808,7 @@
 		"status": ""
 	},
 	{
-		"topics": "docker, backend25, donext",
+		"topics": "docker, backend25, donext, fall2025",
 		"language": "fr",
 		"duration": "03:14:00",
 		"year": "2023",
@@ -2821,7 +2834,7 @@
 		"status": ""
 	},
 	{
-		"topics": "flask,python",
+		"topics": "flask,python, fall2025",
 		"language": "fr",
 		"duration": "02:21:00",
 		"year": "2024",
@@ -2831,10 +2844,10 @@
 		"description": "Sylvain Labasse 2024, full course on Flash, very nice, uses both VSCode and PyCharm side-by-side",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-de-flask",
-		"status": ""
+		"status": "started"
 	},
 	{
-		"topics": "githubActions, backend25",
+		"topics": "githubActions, backend25, fall2025",
 		"language": "fr",
 		"duration": "02:03:00",
 		"year": "2023",
@@ -2899,7 +2912,7 @@
 		"status": ""
 	},
 	{
-		"topics": "typescript,dpod,dpodcurrent",
+		"topics": "typescript,dpod,dpodcurrent, fall2025",
 		"language": "fr",
 		"duration": "02:21:00",
 		"year": "2025",
@@ -3042,7 +3055,7 @@
 		"status": ""
 	},
 	{
-		"topics": "python,dpdoing",
+		"topics": "python,dpdoing, fall2025",
 		"language": "fr",
 		"duration": "02:08:00",
 		"year": "2016",
@@ -3055,7 +3068,7 @@
 		"status": "started"
 	},
 	{
-		"topics": "python,dpod,dpodcurrent",
+		"topics": "python,dpod,dpodcurrent, fall2025",
 		"language": "fr",
 		"duration": "01:16:00",
 		"year": "2021",
@@ -3094,7 +3107,7 @@
 		"status": ""
 	},
 	{
-		"topics": "webpack, frontend25",
+		"topics": "webpack, frontend25, fall2025",
 		"language": "fr",
 		"duration": "02:14:00",
 		"year": "2024",

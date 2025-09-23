@@ -4,8 +4,8 @@ https://www.youtube.com/watch?v=nGZCL6Wd_zQ
 
 - duration: 00:13:02
 - language: en
-- topics: mobx
-- rank: 4.68
+- topics: mobx, fall2025
+- rank: 4.999999
 - description: Jack Harrington only 13 minutes but probably a good overview of what Mobx can do with TypeScript
 - year: 2021
 

@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/l-essentiel-de-typescript
 
 - duration: 02:21:00
 - language: fr
-- topics: typescript,dpod,dpodcurrent
+- topics: typescript,dpod,dpodcurrent, fall2025
 - rank: 4.8
 - description: French, very new, essentials but goes into advanced topics
 - year: 2025

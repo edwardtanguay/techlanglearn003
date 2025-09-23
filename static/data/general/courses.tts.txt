@@ -1,3 +1,49 @@
+
+
+
+
+
+
+Exploring React 19 Features - use() Hook, Actions & More
+https://www.youtube.com/watch?v=EPaLg4U_K1o
+
+Learning Windows Subsystem for Linux
+https://www.linkedin.com/learning/learning-windows-subsystem-for-linux-16134127
+
+Zod Matt
+https://www.youtube.com/watch?v=xcm53k0ePmY
+
+Exploring H3 and Nitrojs
+https://www.youtube.com/watch?v=q6f2dJqsE24
+
+TypeScript tips Matt
+https://www.youtube.com/watch?v=lraHlXpuhKs
+
+Zod CJ
+https://www.youtube.com/watch?v=T4Q1NvSePxs
+
+tanstack
+https://www.youtube.com/watch?v=mPaCnwpFvZY
+
+Senior React interview questions
+https://www.youtube.com/watch?v=tiOkArbHnqY
+
+539 React-Interviewfragen
+https://www.youtube.com/watch?v=3-PZsjRSfao
+
+Bun Hono
+https://www.youtube.com/watch?v=jXyTIQOfTTk
+
+Bun - watched, good start
+https://www.youtube.com/watch?v=U4JVw8K19uY
+
+Bun is now the ULTIMATE Frontend Toolchain, replace Vite
+https://www.youtube.com/watch?v=IDHHDnWjhAc
+
+
+===================================
+
+
 PETAL stack
 https://www.youtube.com/watch?v=vZBHkvTAb2U
 
@@ -9,7 +55,8 @@ https://www.youtube.com/watch?v=RNMwz5n1M80
 
 
 
-
+Hono CJ
+https://www.youtube.com/watch?v=sYZW8TK2IV4
 
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC

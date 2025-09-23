@@ -4,8 +4,8 @@ https://www.linkedin.com/learning/building-modern-projects-with-react-24955170
 
 - duration: 03:50:00
 - language: en
-- topics: react, redux
-- rank: 4.69
+- topics: react, redux, fall2025
+- rank: 4.999
 - description: lots of Redux, some Webpack, testing, seems to be React from a different angle, also Remix, Next.js
 - year: 2024
 

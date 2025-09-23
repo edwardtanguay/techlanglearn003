@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/typescript-avanzado
 
 - duration: 02:45:00
 - language: es
-- topics: typescript,dpod,dpodcurrent
+- topics: typescript,dpod,dpodcurrent, fall2025
 - rank: 4.83
 - description: Sergio, extra topics like NPM package, uses webpack, good course and Spanish
 - year: 2021

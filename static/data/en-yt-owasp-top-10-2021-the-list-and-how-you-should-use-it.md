@@ -4,8 +4,8 @@ https://www.youtube.com/watch?v=hryt-rCLJUA
 
 - duration: 00:08:50
 - language: en
-- topics: owasp, frontend25
-- rank: 4.88
+- topics: owasp, frontend25, fall2025
+- rank: 4.99
 - description: high overview of the most common attacks
 - year: 2021
 

@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/next-js-creating-and-hosting-a-full-stack-site
 
 - duration: 03:54:00
 - language: en
-- topics: nextjs, mongo
+- topics: nextjs, mongo, fall2025
 - rank: 4.99
 - description: Shaun Wassell, looks like an excellent, long course using Next.js version 14.2.8, hosts on Vercel
 - year: 2024

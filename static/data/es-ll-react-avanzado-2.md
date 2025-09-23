@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/react-avanzado-2
 
 - duration: 02:27:00
 - language: es
-- topics: react, monorepos
+- topics: react, monorepos, fall2025
 - rank: 4.88
 - description: monorepos, nx, storybook, testing, patterns, GitHub Actions, 70% useful
 - year: 2022

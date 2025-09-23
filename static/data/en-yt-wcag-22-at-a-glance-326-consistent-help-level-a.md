@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=JIuWM3iFPVM&list=PLwDZg2kBRS1x6xwoMcI3L6-CBCLhwy
 
 - duration: 00:27:00
 - language: en
-- topics: wcag, frontend25
+- topics: wcag, frontend25, fall2025
 - rank: 4.89
 - description: 7 videos general overview, good base to start
 - year: 2023

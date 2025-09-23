@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/l-essentiel-de-webpack-5
 
 - duration: 02:14:00
 - language: fr
-- topics: webpack, frontend25
+- topics: webpack, frontend25, fall2025
 - rank: 4.89
 - description: again Damien Bruyndonckx with good basics on Webpack 5
 - year: 2024

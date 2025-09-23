@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/functional-programming-with-python/a-functiona
 
 - duration: 01:55:00
 - language: en
-- topics: python,functionalProgramming
+- topics: python,functionalProgramming, fall2025
 - rank: 4.89
 - description: Shaun Wassel, new course on functional programming in Python: recursion, higher-order functions, lambdas, filtering, reducing, currying
 - year: 2024

@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/python-les-tests-unitaires
 
 - duration: 01:16:00
 - language: fr
-- topics: python,dpod,dpodcurrent
+- topics: python,dpod,dpodcurrent, fall2025
 - rank: 4.92
 - description: Docstring, good course on Python testing
 - year: 2021

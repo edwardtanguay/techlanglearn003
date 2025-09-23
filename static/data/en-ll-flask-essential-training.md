@@ -4,8 +4,8 @@ https://www.linkedin.com/learning/flask-essential-training-24681038
 
 - duration: 02:02:00
 - language: en
-- topics: flask
-- rank: 4.91
+- topics: flask, fall2025
+- rank: 4.99
 - description: seems like a solid course on Flask, Natasha has a nice clear accent, builds example app: uses Flask-WTF for forms, and SQLite and Postgres, builds app, chart.js
 - year: 2024
 - status: watched all intro videos, starting now with coding videos

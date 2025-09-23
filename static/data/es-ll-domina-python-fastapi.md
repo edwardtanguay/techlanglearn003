@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/domina-python-fastapi
 
 - duration: 01:24:00
 - language: es
-- topics: python, fastapi
+- topics: python, fastapi, fall2025
 - rank: 4.9
 - description: looks interesting, in Spanish, good way to learn practical Python
 - year: 2024

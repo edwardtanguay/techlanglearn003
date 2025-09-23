@@ -4,10 +4,11 @@ https://www.linkedin.com/learning/l-essentiel-de-flask/bienvenue-dans-l-essentie
 
 - duration: 02:21:00
 - language: fr
-- topics: flask,python
+- topics: flask,python, fall2025
 - rank: 4.99
 - description: Sylvain Labasse 2024, full course on Flash, very nice, uses both VSCode and PyCharm side-by-side
 - year: 2024
+- status: started
 
 ## Initier le projet , 2:20, 2024-12-30
 
@@ -31,11 +32,23 @@ https://www.linkedin.com/learning/l-essentiel-de-flask/lancer-le-site?autoSkip=t
 - ok, F1: simple browser
 - he also shows how to do it in PyCharm
 
-## Implanter Jinja, 1:21, nnn
+## Initier le projet , 2:20, 2025-09-22
 
-https://www.linkedin.com/learning/l-essentiel-de-flask/implanter-jinja?autoSkip=true&resume=false
+- I created with run.py
 
-- nnn
+## Lancer le site, 1:39, 2025-09-22
+
+- shows in browser
+
+## Implanter Jinja, 1:21, 2025-09-23
+
+- simple HTML page
+
+## Intégrer une maquette , 2:52, 2025-09-23
+
+- add image
+
+## Afficher les données , 3:08, nnn
 
 ## VOCAB - FRENCH
 

@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=Elpu7CIuqjY&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8
 
 - duration: 01:20:00
 - language: en
-- topics: webpack,donext
+- topics: webpack,donext, fall2025
 - rank: 4.978
 - description: An 8-part tutorial, seems basic and to the point, Webpack 5, React, TypeScript, SVGs, images, dev/prod environments, Husky, 
 - year: 2021
