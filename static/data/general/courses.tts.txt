@@ -1,6 +1,18 @@
+DEVOPS
+>>create>>devops,gitlab,fall2025;fr;01:11:00;2023;4.9999;https://www.linkedin.com/learning/l-essentiel-de-gitlab; L'essentiel de GitLab ;Julian Layen, solid course
+>>create>>devops,githubActions,fall2025;fr;02:03:00;2023;4.9999;https://www.linkedin.com/learning/l-essentiel-de-github-actions; L'essentiel de GitHub Actions;Julian Layen, solid course
+>>nnncreate>>devops,gitlab,fall2025;en;DURATION;YEAR;RANK;https://www.linkedin.com/learning/learning-gitlab-25489521;TITLE;Josh Samuelson, solid course
+>>nnncreate>>devops,gitlab,fall2025;en;DURATION;YEAR;RANK;https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab-24596289;TITLE;DESC
+
+gitlab
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpwlwFGjJLGwRFMMBLVGfLzMR
 
 
-
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 
 
@@ -53,6 +65,13 @@ https://www.youtube.com/watch?v=RNMwz5n1M80
 
 
 
+
+- elixir
+- phoenix
+- python prepare	
+- Laravel
+- strapi
+	- https://www.youtube.com/watch?v=EaVfHcuGI6g
 
 
 Hono CJ
