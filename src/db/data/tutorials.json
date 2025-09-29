@@ -2847,17 +2847,30 @@
 		"status": "started"
 	},
 	{
-		"topics": "githubActions, backend25, fall2025",
+		"topics": "devops,githubActions,fall2025",
 		"language": "fr",
 		"duration": "02:03:00",
 		"year": "2023",
-		"rank": "4.94",
-		"url": "https://www.linkedin.com/learning/l-essentiel-de-github-actions/bienvenue-dans-l-essentiel-de-github-actions",
+		"rank": "4.9999",
+		"url": "https://www.linkedin.com/learning/l-essentiel-de-github-actions",
 		"title": "L'essentiel de GitHub Actions",
-		"description": "long and solid course in French",
+		"description": "Julian Layen, solid course",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-de-github-actions",
 		"status": ""
+	},
+	{
+		"topics": "devops,gitlab,fall2025",
+		"language": "fr",
+		"duration": "01:11:00",
+		"year": "2023",
+		"rank": "4.9999",
+		"url": "https://www.linkedin.com/learning/l-essentiel-de-gitlab",
+		"title": "L'essentiel de GitLab",
+		"description": "Julian Layen, relaxing voice, solid course",
+		"platform": "linkedInLearning",
+		"fileIdCode": "fr-ll-lessentiel-de-gitlab",
+		"status": "started"
 	},
 	{
 		"topics": "laravel",
