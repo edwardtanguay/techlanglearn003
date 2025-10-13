@@ -1,8 +1,84 @@
 {
-	"totalDays": 332,
-	"averageDurationPerDay": "00:07:48",
-	"totalDuration": "43:11:05",
+	"totalDays": 351,
+	"averageDurationPerDay": "00:07:37",
+	"totalDuration": "44:37:36",
 	"timeUnits": [
+		{
+			"calendarDate": "2025-10-13",
+			"duration": "00:11:28"
+		},
+		{
+			"calendarDate": "2025-10-12",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2025-10-11",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2025-10-10",
+			"duration": "00:18:12"
+		},
+		{
+			"calendarDate": "2025-10-09",
+			"duration": "00:07:11"
+		},
+		{
+			"calendarDate": "2025-10-08",
+			"duration": "00:11:41"
+		},
+		{
+			"calendarDate": "2025-10-07",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2025-10-06",
+			"duration": "00:06:00"
+		},
+		{
+			"calendarDate": "2025-10-05",
+			"duration": "00:06:57"
+		},
+		{
+			"calendarDate": "2025-10-04",
+			"duration": "00:06:35"
+		},
+		{
+			"calendarDate": "2025-10-03",
+			"duration": "00:07:23"
+		},
+		{
+			"calendarDate": "2025-10-02",
+			"duration": "00:09:59"
+		},
+		{
+			"calendarDate": "2025-10-01",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2025-09-30",
+			"duration": "00:01:05"
+		},
+		{
+			"calendarDate": "2025-09-29",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2025-09-28",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2025-09-27",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2025-09-26",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2025-09-25",
+			"duration": "00:00:00"
+		},
 		{
 			"calendarDate": "2025-09-24",
 			"duration": "00:10:32"

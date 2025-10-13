@@ -30,7 +30,23 @@ https://www.linkedin.com/learning/symfony-6-essential-training
 
 - installed symfony as webapp but doesn't start it yet
 
-## The Symfony CLI , 3:34, nnn
+## The Symfony CLI , 3:34, 2025-10-10
+
+- started project, showed on website
+
+## Symfony project structure , 3:43, 2025-10-10
+
+- good walkthrough
+
+## Understanding versions in Symfony , 1:54, 2025-10-10
+
+- standard versioning numbers, Semantic Versioning (SemVer).
+
+## Using Symfony documentation , 1:27, 2025-10-10
+
+- has book too
+
+## Local development , 1:39, nnn
 
 ## VOCAB - SPANISH
 

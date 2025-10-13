@@ -962,6 +962,19 @@
 		"status": "watched intro videos"
 	},
 	{
+		"topics": "ai,fall2025",
+		"language": "en",
+		"duration": "00:55:00",
+		"year": "2025",
+		"rank": "4.88",
+		"url": "https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai",
+		"title": "Model Context Protocol (MCP): Hands-On with Agentic AI",
+		"description": "new AI topic, he will build an MCP that accesses the weather forecast",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-model-context-protocol-mcp-handson-with-agentic-ai",
+		"status": "started"
+	},
+	{
 		"topics": "csharp,dpod",
 		"language": "en",
 		"duration": "02:31:00",

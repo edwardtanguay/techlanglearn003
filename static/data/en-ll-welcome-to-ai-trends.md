@@ -16,6 +16,49 @@ https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends
 
 - general intro
 
+## GPT-5-Codex: A coding paradigm shift , 3:41, 2025-10-02
+
+- a new way to code, very new, makes a agents.md file
+
+## MCP in ChatGPT Developer Mode , 7:23, 2025-10-03
+
+- uses MCP with Zapier and Google Drive
+
+## Styles and modes in ChatGPT, Claude, and VS Code, 6:35, 2025-10-04
+
+- created learning coach in vscode copilot
+
+## Context Engineering , 3:27, 2025-10-05
+
+- uses MCP, like Prompt Engineering
+
+## Vibe coding with Windsurf , 6:00, 2025-10-06
+
+- didn't show Windsurf
+- more about AI in general
+
+## OpenAI GPT-5 , 11:41, 2025-10-08
+
+- improvements but not a lot of new features
+
+## OpenAI gpt-oss , 7:11, 2025-10-09
+
+- downloadable models, log in with hugging face
+
+## Perplexity Comet , 7:34, 2025-10-10
+
+- nice browser, also screenshots to ask questions
+
+## ChatGPT agent, 6:56, 2025-10-13
+
+- natural evolution but not polished
+
+## OpenAI's o3-pro model, 4:32, 2025-10-13
+
+- o3-pro much slower than o3
+
+## Gemini Diffusion model , 7:47, nnn
+
 ## OpenAI canvas, 4:58, 2025-01-13
 
 https://www.linkedin.com/learning/ai-trends/openai-canvas?resume=false
