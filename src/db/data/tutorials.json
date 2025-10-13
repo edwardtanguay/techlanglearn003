@@ -1976,6 +1976,19 @@
 		"status": ""
 	},
 	{
+		"topics": "shadcn",
+		"language": "en",
+		"duration": "00:50:00",
+		"year": "2024",
+		"rank": "4.988",
+		"url": "https://www.youtube.com/watch?v=wcTzlJi2Oz4",
+		"title": "Shadcn UI Crash Course",
+		"description": "Five parts, Net Ninja, uses Next.js",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-shadcn-ui-crash-course",
+		"status": "started"
+	},
+	{
 		"topics": "skeleton, svelte",
 		"language": "en",
 		"duration": "00:16:12",

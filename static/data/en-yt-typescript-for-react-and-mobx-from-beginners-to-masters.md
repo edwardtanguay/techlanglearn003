@@ -8,16 +8,18 @@ https://www.youtube.com/watch?v=nGZCL6Wd_zQ
 - rank: 4.999999
 - description: Jack Harrington only 13 minutes but probably a good overview of what Mobx can do with TypeScript
 - year: 2021
+- status: started
 
 ## watchlog
 
-nnn - 00:00
+2025-10-13 - 06:30
 
 ## notes
 
-- nnn
+- shows how to set up store and used, a bit quick and started mid-way in another project
 
 ## VOCAB - SPANISH
 
 ```
+
 ```

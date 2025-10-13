@@ -14,9 +14,8 @@ git: rebase/merge
 https://www.youtube.com/watch?v=dqVqMwLzOjU
 
 
->>create>>shadcn;en;00:50:00;2024;4.988;https://www.youtube.com/watch?v=wcTzlJi2Oz4;Shadcn UI Crash Course;Five parts, Net Ninja
 
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>create>>mobx;en;00:07:40;2020;4.89;https://www.youtube.com/watch?v=MKNls_FReXI;How To Use React With MobX And Hooks - Note Taking App Tutorial;short, good reviews, uses create-react-app but simple
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
@@ -1125,3 +1124,4 @@ CREATED: strapi,skills2025;en;02:40:00;2025;4.78;https://www.youtube.com/watch?v
 CREATED: devops,gitlab,fall2025;fr;01:11:00;2023;4.9999;https://www.linkedin.com/learning/l-essentiel-de-gitlab; L'essentiel de GitLab ;Julian Layen, solid course
 CREATED: devops,githubActions,fall2025;fr;02:03:00;2023;4.9999;https://www.linkedin.com/learning/l-essentiel-de-github-actions; L'essentiel de GitHub Actions;Julian Layen, solid course
 CREATED: ai,fall2025;en;00:55:00;2025;4.88;https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai;Model Context Protocol (MCP): Hands-On with Agentic AI;new AI topic
+CREATED: shadcn;en;00:50:00;2024;4.988;https://www.youtube.com/watch?v=wcTzlJi2Oz4;Shadcn UI Crash Course;Five parts, Net Ninja
