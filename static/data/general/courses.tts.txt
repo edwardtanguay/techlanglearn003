@@ -1,6 +1,11 @@
 AI
 https://www.linkedin.com/learning/build-your-own-ai-lab
 
+
+rollup/react
+https://www.youtube.com/watch?v=QV69PBwfv64&list=PLmsBpw69UXdbWpayEB2CkkL2IK7F-fuUs&index=7
+Build a Modern JS Project - #5 Rollup with CJS, ESM & UMD: https://www.youtube.com/watch?v=ZGa_a164aeM&list=PLcCp4mjO-z99IPNCrhEyrZimdUG5QXjPd&index=5
+
 DEVOPS
 >>nnncreate>>devops,gitlab,fall2025;en;DURATION;YEAR;RANK;https://www.linkedin.com/learning/learning-gitlab-25489521;TITLE;Josh Samuelson, solid course
 >>nnncreate>>devops,gitlab,fall2025;en;DURATION;YEAR;RANK;https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab-24596289;TITLE;DESC
@@ -15,7 +20,7 @@ https://www.youtube.com/watch?v=dqVqMwLzOjU
 
 
 
->>create>>mobx;en;00:07:40;2020;4.89;https://www.youtube.com/watch?v=MKNls_FReXI;How To Use React With MobX And Hooks - Note Taking App Tutorial;short, good reviews, uses create-react-app but simple
+
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
@@ -1125,3 +1130,4 @@ CREATED: devops,gitlab,fall2025;fr;01:11:00;2023;4.9999;https://www.linkedin.com
 CREATED: devops,githubActions,fall2025;fr;02:03:00;2023;4.9999;https://www.linkedin.com/learning/l-essentiel-de-github-actions; L'essentiel de GitHub Actions;Julian Layen, solid course
 CREATED: ai,fall2025;en;00:55:00;2025;4.88;https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai;Model Context Protocol (MCP): Hands-On with Agentic AI;new AI topic
 CREATED: shadcn;en;00:50:00;2024;4.988;https://www.youtube.com/watch?v=wcTzlJi2Oz4;Shadcn UI Crash Course;Five parts, Net Ninja
+CREATED: mobx;en;00:07:40;2020;4.89;https://www.youtube.com/watch?v=MKNls_FReXI;How To Use React With MobX And Hooks - Note Taking App Tutorial;short, good reviews, uses create-react-app but simple

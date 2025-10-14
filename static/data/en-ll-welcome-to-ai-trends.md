@@ -57,7 +57,19 @@ https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends
 
 - o3-pro much slower than o3
 
-## Gemini Diffusion model , 7:47, nnn
+## Gemini Diffusion model , 7:47, 2025-10-14
+
+- uses a different algorithm
+
+## Codex, 0:54, 2025-10-14
+
+- was 2022 the prototype for Copilot
+
+## Bolt, 0:45, 2025-10-14
+
+- impressive, created responsive site in 30 seconds
+
+## Vibe Coding, 3:39, nnn
 
 ## OpenAI canvas, 4:58, 2025-01-13
 
