@@ -25,8 +25,12 @@ https://www.youtube.com/watch?v=dqVqMwLzOjU
 
 https://www.youtube.com/watch?v=g1k4U-mXF90
 
+ https://www.linkedin.com/learning/node-js-microservices-22685072
 
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+
+>>create>>microservices, node;en;03:39:00;2023;4.58;https://www.linkedin.com/learning/node-js-microservices-22685072;Node.js: Microservices;Daniel Khan, three hours
+
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
