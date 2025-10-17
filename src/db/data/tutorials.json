@@ -91,6 +91,19 @@
 		"status": ""
 	},
 	{
+		"topics": "n8n",
+		"language": "de",
+		"duration": "02:02:21",
+		"year": "2025",
+		"rank": "4.8",
+		"url": "https://www.youtube.com/watch?v=g1k4U-mXF90",
+		"title": "n8n Tutorial: Grundlagen-Kurs für Anfänger",
+		"description": "n8n basics, 2 hours, serious German",
+		"platform": "youtube",
+		"fileIdCode": "de-yt-n8n-tutorial-grundlagenkurs-fr-anfnger",
+		"status": "started"
+	},
+	{
 		"topics": "pycharm, python",
 		"language": "en",
 		"duration": "02:25:00",
@@ -1168,6 +1181,19 @@
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-react-state-management",
 		"status": ""
+	},
+	{
+		"topics": "remix",
+		"language": "en",
+		"duration": "01:16:00",
+		"year": "2025",
+		"rank": "4.92",
+		"url": "https://www.linkedin.com/learning/remix-essential-training",
+		"title": "Remix Essential Training",
+		"description": "by Eve Porcello so not in much depth but a good overview",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-remix-essential-training",
+		"status": "started"
 	},
 	{
 		"topics": "rust,dpod",

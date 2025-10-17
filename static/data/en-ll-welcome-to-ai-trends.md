@@ -69,7 +69,17 @@ https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends
 
 - impressive, created responsive site in 30 seconds
 
-## Vibe Coding, 3:39, nnn
+## Vibe Coding, 3:39, 2025-10-15
+
+- has specific uses
+
+## OpenAI Agent Builder, 6:43, 2025-10-17
+
+- enables you to build workflows with e.g. guardrails
+
+## OpenAI Apps SDK, 6:45, nnn
+
+## Generative Engine Optimization (GEO) , 4:09, nnn
 
 ## OpenAI canvas, 4:58, 2025-01-13
 
