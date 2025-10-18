@@ -25,11 +25,10 @@ https://www.youtube.com/watch?v=dqVqMwLzOjU
 
 https://www.youtube.com/watch?v=g1k4U-mXF90
 
- https://www.linkedin.com/learning/node-js-microservices-22685072
+https://www.linkedin.com/learning/node-js-microservices-22685072
 
 
 
->>create>>microservices, node;en;03:39:00;2023;4.58;https://www.linkedin.com/learning/node-js-microservices-22685072;Node.js: Microservices;Daniel Khan, three hours
 
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
@@ -1146,3 +1145,4 @@ CREATED: shadcn;en;00:50:00;2024;4.988;https://www.youtube.com/watch?v=wcTzlJi2O
 CREATED: mobx;en;00:07:40;2020;4.89;https://www.youtube.com/watch?v=MKNls_FReXI;How To Use React With MobX And Hooks - Note Taking App Tutorial;short, good reviews, uses create-react-app but simple
 CREATED: remix;en;01:16:00;2025;4.92;https://www.linkedin.com/learning/remix-essential-training;Remix Essential Training;by Eve Porcello so not in much depth but a good overview
 CREATED: n8n;de;02:02:21;2025;4.8;https://www.youtube.com/watch?v=g1k4U-mXF90;n8n Tutorial: Grundlagen-Kurs für Anfänger;n8n basics, 2 hours, serious German
+CREATED: microservices, node;en;03:39:00;2023;4.58;https://www.linkedin.com/learning/node-js-microservices-22685072;Node.js: Microservices;Daniel Khan, three hours

@@ -1014,6 +1014,19 @@
 		"status": "watched intro videos"
 	},
 	{
+		"topics": "microservices, node",
+		"language": "en",
+		"duration": "03:39:00",
+		"year": "2023",
+		"rank": "4.58",
+		"url": "https://www.linkedin.com/learning/node-js-microservices-22685072",
+		"title": "Node.js: Microservices",
+		"description": "Daniel Khan, three hours",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-nodejs-microservices",
+		"status": "started"
+	},
+	{
 		"topics": "openai, ai, python",
 		"language": "en",
 		"duration": "00:34:00",

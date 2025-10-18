@@ -77,7 +77,11 @@ https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends
 
 - enables you to build workflows with e.g. guardrails
 
-## OpenAI Apps SDK, 6:45, nnn
+## OpenAI Apps SDK, 6:45, 2025-10-18
+
+- example with Expedia
+
+## GitHub MCP Registry , 6:22, nnn
 
 ## Generative Engine Optimization (GEO) , 4:09, nnn
 
