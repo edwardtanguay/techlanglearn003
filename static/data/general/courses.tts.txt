@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=g1k4U-mXF90
 https://www.linkedin.com/learning/node-js-microservices-22685072
 
 
->>create>>instagram;de;01:57;00;2024;4.5;https://www.linkedin.com/learning/instagram-kennenlernen-23221505;Instagram kennenlernen;Basics course, professional German woman, starts with basics
+>>create>>instagram;de;01:57:00;2024;4.5;https://www.linkedin.com/learning/instagram-kennenlernen-23221505;Instagram kennenlernen;Basics course, professional German woman, starts with basics
 
 
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
