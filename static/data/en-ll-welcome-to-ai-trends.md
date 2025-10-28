@@ -81,9 +81,23 @@ https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends
 
 - example with Expedia
 
-## GitHub MCP Registry , 6:22, nnn
+## GitHub MCP Registry , 6:22, 2025-10-20
 
-## Generative Engine Optimization (GEO) , 4:09, nnn
+- interesting, works with VSCode
+
+## Generative Engine Optimization (GEO) , 4:09, 2025-10-21
+
+- llms.txt
+
+## Github Copilot Spaces , 5:22, 2025-10-22
+
+- a way to provide context for a specific project
+
+## Claude Skills , 6:10, 2025-10-28
+
+- skills for claude based on md file to make e.g. pdfs, etc. 
+
+## Model Context Protocol (MCP) , 4:32, nnn
 
 ## OpenAI canvas, 4:58, 2025-01-13
 
