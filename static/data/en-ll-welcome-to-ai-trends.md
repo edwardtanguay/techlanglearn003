@@ -10,9 +10,11 @@ https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends
 - year: 2024
 - status: started
 
-## Welcome to AI Trends, 0:36, 2025-01-13
+## Claude Code on the web , 3:33, 2025-10-29
 
-https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends
+- you can access reponsibles on the web
+
+## Welcome to AI Trends, 0:36, 2025-01-13
 
 - general intro
 
