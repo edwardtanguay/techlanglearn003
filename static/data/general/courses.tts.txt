@@ -47,6 +47,8 @@ https://www.linkedin.com/learning/node-js-microservices-22685072
 
 
 
+>>create>>php;en;01:01:00;2024;4.6;https://www.linkedin.com/learning/exploring-and-selecting-php-frameworks; Exploring and Selecting PHP Frameworks ;Gary Kovar, serious trainer, nice voice, I'm watching this for this overview of 9 frameworks
+
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
