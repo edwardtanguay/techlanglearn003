@@ -91,6 +91,19 @@
 		"status": ""
 	},
 	{
+		"topics": "typo3",
+		"language": "de",
+		"duration": "01:52:00",
+		"year": "2020",
+		"rank": "4.5",
+		"url": "https://www.linkedin.com/learning/typo3-cms-10-lts-grundkurs-1-installation-und-administration",
+		"title": "TYPO3 CMS 10 LTS Grundkurs 1: Installation und Administration",
+		"description": "in German, two more courses: 3 and 4 hours",
+		"platform": "linkedInLearning",
+		"fileIdCode": "de-ll-typo3-cms-10-lts-grundkurs-1-installation-und-administration",
+		"status": "started"
+	},
+	{
 		"topics": "iterm, mac, backend25",
 		"language": "de",
 		"duration": "00:10:09",
