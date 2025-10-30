@@ -48,7 +48,8 @@ https://www.linkedin.com/learning/node-js-microservices-22685072
 
 
 
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>create>>typo3;de;01:52:00;2020;4.5;https://www.linkedin.com/learning/typo3-cms-10-lts-grundkurs-1-installation-und-administration;TYPO3 CMS 10 LTS Grundkurs 1: Installation und Administration;in German, two more courses: 3 and 4 hours
+
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC

@@ -10,6 +10,10 @@ https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends
 - year: 2024
 - status: started
 
+## Agentic browsers , 5:12, 2025-10-30
+
+- showed Comet, also discovered Google AI Studio
+
 ## Claude Code on the web , 3:33, 2025-10-29
 
 - you can access reponsibles on the web
