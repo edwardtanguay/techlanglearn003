@@ -104,6 +104,19 @@
 		"status": "started"
 	},
 	{
+		"topics": "typeo3",
+		"language": "de",
+		"duration": "04:08:00",
+		"year": "2020",
+		"rank": "4.7",
+		"url": "https://www.linkedin.com/learning/typo3-cms-10-lts-grundkurs-2-templating-typoscript-fluid",
+		"title": "TYPO3 CMS 10 LTS Grundkurs 2: Templating, TypoScript, Fluid",
+		"description": "second course of TYPO3, adding content",
+		"platform": "linkedInLearning",
+		"fileIdCode": "de-ll-typo3-cms-10-lts-grundkurs-2-templating-typoscript-fluid",
+		"status": ""
+	},
+	{
 		"topics": "iterm, mac, backend25",
 		"language": "de",
 		"duration": "00:10:09",
