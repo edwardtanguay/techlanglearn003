@@ -114,7 +114,7 @@
 		"description": "second course of TYPO3, adding content",
 		"platform": "linkedInLearning",
 		"fileIdCode": "de-ll-typo3-cms-10-lts-grundkurs-2-templating-typoscript-fluid",
-		"status": ""
+		"status": "started"
 	},
 	{
 		"topics": "iterm, mac, backend25",
@@ -154,6 +154,19 @@
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-learning-python-with-pycharm",
 		"status": ""
+	},
+	{
+		"topics": "ai",
+		"language": "en",
+		"duration": "01:03:00",
+		"year": "2025",
+		"rank": "4.98",
+		"url": "https://www.linkedin.com/learning/10-in-10-ai-challenge",
+		"title": "10-in-10 AI Challenge",
+		"description": "Ray Villalobos, up-to-date",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-10in10-ai-challenge",
+		"status": "started"
 	},
 	{
 		"topics": "git, backend25",

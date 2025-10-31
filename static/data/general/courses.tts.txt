@@ -1,6 +1,5 @@
 AI:
 
->>create>>ai;en;01:03:00;2025;4.98;https://www.linkedin.com/learning/10-in-10-ai-challenge; 10-in-10 AI Challenge ;Ray Villalobos, up-to-date
 
 DEVOPS/MICROSERVICES
 OpenTelemetry: https://www.linkedin.com/learning/mastering-observability-with-opentelemetry
@@ -1171,3 +1170,4 @@ CREATED: instagram;de;01:57:00;2024;4.5;https://www.linkedin.com/learning/instag
 CREATED: php;en;01:01:00;2024;4.6;https://www.linkedin.com/learning/exploring-and-selecting-php-frameworks; Exploring and Selecting PHP Frameworks ;Gary Kovar, serious trainer, nice voice, I'm watching this for this overview of 9 frameworks
 CREATED: typo3;de;01:52:00;2020;4.5;https://www.linkedin.com/learning/typo3-cms-10-lts-grundkurs-1-installation-und-administration;TYPO3 CMS 10 LTS Grundkurs 1: Installation und Administration;in German, two more courses: 3 and 4 hours
 CREATED: typeo3;de;04:08:00;2020;4.7;https://www.linkedin.com/learning/typo3-cms-10-lts-grundkurs-2-templating-typoscript-fluid;TYPO3 CMS 10 LTS Grundkurs 2: Templating, TypoScript, Fluid;second course of TYPO3, adding content
+CREATED: ai;en;01:03:00;2025;4.98;https://www.linkedin.com/learning/10-in-10-ai-challenge; 10-in-10 AI Challenge ;Ray Villalobos, up-to-date
