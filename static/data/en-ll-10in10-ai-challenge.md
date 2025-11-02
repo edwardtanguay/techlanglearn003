@@ -18,7 +18,11 @@ https://www.linkedin.com/learning/10-in-10-ai-challenge
 
 - listen to ChatGPT as you walk
 
-## Vibe code a data dashboard , 2:57, nnn
+## Vibe code a data dashboard , 2:57, 2025-11-01
+
+- worked well
+
+## Create a custom question and answer agent , 6:58, nnn
 
 ## VOCAB - SPANISH
 

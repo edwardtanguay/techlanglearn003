@@ -1,4 +1,7 @@
-AI:
+>>create>>bun;en;00:40:18;2023;4.98;https://www.youtube.com/watch?v=U4JVw8K19uY;Bun Crash Course | JavaScript Runtime, Bundler & Transpiler;Good start to get into Bu
+
+Bun is now the ULTIMATE Frontend Toolchain, replace Vite, creates React app: https://www.youtube.com/watch?v=IDHHDnWjhAc
+Bun Hono, long (03:38:00): https://www.youtube.com/watch?v=jXyTIQOfTTk
 
 
 DEVOPS/MICROSERVICES
@@ -84,16 +87,6 @@ https://www.youtube.com/watch?v=tiOkArbHnqY
 
 539 React-Interviewfragen
 https://www.youtube.com/watch?v=3-PZsjRSfao
-
-Bun Hono
-https://www.youtube.com/watch?v=jXyTIQOfTTk
-
-Bun - watched, good start
-https://www.youtube.com/watch?v=U4JVw8K19uY
-
-Bun is now the ULTIMATE Frontend Toolchain, replace Vite
-https://www.youtube.com/watch?v=IDHHDnWjhAc
-
 
 ===================================
 
