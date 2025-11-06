@@ -1,4 +1,15 @@
->>create>>bun;en;00:40:18;2023;4.98;https://www.youtube.com/watch?v=U4JVw8K19uY;Bun Crash Course | JavaScript Runtime, Bundler & Transpiler;Good start to get into Bu
+
+
+>>create>>nuxt, nuxt4;en;00:41:24;2025;4.989;https://www.youtube.com/watch?v=RhZZ0whiuT8; Nuxt Crash Course 2025 ;CJ quick course but 2025, before he made his full stack video
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 Bun is now the ULTIMATE Frontend Toolchain, replace Vite, creates React app: https://www.youtube.com/watch?v=IDHHDnWjhAc
 Bun Hono, long (03:38:00): https://www.youtube.com/watch?v=jXyTIQOfTTk
@@ -1164,3 +1175,4 @@ CREATED: php;en;01:01:00;2024;4.6;https://www.linkedin.com/learning/exploring-an
 CREATED: typo3;de;01:52:00;2020;4.5;https://www.linkedin.com/learning/typo3-cms-10-lts-grundkurs-1-installation-und-administration;TYPO3 CMS 10 LTS Grundkurs 1: Installation und Administration;in German, two more courses: 3 and 4 hours
 CREATED: typeo3;de;04:08:00;2020;4.7;https://www.linkedin.com/learning/typo3-cms-10-lts-grundkurs-2-templating-typoscript-fluid;TYPO3 CMS 10 LTS Grundkurs 2: Templating, TypoScript, Fluid;second course of TYPO3, adding content
 CREATED: ai;en;01:03:00;2025;4.98;https://www.linkedin.com/learning/10-in-10-ai-challenge; 10-in-10 AI Challenge ;Ray Villalobos, up-to-date
+CREATED: bun;en;00:40:18;2023;4.98;https://www.youtube.com/watch?v=U4JVw8K19uY;Bun Crash Course | JavaScript Runtime, Bundler & Transpiler;Good start to get into Bu

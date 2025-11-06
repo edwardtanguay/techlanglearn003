@@ -26,7 +26,11 @@ https://www.linkedin.com/learning/l-essentiel-de-gitlab
 
 - set SSH key, worked
 
-## Utiliser et installer GitLab, 1:30, nnn
+## Utiliser et installer GitLab, 1:30, 2025-11-06
+
+- just says you can install it
+
+## Initialiser son dépôt , 4:03, nnn
 
 ## VOCAB - SPANISH
 

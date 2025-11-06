@@ -1573,6 +1573,19 @@
 		"status": ""
 	},
 	{
+		"topics": "bun",
+		"language": "en",
+		"duration": "00:40:18",
+		"year": "2023",
+		"rank": "4.98",
+		"url": "https://www.youtube.com/watch?v=U4JVw8K19uY",
+		"title": "Bun Crash Course | JavaScript Runtime, Bundler \u0026 Transpiler",
+		"description": "Good start to get into Bu",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-bun-crash-course-javascript-runtime-bundler-transpiler",
+		"status": "started"
+	},
+	{
 		"topics": "openai, ai, nextjs",
 		"language": "en",
 		"duration": "00:07:41",

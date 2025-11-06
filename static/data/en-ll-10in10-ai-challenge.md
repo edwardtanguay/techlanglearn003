@@ -22,10 +22,8 @@ https://www.linkedin.com/learning/10-in-10-ai-challenge
 
 - worked well
 
-## Create a custom question and answer agent , 6:58, nnn
+## Create a custom question and answer agent , 6:58, 2025-11-02
 
-## VOCAB - SPANISH
+- used pickaxe, didn't work well
 
-```
-
-```
+## Build websites from Deep Research , 3:28, nnn
