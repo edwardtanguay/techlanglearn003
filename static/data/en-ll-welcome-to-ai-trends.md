@@ -10,6 +10,14 @@ https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends
 - year: 2024
 - status: started
 
+## Kimi K2: The thinking open-source model , 6:59, 2025-11-15
+
+- chinese, excels at doing long-term work on its own, 128K context window
+
+## Agentic development changes with Cursor 2 , 4:39, 2025-11-12
+
+- mulitple agents
+
 ## Agentic browsers , 5:12, 2025-10-30
 
 - showed Comet, also discovered Google AI Studio
@@ -101,7 +109,7 @@ https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends
 
 ## Claude Skills , 6:10, 2025-10-28
 
-- skills for claude based on md file to make e.g. pdfs, etc. 
+- skills for claude based on md file to make e.g. pdfs, etc.
 
 ## Model Context Protocol (MCP) , 4:32, nnn
 

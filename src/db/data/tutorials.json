@@ -1976,6 +1976,19 @@
 		"status": ""
 	},
 	{
+		"topics": "nuxt, nuxt4",
+		"language": "en",
+		"duration": "00:41:24",
+		"year": "2025",
+		"rank": "4.989",
+		"url": "https://www.youtube.com/watch?v=RhZZ0whiuT8",
+		"title": "Nuxt Crash Course 2025",
+		"description": "CJ quick course but 2025, before he made his full stack video",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-nuxt-crash-course-2025",
+		"status": "started"
+	},
+	{
 		"topics": "owasp, frontend25, fall2025",
 		"language": "en",
 		"duration": "00:08:50",
