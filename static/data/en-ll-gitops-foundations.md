@@ -4,9 +4,9 @@ https://www.linkedin.com/learning/gitops-foundations
 
 - duration: 02:11:00
 - language: en
-- topics: git, backend25
-- rank: 4.67
-- description: extended course on Git but with good concepts
+- topics: devops2605
+- rank: 4.9888
+- description: Kevin Bowersox, GitOps interesting topic
 - year: 2021
 
 ## TITLE, TIME, nnn

@@ -1,17 +1,10 @@
+create>>devops2605;fr;01:11:00;2023;4.9995; https://www.linkedin.com/learning/l-essentiel-de-gitlab ; L'essentiel de GitLab ;Julian, French, solid GitLab
 
->>create>>devops2605;en;02:10:00;2025;4.989; https://www.linkedin.com/learning/docker-for-developers-create-and-manage-docker-containers;Docker for Developers: Create and Manage Docker Containers;Docker by Shelley, reads but decent and recent
-
->>create>>devops2605;en;02:11:00;2021;4.9888; https://www.linkedin.com/learning/gitops-foundations;GitOps Foundations;Kevin Bowersox, GitOps interesting topic
-
->>create>>devops2605,gitlab,fall2025;en;01:33:00;2025;4.997;https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab-24596289; Continuous Integration and Continuous Delivery with GitLab ;Josh and new
-
->>create>>devops2605, git, gitworkflow, backend25;en;01:04:00;2022;4.81;https://www.linkedin.com/learning/git-workflows;  Git Workflows  ;Kevin, various Git workflows, short but important
-
-FRENCH:
-https://www.linkedin.com/learning/l-essentiel-de-gitlab/bienvenue-dans-l-essentiel-de-gitlab
+>>create>>devops2605;fr;01:48:00;2023;4.83; https://www.linkedin.com/learning/docker-avance ; Docker avancé ;advanced Docker in French, with Samir
 
 GERMAN:
 GitLab lernen https://www.linkedin.com/learning/gitlab-lernen
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 
 ==============================================
@@ -1198,3 +1191,7 @@ CREATED: docker, devops2605;en;06:06:00;2023;4.9999;https://www.linkedin.com/lea
 CREATED: devops2605;en;01:20:00;2025;4.7999;https://www.linkedin.com/learning/practical-github-actions;Practical GitHub Actions;Ray Villalobos, new, GitHub but solid
 CREATED: devops2605;en;07:14:00;2024;4.81;https://www.linkedin.com/learning/build-a-ci-cd-pipeline; Build a CI/CD Pipeline ;Pearson, Byron, super-long course, high level, lots of slides
 CREATED: devops2605;en;01:54:00;2025;4.83;https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917 ;DevOps Foundations: Continuous Delivery/Continuous Integration;James and Ernest, higher-level, overview, but new
+CREATED: devops2605;en;02:10:00;2025;4.989; https://www.linkedin.com/learning/docker-for-developers-create-and-manage-docker-containers;Docker for Developers: Create and Manage Docker Containers;Docker by Shelley, reads but decent and recent
+CREATED: devops2605;en;02:11:00;2021;4.9888; https://www.linkedin.com/learning/gitops-foundations;GitOps Foundations;Kevin Bowersox, GitOps interesting topic
+CREATED: devops2605,gitlab,fall2025;en;01:33:00;2025;4.997;https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab-24596289; Continuous Integration and Continuous Delivery with GitLab ;Josh and new
+CREATED: devops2605, git, gitworkflow, backend25;en;01:04:00;2022;4.81;https://www.linkedin.com/learning/git-workflows;  Git Workflows  ;Kevin, various Git workflows, short but important

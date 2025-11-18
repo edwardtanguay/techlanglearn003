@@ -468,17 +468,17 @@
 		"status": "doing the three OOP sections plus modules (4)"
 	},
 	{
-		"topics": "gitlab, devops2605",
+		"topics": "devops2605,gitlab,fall2025",
 		"language": "en",
-		"duration": "01:27:00",
-		"year": "2022",
-		"rank": "4.7",
-		"url": "https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab",
+		"duration": "01:33:00",
+		"year": "2025",
+		"rank": "4.997",
+		"url": "https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab-24596289",
 		"title": "Continuous Integration and Continuous Delivery with GitLab",
-		"description": "good basics of GitLab, from 2022 so not that old",
+		"description": "Josh and new",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-continuous-integration-and-continuous-delivery-with-gitlab",
-		"status": "only 3 more videos"
+		"status": ""
 	},
 	{
 		"topics": "react,aws",
@@ -595,6 +595,19 @@
 		"description": "Carlos Nunez, long course",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-docker-essential-training",
+		"status": ""
+	},
+	{
+		"topics": "devops2605",
+		"language": "en",
+		"duration": "02:10:00",
+		"year": "2025",
+		"rank": "4.989",
+		"url": "https://www.linkedin.com/learning/docker-for-developers-create-and-manage-docker-containers",
+		"title": "Docker for Developers: Create and Manage Docker Containers",
+		"description": "Docker by Shelley, reads but decent and recent",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-docker-for-developers-create-and-manage-docker-containers",
 		"status": ""
 	},
 	{
@@ -728,14 +741,14 @@
 		"status": ""
 	},
 	{
-		"topics": "git, gitworkflow, backend25",
+		"topics": "devops2605, git, gitworkflow, backend25",
 		"language": "en",
 		"duration": "01:04:00",
 		"year": "2022",
 		"rank": "4.81",
 		"url": "https://www.linkedin.com/learning/git-workflows",
 		"title": "Git Workflows",
-		"description": "various Git workflows, short but important",
+		"description": "Kevin, various Git workflows, short but important",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-git-workflows",
 		"status": ""
@@ -754,14 +767,14 @@
 		"status": ""
 	},
 	{
-		"topics": "git, backend25",
+		"topics": "devops2605",
 		"language": "en",
 		"duration": "02:11:00",
 		"year": "2021",
-		"rank": "4.67",
+		"rank": "4.9888",
 		"url": "https://www.linkedin.com/learning/gitops-foundations",
 		"title": "GitOps Foundations",
-		"description": "extended course on Git but with good concepts",
+		"description": "Kevin Bowersox, GitOps interesting topic",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-gitops-foundations",
 		"status": ""
