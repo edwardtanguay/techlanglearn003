@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/l-essentiel-de-gitlab
 
 - duration: 01:11:00
 - language: fr
-- topics: devops,gitlab,fall2025
+- topics: devops,gitlab,fall2025, devops2605
 - rank: 4.9999
 - description: Julian Layen, relaxing voice, solid course
 - year: 2023

@@ -455,7 +455,7 @@
 		"status": "doing the three OOP sections plus modules (4)"
 	},
 	{
-		"topics": "gitlab",
+		"topics": "gitlab, devops2605",
 		"language": "en",
 		"duration": "01:27:00",
 		"year": "2022",
@@ -663,7 +663,7 @@
 		"status": ""
 	},
 	{
-		"topics": "git",
+		"topics": "git, devops2605",
 		"language": "en",
 		"duration": "02:37:00",
 		"year": "2023",
@@ -2314,6 +2314,19 @@
 		"status": ""
 	},
 	{
+		"topics": "docker, devops2605",
+		"language": "eng",
+		"duration": "00:57:00",
+		"year": "2023",
+		"rank": "4.89",
+		"url": "https://www.linkedin.com/learning/docker-your-first-project/your-first-docker-project",
+		"title": "Docker: Your First Project",
+		"description": "Shelley Benhoff, about Docker and apps",
+		"platform": "linkedInLearning",
+		"fileIdCode": "eng-ll-docker-your-first-project",
+		"status": "started"
+	},
+	{
 		"topics": "typescript,dpod, fall2025",
 		"language": "es",
 		"duration": "01:54:00",
@@ -2925,7 +2938,7 @@
 		"status": ""
 	},
 	{
-		"topics": "docker, backend25, fall2025",
+		"topics": "docker, backend25, fall2025, devops2605",
 		"language": "fr",
 		"duration": "01:48:00",
 		"year": "2023",
@@ -2977,7 +2990,7 @@
 		"status": ""
 	},
 	{
-		"topics": "docker, backend25, donext, fall2025",
+		"topics": "docker, backend25, donext, fall2025, devops2605",
 		"language": "fr",
 		"duration": "03:14:00",
 		"year": "2023",
@@ -3029,7 +3042,7 @@
 		"status": ""
 	},
 	{
-		"topics": "devops,gitlab,fall2025",
+		"topics": "devops,gitlab,fall2025, devops2605",
 		"language": "fr",
 		"duration": "01:11:00",
 		"year": "2023",

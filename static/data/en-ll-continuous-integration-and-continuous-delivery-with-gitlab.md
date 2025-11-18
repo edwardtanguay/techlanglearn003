@@ -4,7 +4,7 @@ https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery
 
 - duration: 01:27:00
 - language: en
-- topics: gitlab
+- topics: gitlab, devops2605
 - rank: 4.7
 - description: good basics of GitLab, from 2022 so not that old
 - year: 2022

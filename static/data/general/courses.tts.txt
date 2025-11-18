@@ -5,8 +5,7 @@ react components copilot: https://www.linkedin.com/learning/building-test-driven
 react: https://www.linkedin.com/learning/react-advanced-code-challenges/advanced-code-challenges-in-react
 
 
-
->>create>>docker;eng;00:57:00;2023;4.89;https://www.linkedin.com/learning/docker-your-first-project/your-first-docker-project; Docker: Your First Project ;Shelley Benhoff, about Docker and apps
+docker: https://www.linkedin.com/learning/docker-for-developers-create-and-manage-docker-containers/streamline-development-with-docker
 
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
@@ -1182,3 +1181,4 @@ CREATED: typeo3;de;04:08:00;2020;4.7;https://www.linkedin.com/learning/typo3-cms
 CREATED: ai;en;01:03:00;2025;4.98;https://www.linkedin.com/learning/10-in-10-ai-challenge; 10-in-10 AI Challenge ;Ray Villalobos, up-to-date
 CREATED: bun;en;00:40:18;2023;4.98;https://www.youtube.com/watch?v=U4JVw8K19uY;Bun Crash Course | JavaScript Runtime, Bundler & Transpiler;Good start to get into Bu
 CREATED: nuxt, nuxt4;en;00:41:24;2025;4.989;https://www.youtube.com/watch?v=RhZZ0whiuT8; Nuxt Crash Course 2025 ;CJ quick course but 2025, before he made his full stack video
+CREATED: docker;eng;00:57:00;2023;4.89;https://www.linkedin.com/learning/docker-your-first-project/your-first-docker-project; Docker: Your First Project ;Shelley Benhoff, about Docker and apps
