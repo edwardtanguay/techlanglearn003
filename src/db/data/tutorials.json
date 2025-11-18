@@ -39,6 +39,19 @@
 		"status": ""
 	},
 	{
+		"topics": "devops2605",
+		"language": "de",
+		"duration": "01:02:00",
+		"year": "2025",
+		"rank": "4.98999",
+		"url": "https://www.linkedin.com/learning/gitlab-lernen",
+		"title": "GitLab lernen",
+		"description": "Sujeevan, some pipeline",
+		"platform": "linkedInLearning",
+		"fileIdCode": "de-ll-gitlab-lernen",
+		"status": ""
+	},
+	{
 		"topics": "instagram",
 		"language": "de",
 		"duration": "01:57:00",
@@ -2558,7 +2571,7 @@
 		"description": "Lincy, Spanish, practice with MySQL/Docker",
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-despliegue-de-mysql-con-docker",
-		"status": ""
+		"status": "started"
 	},
 	{
 		"topics": "docker, microservices, devops2605",

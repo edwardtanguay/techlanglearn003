@@ -8,12 +8,24 @@ https://www.linkedin.com/learning/despliegue-de-mysql-con-docker
 - rank: 4.99999
 - description: Lincy, Spanish, practice with MySQL/Docker
 - year: 2022
+- status: started
 
-## TITLE, TIME, nnn
+## Despliegue de MySQL con Docker , 1:25, 2025-11-18
 
-- nnn
+- intro, will be MySQL and Docker
+
+## Tus primeros pasos con Docker , 4:20, 2025-11-18
+
+- the basic benefits
+
+## Beneficios de Docker , 2:38, 2025-11-18
+
+- scalability, isolation, etc.
+
+## Docker: conceptos fundamentales , 5:13, nnn
 
 ## VOCAB - SPANISH
 
 ```
+
 ```
