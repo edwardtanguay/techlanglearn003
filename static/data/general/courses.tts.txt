@@ -1,29 +1,20 @@
->>create>>devops2605;en;02:06:00;2025;4.95;https://www.linkedin.com/learning/learning-docker-17236240;Learning Docker;Carlos Nunez, reads but decent info, nginx
 
->>create>>docker, devops2605;en;06:06:00;2023;4.9999;https://www.linkedin.com/learning/docker-essential-training;Docker Essential Training;Carlos Nunez, long course
+>>create>>devops2605;en;07:14:00;2024;4.81;https://www.linkedin.com/learning/build-a-ci-cd-pipeline; Build a CI/CD Pipeline ;Pearson, Byron, super-long course, high level, lots of slides
+>>create>>devops2605;en;01:54:00;2025;4.83;https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917 ;DevOps Foundations: Continuous Delivery/Continuous Integration;James and Ernest, higher-level, overview, but new
 
->>create>>devops2605;en;01:20:00;2025;4.7999;https://www.linkedin.com/learning/practical-github-actions;Practical GitHub Actions;Ray Villalobos, new, GitHub but solid
 
 >>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
 
-Build a CI/CD Pipeline
-https://www.linkedin.com/learning/build-a-ci-cd-pipeline
 
-DevOps Foundations: Containers
-https://www.linkedin.com/learning/devops-foundations-containers-14207858
-
-DevOps Foundations: Continuous Delivery/Continuous Integration
-https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917
 
 Docker for Developers: Create and Manage Docker Containers
 https://www.linkedin.com/learning/docker-for-developers-create-and-manage-docker-containers
+>>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 https://www.linkedin.com/learning/gitops-foundations/an-enhanced-approach-to-devops
+>>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 >>nnncreate>>devops,gitlab,fall2025;en;DURATION;YEAR;RANK;https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab-24596289;TITLE;DESC
 
@@ -1215,3 +1206,6 @@ CREATED: devops2605;es;02:34:00;2025;4.98;https://www.linkedin.com/learning/dock
 CREATED: devops2605;es;02:10:00;2025;4.65;https://www.linkedin.com/learning/aprende-ansible-automatiza-tu-servidor-linux; Aprende Ansible: automatiza tu servidor Linux ;Esther, good topic
 CREATED: docker, microservices, devops2605;es;02:06:00;2020;4.48;https://www.linkedin.com/learning/devops-despliegue-de-microservicios-con-docker;DevOps: Despliegue de microservicios con Docker;Miguel, lots of Azure, Windows, but good for expansive knowledge, also older
 CREATED: devops2605, docker;es;02:02:00;2022;4.99999;https://www.linkedin.com/learning/despliegue-de-mysql-con-docker; Despliegue de MySQL con Docker ;Lincy, Spanish, practice with MySQL/Docker
+CREATED: devops2605;en;02:06:00;2025;4.95;https://www.linkedin.com/learning/learning-docker-17236240;Learning Docker;Carlos Nunez, reads but decent info, nginx
+CREATED: docker, devops2605;en;06:06:00;2023;4.9999;https://www.linkedin.com/learning/docker-essential-training;Docker Essential Training;Carlos Nunez, long course
+CREATED: devops2605;en;01:20:00;2025;4.7999;https://www.linkedin.com/learning/practical-github-actions;Practical GitHub Actions;Ray Villalobos, new, GitHub but solid
