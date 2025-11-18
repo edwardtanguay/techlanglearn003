@@ -1,4 +1,39 @@
-containers: https://www.linkedin.com/learning/devops-foundations-containers-14207858/enhancing-your-applications-with-containers
+- good teacher for devops: https://www.linkedin.com/learning/instructors/josh-samuelson
+
+- sp; 4.98;2024; https://www.linkedin.com/learning/docker-esencial-23119241/docker-compose
+- sp; 4.98; https://www.linkedin.com/learning/devops-despliegue-de-microservicios-con-docker
+- sp; 4.95; https://www.linkedin.com/learning/despliegue-de-mysql-con-docker
+
+GitLab lernen
+https://www.linkedin.com/learning/gitlab-lernen
+
+Build a CI/CD Pipeline
+https://www.linkedin.com/learning/build-a-ci-cd-pipeline
+
+DevOps Foundations: Containers 
+https://www.linkedin.com/learning/devops-foundations-containers-14207858
+
+DevOps Foundations: Continuous Delivery/Continuous Integration 
+https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917
+
+Docker for Developers: Create and Manage Docker Containers 
+https://www.linkedin.com/learning/docker-for-developers-create-and-manage-docker-containers
+
+- advanced Git: https://www.linkedin.com/learning/gitops-foundations/an-enhanced-approach-to-devops
+
+>>nnncreate>>devops,gitlab,fall2025;en;DURATION;YEAR;RANK;https://www.linkedin.com/learning/learning-gitlab-25489521;TITLE;Josh Samuelson, solid course
+
+>>nnncreate>>devops,gitlab,fall2025;en;DURATION;YEAR;RANK;https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab-24596289;TITLE;DESC
+
+https://www.linkedin.com/learning/reussir-dans-le-devops/bienvenue-dans-reussir-dans-le-devops
+
+gitlab
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpwlwFGjJLGwRFMMBLVGfLzMR
+
+- gitlab french, 2023
+- https://www.linkedin.com/learning/l-essentiel-de-gitlab/bienvenue-dans-l-essentiel-de-gitlab
+==============================================
+
 
 react components copilot: https://www.linkedin.com/learning/building-test-driven-react-components-with-copilot/writing-better-react-tests-with-ai
 
@@ -19,14 +54,11 @@ Bun is now the ULTIMATE Frontend Toolchain, replace Vite, creates React app: htt
 Bun Hono, long (03:38:00): https://www.youtube.com/watch?v=jXyTIQOfTTk
 
 
-DEVOPS/MICROSERVICES
+MICROSERVICES
 OpenTelemetry: https://www.linkedin.com/learning/mastering-observability-with-opentelemetry
-deep devops: https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917
 khan databases: https://www.linkedin.com/learning/databases-for-node-js-developers-25329301
-
 RabbitMQ: https://www.linkedin.com/learning/learning-rabbitmq/connect-your-services-with-asynchronous-messaging-2
 Software Architecture: https://www.linkedin.com/learning/software-architecture-patterns-for-developers-25635719/intro-video-to-be-renamed
-
 React authorization: https://www.linkedin.com/learning/react-authentication-25660373/secure-authentication-practices-in-react
 JWT: search LinkedIn Learning for JWT and watch videos on each
 
@@ -41,13 +73,6 @@ rollup/react
 https://www.youtube.com/watch?v=QV69PBwfv64&list=PLmsBpw69UXdbWpayEB2CkkL2IK7F-fuUs&index=7
 Build a Modern JS Project - #5 Rollup with CJS, ESM & UMD: https://www.youtube.com/watch?v=ZGa_a164aeM&list=PLcCp4mjO-z99IPNCrhEyrZimdUG5QXjPd&index=5
 
-DEVOPS
->>nnncreate>>devops,gitlab,fall2025;en;DURATION;YEAR;RANK;https://www.linkedin.com/learning/learning-gitlab-25489521;TITLE;Josh Samuelson, solid course
->>nnncreate>>devops,gitlab,fall2025;en;DURATION;YEAR;RANK;https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab-24596289;TITLE;DESC
-https://www.linkedin.com/learning/reussir-dans-le-devops/bienvenue-dans-reussir-dans-le-devops
-
-gitlab
-https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpwlwFGjJLGwRFMMBLVGfLzMR
 
 
 android phone
@@ -589,7 +614,6 @@ EN-2025: https://www.youtube.com/watch?v=qThX0aoW9YI&list=PLF1Z-APd9zK7usPMx3LGM
 - https://www.youtube.com/watch?v=Kn1De5uwrlY (AI conversations, from Patrick)
 
 - AI up-to-date: https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends
-- advanced Git: https://www.linkedin.com/learning/gitops-foundations/an-enhanced-approach-to-devops
 
 retro: maven: https://www.linkedin.com/learning/introducing-maven/building-java-the-maven-way
 
@@ -607,7 +631,6 @@ retro: maven: https://www.linkedin.com/learning/introducing-maven/building-java-
 
 - excellent teacher, lots of courses, Joe Marini: https://www.linkedin.com/learning/instructors/joe-marini
 - lots of Python in Spanish: https://www.linkedin.com/learning/topics/python?entityType=COURSE
-- good teacher for devops: https://www.linkedin.com/learning/instructors/josh-samuelson
 
 - shadcn
 - clojure
@@ -632,8 +655,6 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 - VSCode for Python: https://www.youtube.com/watch?v=F60iJ3xxgtg
 - swagger
 
-- gitlab french, 2023
-- https://www.linkedin.com/learning/l-essentiel-de-gitlab/bienvenue-dans-l-essentiel-de-gitlab
 - github versioning
 - https://www.youtube.com/results?search_query=github+releases+tutorial+
 - https://www.youtube.com/watch?v=Ob9llA_QhQY
@@ -690,9 +711,6 @@ accessibility; en; 2024; https://www.linkedin.com/learning/web-accessibility-for
 
 - currenttech
 - docker
-- sp; 4.98;2024; https://www.linkedin.com/learning/docker-esencial-23119241/docker-compose
-- sp; 4.98; https://www.linkedin.com/learning/devops-despliegue-de-microservicios-con-docker
-- sp; 4.95; https://www.linkedin.com/learning/despliegue-de-mysql-con-docker
 
 
 
