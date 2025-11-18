@@ -3081,14 +3081,14 @@
 		"status": ""
 	},
 	{
-		"topics": "docker, backend25, fall2025, devops2605",
+		"topics": "devops2605",
 		"language": "fr",
 		"duration": "01:48:00",
 		"year": "2023",
-		"rank": "4.95",
+		"rank": "4.83",
 		"url": "https://www.linkedin.com/learning/docker-avance",
 		"title": "Docker avancé",
-		"description": "advanced course on Docker, French, professional trainer",
+		"description": "advanced Docker in French, with Samir",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-docker-avanc",
 		"status": ""
@@ -3185,17 +3185,17 @@
 		"status": ""
 	},
 	{
-		"topics": "devops,gitlab,fall2025, devops2605",
+		"topics": "devops2605",
 		"language": "fr",
 		"duration": "01:11:00",
 		"year": "2023",
-		"rank": "4.9999",
+		"rank": "4.9995",
 		"url": "https://www.linkedin.com/learning/l-essentiel-de-gitlab",
 		"title": "L'essentiel de GitLab",
-		"description": "Julian Layen, relaxing voice, solid course",
+		"description": "Julian, French, solid GitLab",
 		"platform": "linkedInLearning",
 		"fileIdCode": "fr-ll-lessentiel-de-gitlab",
-		"status": "started"
+		"status": ""
 	},
 	{
 		"topics": "laravel",

@@ -1,10 +1,5 @@
-create>>devops2605;fr;01:11:00;2023;4.9995; https://www.linkedin.com/learning/l-essentiel-de-gitlab ; L'essentiel de GitLab ;Julian, French, solid GitLab
 
->>create>>devops2605;fr;01:48:00;2023;4.83; https://www.linkedin.com/learning/docker-avance ; Docker avancé ;advanced Docker in French, with Samir
-
-GERMAN:
-GitLab lernen https://www.linkedin.com/learning/gitlab-lernen
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>create>>devops2605;de;01:02:00;2025;4.98999; https://www.linkedin.com/learning/gitlab-lernen ; GitLab lernen ;Sujeevan, some pipeline
 
 
 ==============================================
@@ -1195,3 +1190,5 @@ CREATED: devops2605;en;02:10:00;2025;4.989; https://www.linkedin.com/learning/do
 CREATED: devops2605;en;02:11:00;2021;4.9888; https://www.linkedin.com/learning/gitops-foundations;GitOps Foundations;Kevin Bowersox, GitOps interesting topic
 CREATED: devops2605,gitlab,fall2025;en;01:33:00;2025;4.997;https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab-24596289; Continuous Integration and Continuous Delivery with GitLab ;Josh and new
 CREATED: devops2605, git, gitworkflow, backend25;en;01:04:00;2022;4.81;https://www.linkedin.com/learning/git-workflows;  Git Workflows  ;Kevin, various Git workflows, short but important
+CREATED: devops2605;fr;01:48:00;2023;4.83; https://www.linkedin.com/learning/docker-avance ; Docker avancé ;advanced Docker in French, with Samir
+CREATED: devops2605;fr;01:11:00;2023;4.9995; https://www.linkedin.com/learning/l-essentiel-de-gitlab ; L'essentiel de GitLab ;Julian, French, solid GitLab
