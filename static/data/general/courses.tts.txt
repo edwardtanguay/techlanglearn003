@@ -1,4 +1,18 @@
-- good teacher for devops: https://www.linkedin.com/learning/instructors/josh-samuelson
+>>create>>containers, devops2605;en;01:06:00;2025;4.81;https://www.linkedin.com/learning/devops-foundations-containers-14207858;DevOps Foundations: Containers;Josh Samuelson, overview of containers
+>>nnncreate>>devops,gitlab,fall2025;en;01:08:00;2025;4.994;https://www.linkedin.com/learning/learning-gitlab-25489521;TITLE;Josh Samuelson, solid course
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;https://www.linkedin.com/learning/learning-docker-17236240;Learning Docker;Carlos Nunez, black guy, reads but decent info, nginx
+>>nnncreate>>docker;en;06:06:00;2023;4.9999;https://www.linkedin.com/learning/docker-essential-training;Docker Essential Training;Carlos Nunez
+
+>>nnncreate>>TECH;LANG;DURATION;2025;RANK;https://www.linkedin.com/learning/practical-github-actions;Practical GitHub Actions;Ray Villalobos, new
+
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
+https://www.linkedin.com/learning/aprende-ansible-automatiza-tu-servidor-linux
 
 - sp; 4.98;2024; https://www.linkedin.com/learning/docker-esencial-23119241/docker-compose
 - sp; 4.98; https://www.linkedin.com/learning/devops-despliegue-de-microservicios-con-docker
@@ -21,7 +35,6 @@ https://www.linkedin.com/learning/docker-for-developers-create-and-manage-docker
 
 - advanced Git: https://www.linkedin.com/learning/gitops-foundations/an-enhanced-approach-to-devops
 
->>nnncreate>>devops,gitlab,fall2025;en;DURATION;YEAR;RANK;https://www.linkedin.com/learning/learning-gitlab-25489521;TITLE;Josh Samuelson, solid course
 
 >>nnncreate>>devops,gitlab,fall2025;en;DURATION;YEAR;RANK;https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab-24596289;TITLE;DESC
 
