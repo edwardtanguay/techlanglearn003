@@ -1,26 +1,15 @@
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;https://www.linkedin.com/learning/learning-docker-17236240;Learning Docker;Carlos Nunez, black guy, reads but decent info, nginx
->>nnncreate>>docker;en;06:06:00;2023;4.9999;https://www.linkedin.com/learning/docker-essential-training;Docker Essential Training;Carlos Nunez
+>>create>>devops2605;en;02:06:00;2025;4.95;https://www.linkedin.com/learning/learning-docker-17236240;Learning Docker;Carlos Nunez, reads but decent info, nginx
 
->>nnncreate>>TECH;LANG;DURATION;2025;RANK;https://www.linkedin.com/learning/practical-github-actions;Practical GitHub Actions;Ray Villalobos, new
+>>create>>docker, devops2605;en;06:06:00;2023;4.9999;https://www.linkedin.com/learning/docker-essential-training;Docker Essential Training;Carlos Nunez, long course
 
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>create>>devops2605;en;01:20:00;2025;4.7999;https://www.linkedin.com/learning/practical-github-actions;Practical GitHub Actions;Ray Villalobos, new, GitHub but solid
 
-
->>create>>devops2605;es;02:34:00;2025;4.98;https://www.linkedin.com/learning/docker-esencial-23119241/docker-compose;Docker esencial;Lincy, long course, Spanish
-
->>create>>devops2605;es;02:10:00;2025;4.65;https://www.linkedin.com/learning/aprende-ansible-automatiza-tu-servidor-linux; Aprende Ansible: automatiza tu servidor Linux ;Esther, good topic
-
->>create>>docker, microservices, devops2605;es;02:06:00;2020;4.48;https://www.linkedin.com/learning/devops-despliegue-de-microservicios-con-docker;DevOps: Despliegue de microservicios con Docker;Miguel, lots of Azure, Windows, but good for expansive knowledge, also older
-
->>create>>devops2605, docker;es;02:02:00;2022;4.99999;https://www.linkedin.com/learning/despliegue-de-mysql-con-docker; Despliegue de MySQL con Docker ;Lincy, Spanish, practice with MySQL/Docker
-
-
-GitLab lernen
-https://www.linkedin.com/learning/gitlab-lernen
+>>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 Build a CI/CD Pipeline
 https://www.linkedin.com/learning/build-a-ci-cd-pipeline
@@ -34,18 +23,24 @@ https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continu
 Docker for Developers: Create and Manage Docker Containers
 https://www.linkedin.com/learning/docker-for-developers-create-and-manage-docker-containers
 
-- advanced Git: https://www.linkedin.com/learning/gitops-foundations/an-enhanced-approach-to-devops
-
+https://www.linkedin.com/learning/gitops-foundations/an-enhanced-approach-to-devops
 
 >>nnncreate>>devops,gitlab,fall2025;en;DURATION;YEAR;RANK;https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab-24596289;TITLE;DESC
 
-https://www.linkedin.com/learning/reussir-dans-le-devops/bienvenue-dans-reussir-dans-le-devops
 
-gitlab
-https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpwlwFGjJLGwRFMMBLVGfLzMR
+FRENCH:
+https://www.linkedin.com/learning/l-essentiel-de-gitlab/bienvenue-dans-l-essentiel-de-gitlab
 
-- gitlab french, 2023
-- https://www.linkedin.com/learning/l-essentiel-de-gitlab/bienvenue-dans-l-essentiel-de-gitlab
+GERMAN:
+GitLab lernen https://www.linkedin.com/learning/gitlab-lernen
+
+
+==============================================
+==============================================
+==============================================
+==============================================
+==============================================
+==============================================
 ==============================================
 
 
@@ -1216,3 +1211,7 @@ CREATED: nuxt, nuxt4;en;00:41:24;2025;4.989;https://www.youtube.com/watch?v=RhZZ
 CREATED: docker;eng;00:57:00;2023;4.89;https://www.linkedin.com/learning/docker-your-first-project/your-first-docker-project; Docker: Your First Project ;Shelley Benhoff, about Docker and apps
 CREATED: containers, devops2605;en;01:06:00;2025;4.81;https://www.linkedin.com/learning/devops-foundations-containers-14207858;DevOps Foundations: Containers;Josh Samuelson, overview of containers
 CREATED: devops,gitlab,fall2025, devops2605;en;01:08:00;2025;4.994;https://www.linkedin.com/learning/learning-gitlab-25489521;Learning GitLab;Josh Samuelson, solid course
+CREATED: devops2605;es;02:34:00;2025;4.98;https://www.linkedin.com/learning/docker-esencial-23119241/docker-compose;Docker esencial;Lincy, long course, Spanish
+CREATED: devops2605;es;02:10:00;2025;4.65;https://www.linkedin.com/learning/aprende-ansible-automatiza-tu-servidor-linux; Aprende Ansible: automatiza tu servidor Linux ;Esther, good topic
+CREATED: docker, microservices, devops2605;es;02:06:00;2020;4.48;https://www.linkedin.com/learning/devops-despliegue-de-microservicios-con-docker;DevOps: Despliegue de microservicios con Docker;Miguel, lots of Azure, Windows, but good for expansive knowledge, also older
+CREATED: devops2605, docker;es;02:02:00;2022;4.99999;https://www.linkedin.com/learning/despliegue-de-mysql-con-docker; Despliegue de MySQL con Docker ;Lincy, Spanish, practice with MySQL/Docker

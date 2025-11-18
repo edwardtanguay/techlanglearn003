@@ -2366,6 +2366,19 @@
 		"status": ""
 	},
 	{
+		"topics": "devops2605",
+		"language": "es",
+		"duration": "02:10:00",
+		"year": "2025",
+		"rank": "4.65",
+		"url": "https://www.linkedin.com/learning/aprende-ansible-automatiza-tu-servidor-linux",
+		"title": "Aprende Ansible: automatiza tu servidor Linux",
+		"description": "Esther, good topic",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-aprende-ansible-automatiza-tu-servidor-linux",
+		"status": ""
+	},
+	{
 		"topics": "bash,dpod",
 		"language": "es",
 		"duration": "02:26:00",
@@ -2457,17 +2470,43 @@
 		"status": ""
 	},
 	{
-		"topics": "docker,backend25, fall2025",
+		"topics": "devops2605, docker",
+		"language": "es",
+		"duration": "02:02:00",
+		"year": "2022",
+		"rank": "4.99999",
+		"url": "https://www.linkedin.com/learning/despliegue-de-mysql-con-docker",
+		"title": "Despliegue de MySQL con Docker",
+		"description": "Lincy, Spanish, practice with MySQL/Docker",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-despliegue-de-mysql-con-docker",
+		"status": ""
+	},
+	{
+		"topics": "docker, microservices, devops2605",
+		"language": "es",
+		"duration": "02:06:00",
+		"year": "2020",
+		"rank": "4.48",
+		"url": "https://www.linkedin.com/learning/devops-despliegue-de-microservicios-con-docker",
+		"title": "DevOps: Despliegue de microservicios con Docker",
+		"description": "Miguel, lots of Azure, Windows, but good for expansive knowledge, also older",
+		"platform": "linkedInLearning",
+		"fileIdCode": "es-ll-devops-despliegue-de-microservicios-con-docker",
+		"status": ""
+	},
+	{
+		"topics": "devops2605",
 		"language": "es",
 		"duration": "02:34:00",
-		"year": "2024",
-		"rank": "4.31",
-		"url": "https://www.linkedin.com/learning/docker-esencial-23119241",
+		"year": "2025",
+		"rank": "4.98",
+		"url": "https://www.linkedin.com/learning/docker-esencial-23119241/docker-compose",
 		"title": "Docker esencial",
-		"description": "Spanish, in depth Docker",
+		"description": "Lincy, long course, Spanish",
 		"platform": "linkedInLearning",
 		"fileIdCode": "es-ll-docker-esencial",
-		"status": "not yet started"
+		"status": ""
 	},
 	{
 		"topics": "kafka",

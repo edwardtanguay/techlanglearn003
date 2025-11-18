@@ -1,14 +1,13 @@
 # Docker esencial
 
-https://www.linkedin.com/learning/docker-esencial-23119241
+https://www.linkedin.com/learning/docker-esencial-23119241/docker-compose
 
 - duration: 02:34:00
 - language: es
-- topics: docker,backend25, fall2025
-- rank: 4.31
-- description: Spanish, in depth Docker
-- year: 2024
-- status: not yet started
+- topics: devops2605
+- rank: 4.98
+- description: Lincy, long course, Spanish
+- year: 2025
 
 ## TITLE, TIME, nnn
 
@@ -17,5 +16,4 @@ https://www.linkedin.com/learning/docker-esencial-23119241
 ## VOCAB - SPANISH
 
 ```
-
 ```
