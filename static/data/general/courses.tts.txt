@@ -1,4 +1,3 @@
->>create>>devops,gitlab,fall2025, devops2605;en;01:08:00;2025;4.994;https://www.linkedin.com/learning/learning-gitlab-25489521;Learning GitLab;Josh Samuelson, solid course
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;https://www.linkedin.com/learning/learning-docker-17236240;Learning Docker;Carlos Nunez, black guy, reads but decent info, nginx
 >>nnncreate>>docker;en;06:06:00;2023;4.9999;https://www.linkedin.com/learning/docker-essential-training;Docker Essential Training;Carlos Nunez
 
@@ -9,13 +8,16 @@
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
-https://www.linkedin.com/learning/aprende-ansible-automatiza-tu-servidor-linux
 
-- sp; 4.98;2024; https://www.linkedin.com/learning/docker-esencial-23119241/docker-compose
-- sp; 4.98; https://www.linkedin.com/learning/devops-despliegue-de-microservicios-con-docker
-- sp; 4.95; https://www.linkedin.com/learning/despliegue-de-mysql-con-docker
+>>create>>devops2605;es;02:34:00;2025;4.98;https://www.linkedin.com/learning/docker-esencial-23119241/docker-compose;Docker esencial;Lincy, long course, Spanish
+
+>>create>>devops2605;es;02:10:00;2025;4.65;https://www.linkedin.com/learning/aprende-ansible-automatiza-tu-servidor-linux; Aprende Ansible: automatiza tu servidor Linux ;Esther, good topic
+
+>>create>>docker, microservices, devops2605;es;02:06:00;2020;4.48;https://www.linkedin.com/learning/devops-despliegue-de-microservicios-con-docker;DevOps: Despliegue de microservicios con Docker;Miguel, lots of Azure, Windows, but good for expansive knowledge, also older
+
+>>create>>devops2605, docker;es;02:02:00;2022;4.99999;https://www.linkedin.com/learning/despliegue-de-mysql-con-docker; Despliegue de MySQL con Docker ;Lincy, Spanish, practice with MySQL/Docker
+
 
 GitLab lernen
 https://www.linkedin.com/learning/gitlab-lernen
@@ -1213,3 +1215,4 @@ CREATED: bun;en;00:40:18;2023;4.98;https://www.youtube.com/watch?v=U4JVw8K19uY;B
 CREATED: nuxt, nuxt4;en;00:41:24;2025;4.989;https://www.youtube.com/watch?v=RhZZ0whiuT8; Nuxt Crash Course 2025 ;CJ quick course but 2025, before he made his full stack video
 CREATED: docker;eng;00:57:00;2023;4.89;https://www.linkedin.com/learning/docker-your-first-project/your-first-docker-project; Docker: Your First Project ;Shelley Benhoff, about Docker and apps
 CREATED: containers, devops2605;en;01:06:00;2025;4.81;https://www.linkedin.com/learning/devops-foundations-containers-14207858;DevOps Foundations: Containers;Josh Samuelson, overview of containers
+CREATED: devops,gitlab,fall2025, devops2605;en;01:08:00;2025;4.994;https://www.linkedin.com/learning/learning-gitlab-25489521;Learning GitLab;Josh Samuelson, solid course

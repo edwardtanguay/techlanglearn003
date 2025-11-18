@@ -949,6 +949,19 @@
 		"status": ""
 	},
 	{
+		"topics": "devops,gitlab,fall2025, devops2605",
+		"language": "en",
+		"duration": "01:08:00",
+		"year": "2025",
+		"rank": "4.994",
+		"url": "https://www.linkedin.com/learning/learning-gitlab-25489521",
+		"title": "Learning GitLab",
+		"description": "Josh Samuelson, solid course",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-learning-gitlab",
+		"status": ""
+	},
+	{
 		"topics": "canvas",
 		"language": "en",
 		"duration": "02:09:00",
@@ -2328,7 +2341,7 @@
 	},
 	{
 		"topics": "docker, devops2605",
-		"language": "eng",
+		"language": "en",
 		"duration": "00:57:00",
 		"year": "2023",
 		"rank": "4.89",

@@ -3,7 +3,7 @@
 https://www.linkedin.com/learning/docker-your-first-project/your-first-docker-project
 
 - duration: 00:57:00
-- language: eng
+- language: en
 - topics: docker, devops2605
 - rank: 4.89
 - description: Shelley Benhoff, about Docker and apps
