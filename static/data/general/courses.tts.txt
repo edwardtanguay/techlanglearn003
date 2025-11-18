@@ -1,5 +1,4 @@
->>create>>containers, devops2605;en;01:06:00;2025;4.81;https://www.linkedin.com/learning/devops-foundations-containers-14207858;DevOps Foundations: Containers;Josh Samuelson, overview of containers
->>nnncreate>>devops,gitlab,fall2025;en;01:08:00;2025;4.994;https://www.linkedin.com/learning/learning-gitlab-25489521;TITLE;Josh Samuelson, solid course
+>>create>>devops,gitlab,fall2025, devops2605;en;01:08:00;2025;4.994;https://www.linkedin.com/learning/learning-gitlab-25489521;Learning GitLab;Josh Samuelson, solid course
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;https://www.linkedin.com/learning/learning-docker-17236240;Learning Docker;Carlos Nunez, black guy, reads but decent info, nginx
 >>nnncreate>>docker;en;06:06:00;2023;4.9999;https://www.linkedin.com/learning/docker-essential-training;Docker Essential Training;Carlos Nunez
 
@@ -24,13 +23,13 @@ https://www.linkedin.com/learning/gitlab-lernen
 Build a CI/CD Pipeline
 https://www.linkedin.com/learning/build-a-ci-cd-pipeline
 
-DevOps Foundations: Containers 
+DevOps Foundations: Containers
 https://www.linkedin.com/learning/devops-foundations-containers-14207858
 
-DevOps Foundations: Continuous Delivery/Continuous Integration 
+DevOps Foundations: Continuous Delivery/Continuous Integration
 https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917
 
-Docker for Developers: Create and Manage Docker Containers 
+Docker for Developers: Create and Manage Docker Containers
 https://www.linkedin.com/learning/docker-for-developers-create-and-manage-docker-containers
 
 - advanced Git: https://www.linkedin.com/learning/gitops-foundations/an-enhanced-approach-to-devops
@@ -1213,3 +1212,4 @@ CREATED: ai;en;01:03:00;2025;4.98;https://www.linkedin.com/learning/10-in-10-ai-
 CREATED: bun;en;00:40:18;2023;4.98;https://www.youtube.com/watch?v=U4JVw8K19uY;Bun Crash Course | JavaScript Runtime, Bundler & Transpiler;Good start to get into Bu
 CREATED: nuxt, nuxt4;en;00:41:24;2025;4.989;https://www.youtube.com/watch?v=RhZZ0whiuT8; Nuxt Crash Course 2025 ;CJ quick course but 2025, before he made his full stack video
 CREATED: docker;eng;00:57:00;2023;4.89;https://www.linkedin.com/learning/docker-your-first-project/your-first-docker-project; Docker: Your First Project ;Shelley Benhoff, about Docker and apps
+CREATED: containers, devops2605;en;01:06:00;2025;4.81;https://www.linkedin.com/learning/devops-foundations-containers-14207858;DevOps Foundations: Containers;Josh Samuelson, overview of containers

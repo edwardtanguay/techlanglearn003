@@ -533,6 +533,19 @@
 		"status": "started"
 	},
 	{
+		"topics": "containers, devops2605",
+		"language": "en",
+		"duration": "01:06:00",
+		"year": "2025",
+		"rank": "4.81",
+		"url": "https://www.linkedin.com/learning/devops-foundations-containers-14207858",
+		"title": "DevOps Foundations: Containers",
+		"description": "Josh Samuelson, overview of containers",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-devops-foundations-containers",
+		"status": ""
+	},
+	{
 		"topics": "python, django, skills2025",
 		"language": "en",
 		"duration": "02:39:00",
