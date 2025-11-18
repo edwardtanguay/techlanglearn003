@@ -299,6 +299,19 @@
 		"status": ""
 	},
 	{
+		"topics": "devops2605",
+		"language": "en",
+		"duration": "07:14:00",
+		"year": "2024",
+		"rank": "4.81",
+		"url": "https://www.linkedin.com/learning/build-a-ci-cd-pipeline",
+		"title": "Build a CI/CD Pipeline",
+		"description": "Pearson, Byron, super-long course, high level, lots of slides",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-build-a-cicd-pipeline",
+		"status": ""
+	},
+	{
 		"topics": "fastapi,fall2025",
 		"language": "en",
 		"duration": "01:11:00",
@@ -543,6 +556,19 @@
 		"description": "Josh Samuelson, overview of containers",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-devops-foundations-containers",
+		"status": ""
+	},
+	{
+		"topics": "devops2605",
+		"language": "en",
+		"duration": "01:54:00",
+		"year": "2025",
+		"rank": "4.83",
+		"url": "https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917",
+		"title": "DevOps Foundations: Continuous Delivery/Continuous Integration",
+		"description": "James and Ernest, higher-level, overview, but new",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-devops-foundations-continuous-deliverycontinuous-integration",
 		"status": ""
 	},
 	{

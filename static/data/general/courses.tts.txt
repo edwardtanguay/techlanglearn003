@@ -1,23 +1,11 @@
 
->>create>>devops2605;en;07:14:00;2024;4.81;https://www.linkedin.com/learning/build-a-ci-cd-pipeline; Build a CI/CD Pipeline ;Pearson, Byron, super-long course, high level, lots of slides
->>create>>devops2605;en;01:54:00;2025;4.83;https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917 ;DevOps Foundations: Continuous Delivery/Continuous Integration;James and Ernest, higher-level, overview, but new
+>>create>>devops2605;en;02:10:00;2025;4.989; https://www.linkedin.com/learning/docker-for-developers-create-and-manage-docker-containers;Docker for Developers: Create and Manage Docker Containers;Docker by Shelley, reads but decent and recent
 
+>>create>>devops2605;en;02:11:00;2021;4.9888; https://www.linkedin.com/learning/gitops-foundations;GitOps Foundations;Kevin Bowersox, GitOps interesting topic
 
->>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
->>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>create>>devops2605,gitlab,fall2025;en;01:33:00;2025;4.997;https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab-24596289; Continuous Integration and Continuous Delivery with GitLab ;Josh and new
 
-
-
-Docker for Developers: Create and Manage Docker Containers
-https://www.linkedin.com/learning/docker-for-developers-create-and-manage-docker-containers
->>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
-
-https://www.linkedin.com/learning/gitops-foundations/an-enhanced-approach-to-devops
->>nnncreate>>devops2605;en;DURATION;YEAR;RANK;URL;TITLE;DESC
-
->>nnncreate>>devops,gitlab,fall2025;en;DURATION;YEAR;RANK;https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab-24596289;TITLE;DESC
-
+>>create>>devops2605, git, gitworkflow, backend25;en;01:04:00;2022;4.81;https://www.linkedin.com/learning/git-workflows;  Git Workflows  ;Kevin, various Git workflows, short but important
 
 FRENCH:
 https://www.linkedin.com/learning/l-essentiel-de-gitlab/bienvenue-dans-l-essentiel-de-gitlab
@@ -34,13 +22,13 @@ GitLab lernen https://www.linkedin.com/learning/gitlab-lernen
 ==============================================
 ==============================================
 
+swagger
+https://www.linkedin.com/learning/building-apis-with-swagger-and-the-openapi-specification/building-apis-with-swagger
 
 react components copilot: https://www.linkedin.com/learning/building-test-driven-react-components-with-copilot/writing-better-react-tests-with-ai
 
 react: https://www.linkedin.com/learning/react-advanced-code-challenges/advanced-code-challenges-in-react
 
-
-docker: https://www.linkedin.com/learning/docker-for-developers-create-and-manage-docker-containers/streamline-development-with-docker
 
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
@@ -1139,7 +1127,6 @@ CREATED: hashicorpvault, backend25;en;00:29:09;2025;4.83;https://www.youtube.com
 CREATED: vim,backend25;en;00:09:43;2022;4.50;https://www.youtube.com/watch?v=qZO9A5F6BZs; Vim As You Editor - Advanced Motions P1 ; Primeagen classic, watched some but there are more tips, watch at some point
 CREATED: neovim,backend25;en;01:04:21;2024;4.92;https://www.youtube.com/watch?v=KYDG3AHgYEs; Full Neovim Setup from Scratch in 2025 ;one hour, organized, uses Kickstart because it sets everything up but is minimal, recent, long
 CREATED: git, backend25;en;00:56:00;2022;4.88;https://www.linkedin.com/learning/8-git-commands-you-should-know-16027523; 8 Git Commands You Should Know ;good to know Git commands
-CREATED: git, gitworkflow, backend25;en;01:04:00;2022;4.81;https://www.linkedin.com/learning/git-workflows;  Git Workflows  ;various Git workflows, short but important
 CREATED: git, backend25;en;00:51:00;2022;4.86;https://www.linkedin.com/learning/coding-exercises-git; Coding Exercises: Git ;Ray Villalobos with many Git tips, good
 CREATED: git, backend25;en;00:47:00;2020;4.85;https://www.linkedin.com/learning/github-quick-tips; GitHub Quick Tips ;more Git tips from Ray Villalobos
 CREATED: git, backend25;en;02:11:00;2021;4.67;https://www.linkedin.com/learning/gitops-foundations; GitOps Foundations ;extended course on Git but with good concepts
@@ -1209,3 +1196,5 @@ CREATED: devops2605, docker;es;02:02:00;2022;4.99999;https://www.linkedin.com/le
 CREATED: devops2605;en;02:06:00;2025;4.95;https://www.linkedin.com/learning/learning-docker-17236240;Learning Docker;Carlos Nunez, reads but decent info, nginx
 CREATED: docker, devops2605;en;06:06:00;2023;4.9999;https://www.linkedin.com/learning/docker-essential-training;Docker Essential Training;Carlos Nunez, long course
 CREATED: devops2605;en;01:20:00;2025;4.7999;https://www.linkedin.com/learning/practical-github-actions;Practical GitHub Actions;Ray Villalobos, new, GitHub but solid
+CREATED: devops2605;en;07:14:00;2024;4.81;https://www.linkedin.com/learning/build-a-ci-cd-pipeline; Build a CI/CD Pipeline ;Pearson, Byron, super-long course, high level, lots of slides
+CREATED: devops2605;en;01:54:00;2025;4.83;https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917 ;DevOps Foundations: Continuous Delivery/Continuous Integration;James and Ernest, higher-level, overview, but new
