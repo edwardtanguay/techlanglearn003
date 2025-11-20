@@ -22,7 +22,15 @@ https://www.linkedin.com/learning/despliegue-de-mysql-con-docker
 
 - scalability, isolation, etc.
 
-## Docker: conceptos fundamentales , 5:13, nnn
+## Docker: conceptos fundamentales , 5:13, 2025-11-19
+
+- docker hub is a docker registry
+
+## Diferencia entre contenedores y máquinas virtuales , 2:36, 2025-11-20
+
+- containers are much lighter
+
+## Instalación de Docker, 3:36, nnn
 
 ## VOCAB - SPANISH
 

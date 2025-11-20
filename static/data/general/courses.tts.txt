@@ -1,3 +1,10 @@
+
+claude
+https://www.linkedin.com/learning/claude-code-4-agentic-coding-for-professional-developers/code-faster-with-professional-agentic-assistance
+
+
+
+
 swagger
 https://www.linkedin.com/learning/building-apis-with-swagger-and-the-openapi-specification/building-apis-with-swagger
 
