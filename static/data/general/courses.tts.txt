@@ -1,8 +1,19 @@
+WHEN YOU HAVE A MONTH:
+https://frontendmasters.com/courses/react-performance-v2/
+https://frontendmasters.com/courses/pro-ai/
+https://frontendmasters.com/courses/tailwind-css-v2/
+https://frontendmasters.com/courses/react-nextjs-state/
+https://frontendmasters.com/courses/pro-css/
+https://frontendmasters.com/courses/spring-boot/
+https://frontendmasters.com/courses/vite/
+https://frontendmasters.com/courses/frontend-system-design/
+https://frontendmasters.com/courses/dev-tools-v4/
+
 
 claude
-https://www.linkedin.com/learning/claude-code-4-agentic-coding-for-professional-developers/code-faster-with-professional-agentic-assistance
 
 
+>>create>>cursor, devops2025;en;00:29:00;2025;4.982; https://www.linkedin.com/learning/accelerate-development-with-artificial-intelligence-and-cursor; Accelerate Development with Artificial Intelligence and Cursor ;Short course to get started in Cursor, March 2025
 
 
 swagger
@@ -13,7 +24,6 @@ react components copilot: https://www.linkedin.com/learning/building-test-driven
 react: https://www.linkedin.com/learning/react-advanced-code-challenges/advanced-code-challenges-in-react
 
 
->>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
@@ -1188,3 +1198,4 @@ CREATED: devops2605, git, gitworkflow, backend25;en;01:04:00;2022;4.81;https://w
 CREATED: devops2605;fr;01:48:00;2023;4.83; https://www.linkedin.com/learning/docker-avance ; Docker avancé ;advanced Docker in French, with Samir
 CREATED: devops2605;fr;01:11:00;2023;4.9995; https://www.linkedin.com/learning/l-essentiel-de-gitlab ; L'essentiel de GitLab ;Julian, French, solid GitLab
 CREATED: devops2605;de;01:02:00;2025;4.98999; https://www.linkedin.com/learning/gitlab-lernen ; GitLab lernen ;Sujeevan, some pipeline
+CREATED: ai, devops2605, claude;en;00:21:00;2025;4.89;https://www.linkedin.com/learning/claude-code-4-agentic-coding-for-professional-developers;Claude Code 4: Agentic Coding for Professional Developers;very new, how to use Claude, by Ray Villalobos

@@ -30,7 +30,19 @@ https://www.linkedin.com/learning/despliegue-de-mysql-con-docker
 
 - containers are much lighter
 
-## Instalación de Docker, 3:36, nnn
+## Instalación de Docker, 3:36, 2025-11-22
+
+- installed on Mac
+
+## Problemas de Docker con Windows: cómo solucionarlos , 5:14, 2025-11-24
+
+- showed a solution to an install problem
+
+## Manejando Docker , 8:40, 2025-11-24
+
+- did: docker pull mysql
+
+## Comandos de Docker , 7:03, nnn
 
 ## VOCAB - SPANISH
 

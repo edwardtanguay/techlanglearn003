@@ -442,6 +442,19 @@
 		"status": ""
 	},
 	{
+		"topics": "ai, devops2605, claude",
+		"language": "en",
+		"duration": "00:21:00",
+		"year": "2025",
+		"rank": "4.89",
+		"url": "https://www.linkedin.com/learning/claude-code-4-agentic-coding-for-professional-developers",
+		"title": "Claude Code 4: Agentic Coding for Professional Developers",
+		"description": "very new, how to use Claude, by Ray Villalobos",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-claude-code-4-agentic-coding-for-professional-developers",
+		"status": "started"
+	},
+	{
 		"topics": "git, backend25",
 		"language": "en",
 		"duration": "00:51:00",
@@ -3185,7 +3198,7 @@
 		"status": "started"
 	},
 	{
-		"topics": "devops,githubActions,fall2025",
+		"topics": "devops2605, devops,githubActions,fall2025",
 		"language": "fr",
 		"duration": "02:03:00",
 		"year": "2023",

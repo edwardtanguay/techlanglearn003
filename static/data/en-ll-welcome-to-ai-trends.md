@@ -10,6 +10,14 @@ https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends
 - year: 2024
 - status: started
 
+## Google Gemini 3 , 9:52, 2025-11-22
+
+- very impressive
+
+## NVIDIA DGX Spark , 2:10, 2025-11-21
+
+- runs Linux, 128GB
+
 ## Kimi K2: The thinking open-source model , 6:59, 2025-11-15
 
 - chinese, excels at doing long-term work on its own, 128K context window
