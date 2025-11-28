@@ -1,7 +1,12 @@
-AI
-	- https://www.linkedin.com/learning/hands-on-mcp-extend-agent-mode-with-vs-code/extending-copilot-with-mcp
-	- https://www.linkedin.com/learning/ai-toolkit-essentials-for-visual-studio-code/streamline-ai-application-development-with-ai-toolkit
+Figma
+https://www.linkedin.com/learning/figma-essential-training-25318166/using-figma-for-ux-design
 
+AI
+- https://www.linkedin.com/learning/hands-on-mcp-extend-agent-mode-with-vs-code/extending-copilot-with-mcp
+- https://www.linkedin.com/learning/ai-toolkit-essentials-for-visual-studio-code/streamline-ai-application-development-with-ai-toolkit
+
+Cursor:
+https://www.linkedin.com/learning/topics/cursor?sortBy=RECENCY
 
 
 

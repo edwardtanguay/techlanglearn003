@@ -10,6 +10,10 @@ https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends
 - year: 2024
 - status: started
 
+## Microsoft Ignite, 8:32, 2025-11-28
+
+- about how Copilot, Work IQ, Fabric IQ, Foundry IQ, and Sora can be used
+
 ## Google Gemini 3 , 9:52, 2025-11-22
 
 - very impressive
