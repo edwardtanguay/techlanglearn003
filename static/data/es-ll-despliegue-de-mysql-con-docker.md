@@ -42,7 +42,15 @@ https://www.linkedin.com/learning/despliegue-de-mysql-con-docker
 
 - did: docker pull mysql
 
-## Comandos de Docker , 7:03, nnn
+## Comandos de Docker , 7:03, 2025-11-30
+
+- tried out the main commands
+
+## Ciclo de vida de un contenedor , 5:33, 2025-12-01
+
+- all the basic container commands
+
+## Beneficios de usar MySQL con Docker , 4:13, nnn
 
 ## VOCAB - SPANISH
 
