@@ -50,10 +50,32 @@ https://www.linkedin.com/learning/despliegue-de-mysql-con-docker
 
 - all the basic container commands
 
-## Beneficios de usar MySQL con Docker , 4:13, nnn
+## Beneficios de usar MySQL con Docker , 4:13, 2025-12-02
 
-## VOCAB - SPANISH
+- sets up a container again
 
-```
+## Requisitos para desplegar MySQL con Docker , 3:14, 2025-12-02
 
-```
+- just talks about installing Docker Desktop again
+
+## Instalar MySQL con Docker , 3:38, 2025-12-02
+
+- she installed the old version mysql/mysql-server
+
+## Verificar que el servicio MySQL está activo , 3:43, 2025-12-02
+
+- more repetitio, but with no docker ps format syntax
+
+## Uso de MySQL desde consola , 4:15, 2025-12-04
+
+- logs into MySQL
+
+## Conectar MySQL con Workbench ; 5:10, 2025-12-16
+
+- after awhile got it to see sys database at least
+
+## Contenedor de MySQL usando volúmenes , 5:15, 2025-12-17
+
+- created volume
+
+## Ejemplo de MySQL en Docker , 5:31, nnn

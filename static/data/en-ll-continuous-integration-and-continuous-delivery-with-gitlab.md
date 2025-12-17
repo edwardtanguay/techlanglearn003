@@ -5,7 +5,7 @@ https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery
 - duration: 01:33:00
 - language: en
 - topics: devops2605,gitlab,fall2025
-- rank: 4.997
+- rank: 4.9999999
 - description: Josh and new
 - year: 2025
 
