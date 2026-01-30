@@ -10,6 +10,26 @@ https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends
 - year: 2024
 - status: started
 
+## Building human in the loop systems , 3:28, 2026-01-24
+
+- data labeling
+
+## Claude Cowork and the future of getting things done , 5:40, 2026-01-20
+
+- only on mac
+
+## Opus 4.5 Context Control fine-tuned for coding , 9:48, 2026-01-18
+
+- enables you to focus on solving problems instead of the code
+
+## Google Gemini 3.0 Flash , 5:45, 2026-01-07
+
+- less expensive than pro
+
+## OpenAI GPT Image 1.5 , 10:45, 2026-01-06
+
+- can now easily make changes
+
 ## Microsoft Ignite, 8:32, 2025-11-28
 
 - about how Copilot, Work IQ, Fabric IQ, Foundry IQ, and Sora can be used

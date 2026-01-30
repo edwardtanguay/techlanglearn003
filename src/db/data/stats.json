@@ -1,11 +1,119 @@
 {
-	"totalDays": 429,
-	"averageDurationPerDay": "00:07:38",
-	"totalDuration": "54:39:23",
+	"totalDays": 456,
+	"averageDurationPerDay": "00:07:22",
+	"totalDuration": "56:02:40",
 	"timeUnits": [
 		{
-			"calendarDate": "2025-12-31",
+			"calendarDate": "2026-01-27",
+			"duration": "00:02:11"
+		},
+		{
+			"calendarDate": "2026-01-26",
 			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2026-01-25",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2026-01-24",
+			"duration": "00:03:28"
+		},
+		{
+			"calendarDate": "2026-01-23",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2026-01-22",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2026-01-21",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2026-01-20",
+			"duration": "00:05:40"
+		},
+		{
+			"calendarDate": "2026-01-19",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2026-01-18",
+			"duration": "00:09:48"
+		},
+		{
+			"calendarDate": "2026-01-17",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2026-01-16",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2026-01-15",
+			"duration": "00:19:27"
+		},
+		{
+			"calendarDate": "2026-01-14",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2026-01-13",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2026-01-12",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2026-01-11",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2026-01-10",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2026-01-09",
+			"duration": "00:08:38"
+		},
+		{
+			"calendarDate": "2026-01-08",
+			"duration": "00:05:24"
+		},
+		{
+			"calendarDate": "2026-01-07",
+			"duration": "00:16:52"
+		},
+		{
+			"calendarDate": "2026-01-06",
+			"duration": "00:10:45"
+		},
+		{
+			"calendarDate": "2026-01-05",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2026-01-04",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2026-01-03",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2026-01-02",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2026-01-01",
+			"duration": "00:00:00"
+		},
+		{
+			"calendarDate": "2025-12-31",
+			"duration": "00:01:04"
 		},
 		{
 			"calendarDate": "2025-12-30",

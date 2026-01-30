@@ -325,6 +325,19 @@
 		"status": ""
 	},
 	{
+		"topics": "ai, devops2605",
+		"language": "en",
+		"duration": "01:32:00",
+		"year": "2025",
+		"rank": "4.89",
+		"url": "https://www.linkedin.com/learning/instructors/laurence-moroney",
+		"title": "Beyond Vibe Coding with Google Gemini: Become a Deliberate Developer",
+		"description": "nice mix of topics",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-beyond-vibe-coding-with-google-gemini-become-a-deliberate-developer",
+		"status": "started"
+	},
+	{
 		"topics": "devops2605",
 		"language": "en",
 		"duration": "07:14:00",
@@ -335,6 +348,19 @@
 		"description": "Pearson, Byron, super-long course, high level, lots of slides",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-build-a-cicd-pipeline",
+		"status": ""
+	},
+	{
+		"topics": "n8n,ai2026",
+		"language": "en",
+		"duration": "01:20:00",
+		"year": "2025",
+		"rank": "4.89",
+		"url": "https://www.linkedin.com/learning/build-ai-agents-with-n8n",
+		"title": "Build AI Agents with n8n",
+		"description": "Looks like a good overview of n8n, but English-only subtitles (2026-01-07)",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-build-ai-agents-with-n8n",
 		"status": ""
 	},
 	{
@@ -361,6 +387,19 @@
 		"description": "watching this for a coding challenge, gives quick overview of Node-RED",
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-build-sap-integration-with-nodered",
+		"status": ""
+	},
+	{
+		"topics": "n8n,ai2026",
+		"language": "en",
+		"duration": "01:18:00",
+		"year": "2025",
+		"rank": "4.77",
+		"url": "https://www.linkedin.com/learning/build-with-ai-create-a-context-aware-multi-agent-system-using-llms-mcp",
+		"title": "Build with AI: Create a Context-Aware Multi-Agent System Using LLMs + MCP",
+		"description": "was my second choice for n8n but has all subtitles",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-build-with-ai-create-a-contextaware-multiagent-system-using-llms-mcp",
 		"status": ""
 	},
 	{
@@ -1220,6 +1259,19 @@
 		"platform": "linkedInLearning",
 		"fileIdCode": "en-ll-nodejs-microservices",
 		"status": "started"
+	},
+	{
+		"topics": "notebooklm, devops2605",
+		"language": "en",
+		"duration": "01:17:00",
+		"year": "2025",
+		"rank": "4.77",
+		"url": "https://www.linkedin.com/learning/notebooklm-for-research/learning-notebooklm-for-research",
+		"title": "NotebookLM for Research",
+		"description": "the longest course on Notebook LM, with a focus on research",
+		"platform": "linkedInLearning",
+		"fileIdCode": "en-ll-notebooklm-for-research",
+		"status": ""
 	},
 	{
 		"topics": "openai, ai, python",
