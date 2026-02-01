@@ -2288,6 +2288,19 @@
 		"status": "finished"
 	},
 	{
+		"topics": "i18n,feb2026",
+		"language": "en",
+		"duration": "00:31:10",
+		"year": "2024",
+		"rank": "4.89",
+		"url": "https://www.youtube.com/watch?v=U4_P_l3L_EA",
+		"title": "React i18next (Complete Tutorial)",
+		"description": "a straight-forward tutorial on i18n, using French/English",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-react-i18next-complete-tutorial",
+		"status": "finished"
+	},
+	{
 		"topics": "react, fiber",
 		"language": "en",
 		"duration": "17:14",
@@ -2444,7 +2457,7 @@
 		"status": "2 minutes of 18"
 	},
 	{
-		"topics": "volta",
+		"topics": "volta,feb2026",
 		"language": "en",
 		"duration": "00:12:01",
 		"year": "2022",
@@ -2454,7 +2467,7 @@
 		"description": "Wanted to see someone using Volta",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-using-volta-to-switch-between-different-versions-of-nodejs",
-		"status": "started"
+		"status": "finished"
 	},
 	{
 		"topics": "vaadin, skills2025",
