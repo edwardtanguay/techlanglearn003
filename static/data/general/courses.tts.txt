@@ -1,3 +1,7 @@
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+>>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
+
 AI
 https://www.linkedin.com/learning/beyond-vibe-coding-with-google-gemini-become-a-deliberate-developer
 
@@ -1244,3 +1248,5 @@ CREATED: notebooklm;en;01:17:00;2025;4.77;https://www.linkedin.com/learning/note
 CREATED: n8n,ai2026;en;01:20:00;2025;4.89;https://www.linkedin.com/learning/build-ai-agents-with-n8n; Build AI Agents with n8n;Looks like a good overview of n8n
 CREATED: n8n,ai2026;en;01:18:00;2025;4.77;https://www.linkedin.com/learning/build-with-ai-create-a-context-aware-multi-agent-system-using-llms-mcp; Build with AI: Create a Context-Aware Multi-Agent System Using LLMs + MCP;was my second choice for n8n but has all subtitles
 CREATED: ai, devops2605;en;01:32:00;2025;4.89;https://www.linkedin.com/learning/instructors/laurence-moroney;Beyond Vibe Coding with Google Gemini: Become a Deliberate Developer;nice mix of topics
+CREATED: volta;en;00:12:01;2022;3.9;https://www.youtube.com/watch?v=eNZAVsUckao; Using Volta to switch between different versions of NodeJS;Wanted to see someone using Volta
+CREATED: ai;en;00:12:22;2026;4.68;https://www.youtube.com/watch?v=-fmNzXCp7zA;Clawdbot just got scary (Moltbook);about social media for bots

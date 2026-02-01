@@ -1794,6 +1794,19 @@
 		"status": ""
 	},
 	{
+		"topics": "ai",
+		"language": "en",
+		"duration": "00:12:22",
+		"year": "2026",
+		"rank": "4.68",
+		"url": "https://www.youtube.com/watch?v=-fmNzXCp7zA",
+		"title": "Clawdbot just got scary (Moltbook)",
+		"description": "about social media for bots",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-clawdbot-just-got-scary-moltbook",
+		"status": "started"
+	},
+	{
 		"topics": "curl,backend25",
 		"language": "en",
 		"duration": "00:15:00",
@@ -2429,6 +2442,19 @@
 		"platform": "youtube",
 		"fileIdCode": "en-yt-use-svelte-5-snippets-to-reuse-markup-without-creating-components",
 		"status": "2 minutes of 18"
+	},
+	{
+		"topics": "volta",
+		"language": "en",
+		"duration": "00:12:01",
+		"year": "2022",
+		"rank": "3.9",
+		"url": "https://www.youtube.com/watch?v=eNZAVsUckao",
+		"title": "Using Volta to switch between different versions of NodeJS",
+		"description": "Wanted to see someone using Volta",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-using-volta-to-switch-between-different-versions-of-nodejs",
+		"status": "started"
 	},
 	{
 		"topics": "vaadin, skills2025",
