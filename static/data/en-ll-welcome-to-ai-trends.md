@@ -10,6 +10,10 @@ https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends
 - year: 2024
 - status: started
 
+## AI app ecosystems: ChatGPT, Claude, and the platform shift, 3:03, 2026-02-01
+
+- Claude uses Gamma for instance
+
 ## Building human in the loop systems , 3:28, 2026-01-24
 
 - data labeling
