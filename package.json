@@ -15,7 +15,9 @@
 		"db:push": "drizzle-kit push",
 		"db:migrate": "drizzle-kit migrate",
 		"db:studio": "drizzle-kit studio",
-		"pd": "cd backend/scripts/parsedata && go run ."
+		"pd": "cd backend/scripts/parsedata && go run .",
+		"gh": "git log --pretty=format:\"%ad | %h | %s\" --date=format:\"%Y-%m-%d %H:%M:%S\"",
+		"backup": "bash -c 'git archive --format=zip HEAD -o \"../BACKUP/techlanglearn003-$(date +%F-%H-%M-%S).zip\"'"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^3.0.0",

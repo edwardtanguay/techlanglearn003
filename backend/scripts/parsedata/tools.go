@@ -121,11 +121,22 @@ func getDateFromLine(line string) string {
 }
 
 func getDurationFromLine(line string) string {
+	// Try to find HH:MM:SS first
+	reTimeFull := regexp.MustCompile(`(\d{1,2}):(\d{2}):(\d{2})`)
+	matchFull := reTimeFull.FindStringSubmatch(line)
+	if matchFull != nil {
+		hours, _ := strconv.Atoi(matchFull[1])
+		minutes, _ := strconv.Atoi(matchFull[2])
+		seconds, _ := strconv.Atoi(matchFull[3])
+		return fmt.Sprintf("%02d:%02d:%02d", hours, minutes, seconds)
+	}
+
 	re := regexp.MustCompile(`^\d{2}:\d{2}:\d{2}$`)
 	if re.MatchString(line) {
 		return line
 	}
 
+	// Fallback to MM:SS
 	reTime := regexp.MustCompile(`(\d{1,2}):(\d{2})`)
 	match := reTime.FindStringSubmatch(line)
 	if match == nil {
