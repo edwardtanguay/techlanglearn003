@@ -7,14 +7,11 @@
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 
->>create>>nuxt,feb2025;en;00:05:20;2025;4.99;https://www.youtube.com/watch?v=9dI_FENApz0;Everything New in Nuxt 4 — Should You Switch?;Quick video on new features in Nuxt
->>create>>nuxt,feb2025;en;00:18:19;2025;4.99;https://www.youtube.com/watch?v=rCT54d8sMWk;Nuxt 4 - An overview!;Longer overview of Nuxt 4
-
->>create>>nuxt,feb2025;en;00:42:20;2025;4.94;https://www.youtube.com/watch?v=5oKpoqmUj64;Modern Vue.js Crash Course 2025 | with TypeScript + script setup + Composition API;CJ for 40 minutes, good overview of Frontend Vue
 
 
-		- Nuxt3 from 04.2025 (syntax), large project, sqlite https://www.youtube.com/watch?v=RhZZ0whiuT8
-		- Nuxt3 from 04.2025 (syntax), drizzle, turso, huge map project https://www.youtube.com/watch?v=DK93dqmJJYg
+
+- Nuxt3 from 04.2025 (syntax), large project, sqlite https://www.youtube.com/watch?v=RhZZ0whiuT8
+- Nuxt3 from 04.2025 (syntax), drizzle, turso, huge map project https://www.youtube.com/watch?v=DK93dqmJJYg
 
 
 
@@ -1268,3 +1265,6 @@ CREATED: ai, devops2605;en;01:32:00;2025;4.89;https://www.linkedin.com/learning/
 CREATED: volta;en;00:12:01;2022;3.9;https://www.youtube.com/watch?v=eNZAVsUckao; Using Volta to switch between different versions of NodeJS;Wanted to see someone using Volta
 CREATED: ai;en;00:12:22;2026;4.68;https://www.youtube.com/watch?v=-fmNzXCp7zA;Clawdbot just got scary (Moltbook);about social media for bots
 CREATED: i18n;en;00:31:10;2024;4.89;https://www.youtube.com/watch?v=U4_P_l3L_EA;React i18next (Complete Tutorial);a straight-forward tutorial on i18n, using French/English
+CREATED: nuxt,feb2025;en;00:05:20;2025;4.99;https://www.youtube.com/watch?v=9dI_FENApz0;Everything New in Nuxt 4 — Should You Switch?;Quick video on new features in Nuxt
+CREATED: nuxt,feb2025;en;00:18:19;2025;4.99;https://www.youtube.com/watch?v=rCT54d8sMWk;Nuxt 4 - An overview!;Longer overview of Nuxt 4
+CREATED: nuxt,feb2025;en;00:42:20;2025;4.94;https://www.youtube.com/watch?v=5oKpoqmUj64;Modern Vue.js Crash Course 2025 | with TypeScript + script setup + Composition API;CJ for 40 minutes, good overview of Frontend Vue

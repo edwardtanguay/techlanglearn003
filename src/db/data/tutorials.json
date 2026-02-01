@@ -1846,6 +1846,19 @@
 		"status": ""
 	},
 	{
+		"topics": "nuxt,feb2026",
+		"language": "en",
+		"duration": "00:05:20",
+		"year": "2025",
+		"rank": "4.99",
+		"url": "https://www.youtube.com/watch?v=9dI_FENApz0",
+		"title": "Everything New in Nuxt 4 — Should You Switch?",
+		"description": "Quick video on new features in Nuxt",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-everything-new-in-nuxt-4-should-you-switch",
+		"status": ""
+	},
+	{
 		"topics": "orbstack, backend25",
 		"language": "en",
 		"duration": "00:16:41",
@@ -2171,6 +2184,19 @@
 		"status": ""
 	},
 	{
+		"topics": "nuxt,feb2026",
+		"language": "en",
+		"duration": "00:42:20",
+		"year": "2025",
+		"rank": "4.94",
+		"url": "https://www.youtube.com/watch?v=5oKpoqmUj64",
+		"title": "Modern Vue.js Crash Course 2025 | with TypeScript + script setup + Composition API",
+		"description": "CJ for 40 minutes, good overview of Frontend Vue",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-modern-vuejs-crash-course-2025-with-typescript-script-setup-composition-api",
+		"status": ""
+	},
+	{
 		"topics": "mac,backend25",
 		"language": "en",
 		"duration": "00:08:44",
@@ -2181,6 +2207,19 @@
 		"description": "quick and good tips (Snapper, etc.)",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-my-mac-coding-setup-full-stack-web-dev-mobile-app-dev",
+		"status": ""
+	},
+	{
+		"topics": "nuxt,feb2026",
+		"language": "en",
+		"duration": "00:18:19",
+		"year": "2025",
+		"rank": "4.98",
+		"url": "https://www.youtube.com/watch?v=rCT54d8sMWk",
+		"title": "Nuxt 4 - An overview!",
+		"description": "Longer overview of Nuxt 4",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-nuxt-4-an-overview",
 		"status": ""
 	},
 	{
