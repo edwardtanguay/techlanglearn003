@@ -8,7 +8,8 @@ https://www.youtube.com/watch?v=rCT54d8sMWk
 - rank: 4.98
 - description: Longer overview of Nuxt 4
 - year: 2025
+- status: finished
 
 ## watchlog
 
-2025-11-02 - 00:00
+2026-02-01 - 18:19

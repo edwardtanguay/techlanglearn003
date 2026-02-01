@@ -1856,7 +1856,7 @@
 		"description": "Quick video on new features in Nuxt",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-everything-new-in-nuxt-4-should-you-switch",
-		"status": ""
+		"status": "finished"
 	},
 	{
 		"topics": "orbstack, backend25",
@@ -2220,7 +2220,7 @@
 		"description": "Longer overview of Nuxt 4",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-nuxt-4-an-overview",
-		"status": ""
+		"status": "finished"
 	},
 	{
 		"topics": "nuxt, nuxt4",
