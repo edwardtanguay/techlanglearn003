@@ -11,4 +11,4 @@ https://www.youtube.com/watch?v=5oKpoqmUj64
 
 ## watchlog
 
-2025-11-02 - 00:00
+2026-02-01 - 20:28 creating second component
