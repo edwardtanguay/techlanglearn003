@@ -8,7 +8,9 @@ https://www.youtube.com/watch?v=5oKpoqmUj64
 - rank: 4.94
 - description: CJ for 40 minutes, good overview of Frontend Vue
 - year: 2025
+- status: finished
 
 ## watchlog
 
-2026-02-01 - 20:28 creating second component
+2026-02-01 - 18:10 finished
+2026-02-02 - 42:20 finished
