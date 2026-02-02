@@ -11,9 +11,8 @@ You Should Use Maps and Sets in JS
 https://www.youtube.com/watch?v=De6JOU9yaGM
 
 
+>>create>>nuxt,feb2026;en;11:41:17;2025;4.999;https://www.youtube.com/watch?v=DK93dqmJJYg; Full Stack App Build | Travel Log w/ Nuxt3, Vue, Better Auth, Drizzle, Tailwind, DaisyUI, MapLibre ;CJ/Syntax with a marathon tutorial, 11 hours
 
->>create>>nuxt,feb2026;en;00:41:24;2025;4.95;https://www.youtube.com/watch?v=RhZZ0whiuT8; Nuxt Crash Course 2025 ; Nuxt3 from 04.2025 (CJ, Syntax), large project, sqlite 
-- Nuxt3 from 04.2025 (syntax), drizzle, turso, huge map project https://www.youtube.com/watch?v=DK93dqmJJYg
 
 
 
@@ -1270,3 +1269,4 @@ CREATED: i18n;en;00:31:10;2024;4.89;https://www.youtube.com/watch?v=U4_P_l3L_EA;
 CREATED: nuxt,feb2025;en;00:05:20;2025;4.99;https://www.youtube.com/watch?v=9dI_FENApz0;Everything New in Nuxt 4 — Should You Switch?;Quick video on new features in Nuxt
 CREATED: nuxt,feb2025;en;00:18:19;2025;4.99;https://www.youtube.com/watch?v=rCT54d8sMWk;Nuxt 4 - An overview!;Longer overview of Nuxt 4
 CREATED: nuxt,feb2025;en;00:42:20;2025;4.94;https://www.youtube.com/watch?v=5oKpoqmUj64;Modern Vue.js Crash Course 2025 | with TypeScript + script setup + Composition API;CJ for 40 minutes, good overview of Frontend Vue
+CREATED: nuxt,feb2026;en;00:41:24;2025;4.95;https://www.youtube.com/watch?v=RhZZ0whiuT8; Nuxt Crash Course 2025 ; Nuxt3 from 04.2025 (CJ, Syntax), large project, sqlite
