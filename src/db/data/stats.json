@@ -1,8 +1,12 @@
 {
-	"totalDays": 462,
-	"averageDurationPerDay": "00:07:28",
-	"totalDuration": "57:36:06",
+	"totalDays": 463,
+	"averageDurationPerDay": "00:07:27",
+	"totalDuration": "57:36:09",
 	"timeUnits": [
+		{
+			"calendarDate": "2026-02-03",
+			"duration": "00:00:03"
+		},
 		{
 			"calendarDate": "2026-02-02",
 			"duration": "00:24:10"

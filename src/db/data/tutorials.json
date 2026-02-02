@@ -1885,6 +1885,19 @@
 		"status": ""
 	},
 	{
+		"topics": "nuxt,feb2026",
+		"language": "en",
+		"duration": "11:41:17",
+		"year": "2025",
+		"rank": "4.999",
+		"url": "https://www.youtube.com/watch?v=DK93dqmJJYg",
+		"title": "Full Stack App Build | Travel Log w/ Nuxt3, Vue, Better Auth, Drizzle, Tailwind, DaisyUI, MapLibre",
+		"description": "CJ/Syntax with a marathon tutorial, 11 hours",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-full-stack-app-build-travel-log-w-nuxt3-vue-better-auth-drizzle-tailwind-daisyui-maplibre",
+		"status": "started"
+	},
+	{
 		"topics": "hashicorpnomad, backend25",
 		"language": "en",
 		"duration": "00:04:52",
