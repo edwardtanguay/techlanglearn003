@@ -7,10 +7,12 @@
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 
+You Should Use Maps and Sets in JS
+https://www.youtube.com/watch?v=De6JOU9yaGM
 
 
 
-- Nuxt3 from 04.2025 (syntax), large project, sqlite https://www.youtube.com/watch?v=RhZZ0whiuT8
+>>create>>nuxt,feb2026;en;00:41:24;2025;4.95;https://www.youtube.com/watch?v=RhZZ0whiuT8; Nuxt Crash Course 2025 ; Nuxt3 from 04.2025 (CJ, Syntax), large project, sqlite 
 - Nuxt3 from 04.2025 (syntax), drizzle, turso, huge map project https://www.youtube.com/watch?v=DK93dqmJJYg
 
 
