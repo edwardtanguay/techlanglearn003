@@ -1895,7 +1895,7 @@
 		"description": "CJ/Syntax with a marathon tutorial, 11 hours",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-full-stack-app-build-travel-log-w-nuxt3-vue-better-auth-drizzle-tailwind-daisyui-maplibre",
-		"status": "started"
+		"status": ""
 	},
 	{
 		"topics": "hashicorpnomad, backend25",
@@ -2246,7 +2246,7 @@
 		"description": "Nuxt3 from 04.2025 (CJ, Syntax), large project, sqlite",
 		"platform": "youtube",
 		"fileIdCode": "en-yt-nuxt-crash-course-2025",
-		"status": ""
+		"status": "started"
 	},
 	{
 		"topics": "owasp, frontend25, fall2025",
