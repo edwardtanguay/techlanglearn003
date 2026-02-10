@@ -7,10 +7,10 @@
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 
-You Should Use Maps and Sets in JS
-https://www.youtube.com/watch?v=De6JOU9yaGM
 
 
+
+>>create>>JavaScript;en;00:14:27;2024;4.76;https://www.youtube.com/watch?v=De6JOU9yaGM;You Should Use Maps and Sets in JS;CJ on maps and sets
 
 
 
