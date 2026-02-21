@@ -2587,6 +2587,19 @@
 		"status": "finished"
 	},
 	{
+		"topics": "JavaScript,feb2026",
+		"language": "en",
+		"duration": "00:14:27",
+		"year": "2024",
+		"rank": "4.76",
+		"url": "https://www.youtube.com/watch?v=De6JOU9yaGM",
+		"title": "You Should Use Maps and Sets in JS",
+		"description": "CJ on maps and sets",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-you-should-use-maps-and-sets-in-js",
+		"status": "finished"
+	},
+	{
 		"topics": "zed, backend25",
 		"language": "en",
 		"duration": "00:10:34",
