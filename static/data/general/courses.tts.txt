@@ -6,7 +6,7 @@
 >>nnncreate>>TECH;LANG;DURATION;YEAR;RANK;URL;TITLE;DESC
 
 
->>create>>tanstack,dpod2026;en;01:03:08;2025;4.77;https://www.youtube.com/watch?v=KsHbs5RMVYU;Learn Tanstack Start In 60 Minutes;Go TypeScript/Tailwind intro with Kyle doing a task app
+ASTRO: https://www.youtube.com/watch?v=CF3drb6H3Yw
 
 
 
@@ -1272,3 +1272,5 @@ CREATED: nuxt,feb2025;en;00:42:20;2025;4.94;https://www.youtube.com/watch?v=5oKp
 CREATED: nuxt,feb2026;en;00:41:24;2025;4.95;https://www.youtube.com/watch?v=RhZZ0whiuT8; Nuxt Crash Course 2025 ; Nuxt3 from 04.2025 (CJ, Syntax), large project, sqlite
 CREATED: nuxt,feb2026;en;11:41:17;2025;4.999;https://www.youtube.com/watch?v=DK93dqmJJYg; Full Stack App Build | Travel Log w/ Nuxt3, Vue, Better Auth, Drizzle, Tailwind, DaisyUI, MapLibre ;CJ/Syntax with a marathon tutorial, 11 hours
 CREATED: JavaScript;en;00:14:27;2024;4.76;https://www.youtube.com/watch?v=De6JOU9yaGM;You Should Use Maps and Sets in JS;CJ on maps and sets
+CREATED: tanstack,dpod2026;en;01:03:08;2025;4.77;https://www.youtube.com/watch?v=KsHbs5RMVYU;Learn Tanstack Start In 60 Minutes;Go TypeScript/Tailwind intro with Kyle doing a task app
+CREATED: nuxt,testing,dpod2026;en;00:20:05;2024;4.7;https://www.youtube.com/watch?v=yGzwk9xi9gU;Nuxt Test Utils - A Primer to Testing in Nuxt;the recommended video from Nuxt but a bit simple

@@ -2145,6 +2145,19 @@
 		"status": "finished"
 	},
 	{
+		"topics": "tanstack,dpod2026",
+		"language": "en",
+		"duration": "01:03:08",
+		"year": "2025",
+		"rank": "4.77",
+		"url": "https://www.youtube.com/watch?v=KsHbs5RMVYU",
+		"title": "Learn Tanstack Start In 60 Minutes",
+		"description": "Go TypeScript/Tailwind intro with Kyle doing a task app",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-learn-tanstack-start-in-60-minutes",
+		"status": "started"
+	},
+	{
 		"topics": "trpc",
 		"language": "en",
 		"duration": "00:45:35",
@@ -2247,6 +2260,19 @@
 		"platform": "youtube",
 		"fileIdCode": "en-yt-nuxt-crash-course-2025",
 		"status": "started"
+	},
+	{
+		"topics": "nuxt,testing,dpod2026",
+		"language": "en",
+		"duration": "00:20:05",
+		"year": "2024",
+		"rank": "4.7",
+		"url": "https://www.youtube.com/watch?v=yGzwk9xi9gU",
+		"title": "Nuxt Test Utils - A Primer to Testing in Nuxt",
+		"description": "the recommended video from Nuxt but a bit simple, only does unit and e2e",
+		"platform": "youtube",
+		"fileIdCode": "en-yt-nuxt-test-utils-a-primer-to-testing-in-nuxt",
+		"status": "finished"
 	},
 	{
 		"topics": "owasp, frontend25, fall2025",
